@@ -1,0 +1,16 @@
+
+max_results: 20
+
+# file paths
+json_readme_path: './docs/tts-arxiv-daily.json'
+
+md_readme_path: 'README.md'
+
+
+# keywords to search
+# keywords to search
+keywords:
+    "TTS Papers":
+        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
+
+
