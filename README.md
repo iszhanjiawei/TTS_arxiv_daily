@@ -15,8 +15,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
+|**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|null|
 |**2025-07-28**|**AV-Deepfake1M++: A Large-Scale Audio-Visual Deepfake Benchmark with Real-World Perturbations**|Zhixi Cai et.al.|[2507.20579](http://arxiv.org/abs/2507.20579)|null|
 |**2025-07-28**|**BENYO-S2ST-Corpus-1: A Bilingual English-to-Yoruba Direct Speech-to-Speech Translation Corpus**|Emmanuel Adetiba et.al.|[2507.09342](http://arxiv.org/abs/2507.09342)|null|
+|**2025-07-28**|**EL CMi: confirmation of triaxial pulsation theory**|G. Handler et.al.|[2507.21255](http://arxiv.org/abs/2507.21255)|null|
 |**2025-07-27**|**Towards Generalized Parameter Tuning in Coherent Ising Machines: A Portfolio-Based Approach**|Tatsuro Hanyu et.al.|[2507.20295](http://arxiv.org/abs/2507.20295)|null|
 |**2025-07-27**|**Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech**|Taesoo Kim et.al.|[2507.20140](http://arxiv.org/abs/2507.20140)|null|
 |**2025-07-27**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
@@ -37,10 +39,12 @@
 |**2025-07-23**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134](http://arxiv.org/abs/2506.04134)|null|
 |**2025-07-23**|**Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**|Yifan Yang et.al.|[2504.10352](http://arxiv.org/abs/2504.10352)|null|
 |**2025-07-23**|**Cross-domain Multi-step Thinking: Zero-shot Fine-grained Traffic Sign Recognition in the Wild**|Yaozong Gan et.al.|[2409.01534](http://arxiv.org/abs/2409.01534)|null|
+|**2025-07-23**|**WaveVerify: A Novel Audio Watermarking Framework for Media Authentication and Combatting Deepfakes**|Aditya Pujari et.al.|[2507.21150](http://arxiv.org/abs/2507.21150)|null|
 |**2025-07-22**|**SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling**|Yi Guo et.al.|[2507.16884](http://arxiv.org/abs/2507.16884)|null|
 |**2025-07-22**|**Technical report: Impact of Duration Prediction on Speaker-specific TTS for Indian Languages**|Isha Pandey et.al.|[2507.16875](http://arxiv.org/abs/2507.16875)|null|
 |**2025-07-22**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
 |**2025-07-22**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
+|**2025-07-22**|**TTS-1 Technical Report**|Oleg Atamanenko et.al.|[2507.21138](http://arxiv.org/abs/2507.21138)|null|
 |**2025-07-21**|**Step-level Verifier-guided Hybrid Test-Time Scaling for Large Language Models**|Kaiyan Chang et.al.|[2507.15512](http://arxiv.org/abs/2507.15512)|null|
 |**2025-07-21**|**Lunar and Terrestrial Time Transformation Based on the Principle of General Relativity**|Min Liu et.al.|[2507.15456](http://arxiv.org/abs/2507.15456)|null|
 |**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
