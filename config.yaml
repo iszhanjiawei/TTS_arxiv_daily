@@ -11,6 +11,6 @@ md_readme_path: 'README.md'
 # keywords to search
 keywords:
     "TTS Papers":
-        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
+        filters: ["TTS", "Text to speech", "TEXT-TO-SPEECH", "Text-to-Speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS", "text-to-speech"]
 
 
