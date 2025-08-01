@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-31**|**Search for $t\bar tt\bar tW$ Production at $\sqrt{s} = 13$ TeV Using a Modified Graph Neural Network at the LHC**|Syed Haider Ali et.al.|[2507.23723](http://arxiv.org/abs/2507.23723)|null|
 |**2025-07-30**|**BENYO-S2ST-Corpus-1: A Bilingual English-to-Yoruba Direct Speech-to-Speech Translation Corpus**|Emmanuel Adetiba et.al.|[2507.09342](http://arxiv.org/abs/2507.09342)|null|
 |**2025-07-30**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
+|**2025-07-30**|**Investigating the Invertibility of Multimodal Latent Spaces: Limitations of Optimization-Based Methods**|Siwoo Park et.al.|[2507.23010](http://arxiv.org/abs/2507.23010)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
 |**2025-07-29**|**SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods**|Wen Huang et.al.|[2507.21463](http://arxiv.org/abs/2507.21463)|null|
 |**2025-07-29**|**High-Precision Relativistic Time Scales for Cislunar Navigation**|Slava G. Turyshev et.al.|[2507.22145](http://arxiv.org/abs/2507.22145)|null|
