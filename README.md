@@ -15,6 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
+|**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
 |**2025-07-31**|**Search for $t\bar tt\bar tW$ Production at $\sqrt{s} = 13$ TeV Using a Modified Graph Neural Network at the LHC**|Syed Haider Ali et.al.|[2507.23723](http://arxiv.org/abs/2507.23723)|null|
 |**2025-07-30**|**BENYO-S2ST-Corpus-1: A Bilingual English-to-Yoruba Direct Speech-to-Speech Translation Corpus**|Emmanuel Adetiba et.al.|[2507.09342](http://arxiv.org/abs/2507.09342)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
