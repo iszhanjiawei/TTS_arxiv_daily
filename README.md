@@ -1,4 +1,4 @@
-## Updated on 2025.08.03
+## Updated on 2025.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-31**|**Search for $t\bar tt\bar tW$ Production at $\sqrt{s} = 13$ TeV Using a Modified Graph Neural Network at the LHC**|Syed Haider Ali et.al.|[2507.23723](http://arxiv.org/abs/2507.23723)|null|
 |**2025-07-30**|**BENYO-S2ST-Corpus-1: A Bilingual English-to-Yoruba Direct Speech-to-Speech Translation Corpus**|Emmanuel Adetiba et.al.|[2507.09342](http://arxiv.org/abs/2507.09342)|null|
-|**2025-07-30**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
 |**2025-07-30**|**Investigating the Invertibility of Multimodal Latent Spaces: Limitations of Optimization-Based Methods**|Siwoo Park et.al.|[2507.23010](http://arxiv.org/abs/2507.23010)|null|
 |**2025-07-29**|**JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1**|Xinhan Di et.al.|[2507.20987](http://arxiv.org/abs/2507.20987)|null|
@@ -907,5 +907,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250804>back to top</a>)</p>
 
