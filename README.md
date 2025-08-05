@@ -14,8 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-04**|**Inference-time Scaling for Diffusion-based Audio Super-resolution**|Yizhu Jin et.al.|[2508.02391](http://arxiv.org/abs/2508.02391)|null|
+|**2025-08-04**|**Classical-to-Quantum Crossover in 2D TMD Field-Effect Transistors: A First-Principles Study via Sub-10 nm Channel Scaling Beyond the Boltzmann Tyranny**|Yu-Chang Chen et.al.|[2508.02380](http://arxiv.org/abs/2508.02380)|null|
+|**2025-08-04**|**The tensor triangular geometry of fully faithful functors**|Beren Sanders et.al.|[2508.02105](http://arxiv.org/abs/2508.02105)|null|
+|**2025-08-04**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
+|**2025-08-03**|**Enhancing Spectrogram Realism in Singing Voice Synthesis via Explicit Bandwidth Extension Prior to Vocoder**|Runxuan Yang et.al.|[2508.01796](http://arxiv.org/abs/2508.01796)|null|
+|**2025-08-03**|**Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe**|Tiantian Feng et.al.|[2508.01691](http://arxiv.org/abs/2508.01691)|null|
+|**2025-08-03**|**Modified Distance Ratio Metrics via Domain Diameter and their geometric implications**|Bibekananda Maji et.al.|[2508.01607](http://arxiv.org/abs/2508.01607)|null|
 |**2025-08-01**|**Next Tokens Denoising for Speech Synthesis**|Yanqing Liu et.al.|[2507.22746](http://arxiv.org/abs/2507.22746)|null|
 |**2025-08-01**|**Advancing Speech Quality Assessment Through Scientific Challenges and Open-source Activities**|Wen-Chin Huang et.al.|[2508.00317](http://arxiv.org/abs/2508.00317)|null|
+|**2025-08-01**|**TensoMeta-VQC: A Tensor-Train-Guided Meta-Learning Framework for Robust and Scalable Variational Quantum Computing**|Jun Qi et.al.|[2508.01116](http://arxiv.org/abs/2508.01116)|null|
+|**2025-08-01**|**Benders Decomposition using Graph Modeling and Multi-Parametric Programming**|Parth Brahmbhatt et.al.|[2508.01100](http://arxiv.org/abs/2508.01100)|null|
 |**2025-07-31**|**Search for $t\bar tt\bar tW$ Production at $\sqrt{s} = 13$ TeV Using a Modified Graph Neural Network at the LHC**|Syed Haider Ali et.al.|[2507.23723](http://arxiv.org/abs/2507.23723)|null|
 |**2025-07-30**|**BENYO-S2ST-Corpus-1: A Bilingual English-to-Yoruba Direct Speech-to-Speech Translation Corpus**|Emmanuel Adetiba et.al.|[2507.09342](http://arxiv.org/abs/2507.09342)|null|
 |**2025-07-30**|**Adaptive Duration Model for Text Speech Alignment**|Junjie Cao et.al.|[2507.22612](http://arxiv.org/abs/2507.22612)|null|
