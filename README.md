@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-05**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-05**|**CTTS: Collective Test-Time Scaling**|Zhende Song et.al.|[2508.03333](http://arxiv.org/abs/2508.03333)|null|
+|**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|null|
+|**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-04**|**Inference-time Scaling for Diffusion-based Audio Super-resolution**|Yizhu Jin et.al.|[2508.02391](http://arxiv.org/abs/2508.02391)|null|
 |**2025-08-04**|**Classical-to-Quantum Crossover in 2D TMD Field-Effect Transistors: A First-Principles Study via Sub-10 nm Channel Scaling Beyond the Boltzmann Tyranny**|Yu-Chang Chen et.al.|[2508.02380](http://arxiv.org/abs/2508.02380)|null|
 |**2025-08-04**|**The tensor triangular geometry of fully faithful functors**|Beren Sanders et.al.|[2508.02105](http://arxiv.org/abs/2508.02105)|null|
@@ -40,6 +44,7 @@
 |**2025-07-27**|**FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2505.14351](http://arxiv.org/abs/2505.14351)|null|
 |**2025-07-26**|**Defining ethically sourced code generation**|Zhuolin Xu et.al.|[2507.19743](http://arxiv.org/abs/2507.19743)|null|
 |**2025-07-26**|**Zero-Shot Text-to-Speech as Golden Speech Generator: A Systematic Framework and its Applicability in Automatic Pronunciation Assessment**|Tien-Hong Lo et.al.|[2409.07151](http://arxiv.org/abs/2409.07151)|null|
+|**2025-07-26**|**AgentTTS: Large Language Model Agent for Test-time Compute-optimal Scaling Strategy in Complex Tasks**|Fali Wang et.al.|[2508.00890](http://arxiv.org/abs/2508.00890)|null|
 |**2025-07-25**|**FD-Bench: A Full-Duplex Benchmarking Pipeline Designed for Full Duplex Spoken Dialogue Systems**|Yizhou Peng et.al.|[2507.19040](http://arxiv.org/abs/2507.19040)|null|
 |**2025-07-25**|**GOAT-SLM: A Spoken Language Model with Paralinguistic and Speaker Characteristic Awareness**|Hongjie Chen et.al.|[2507.18119](http://arxiv.org/abs/2507.18119)|null|
 |**2025-07-25**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
