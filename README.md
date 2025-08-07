@@ -1,4 +1,4 @@
-## Updated on 2025.08.06
+## Updated on 2025.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,14 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-05**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
+|**2025-08-06**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
+|**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-05**|**CTTS: Collective Test-Time Scaling**|Zhende Song et.al.|[2508.03333](http://arxiv.org/abs/2508.03333)|null|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|null|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-04**|**Inference-time Scaling for Diffusion-based Audio Super-resolution**|Yizhu Jin et.al.|[2508.02391](http://arxiv.org/abs/2508.02391)|null|
 |**2025-08-04**|**Classical-to-Quantum Crossover in 2D TMD Field-Effect Transistors: A First-Principles Study via Sub-10 nm Channel Scaling Beyond the Boltzmann Tyranny**|Yu-Chang Chen et.al.|[2508.02380](http://arxiv.org/abs/2508.02380)|null|
 |**2025-08-04**|**The tensor triangular geometry of fully faithful functors**|Beren Sanders et.al.|[2508.02105](http://arxiv.org/abs/2508.02105)|null|
-|**2025-08-04**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-03**|**Enhancing Spectrogram Realism in Singing Voice Synthesis via Explicit Bandwidth Extension Prior to Vocoder**|Runxuan Yang et.al.|[2508.01796](http://arxiv.org/abs/2508.01796)|null|
 |**2025-08-03**|**Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe**|Tiantian Feng et.al.|[2508.01691](http://arxiv.org/abs/2508.01691)|null|
 |**2025-08-03**|**Modified Distance Ratio Metrics via Domain Diameter and their geometric implications**|Bibekananda Maji et.al.|[2508.01607](http://arxiv.org/abs/2508.01607)|null|
@@ -922,5 +922,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250807>back to top</a>)</p>
 
