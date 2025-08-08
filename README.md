@@ -15,16 +15,21 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
+|**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
+|**2025-08-07**|**Probing lepton flavor violating dark matter scenarios via astrophysical photons and positrons**|Jin-Han Liang et.al.|[2508.05121](http://arxiv.org/abs/2508.05121)|null|
+|**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-06**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
 |**2025-08-06**|**The State Of TTS: A Case Study with Human Fooling Rates**|Praveen Srinivasa Varadhan et.al.|[2508.04179](http://arxiv.org/abs/2508.04179)|null|
 |**2025-08-06**|**Multilingual Source Tracing of Speech Deepfakes: A First Benchmark**|Xi Xuan et.al.|[2508.04143](http://arxiv.org/abs/2508.04143)|null|
 |**2025-08-06**|**Parallel GPT: Harmonizing the Independence and Interdependence of Acoustic and Semantic Information for Zero-Shot Text-to-Speech**|Jingyuan Xing et.al.|[2508.04141](http://arxiv.org/abs/2508.04141)|null|
+|**2025-08-06**|**Root Cause Analysis Training for Healthcare Professionals With AI-Powered Virtual Simulation: A Proof-of-Concept**|Yuqi Hu et.al.|[2508.04904](http://arxiv.org/abs/2508.04904)|null|
 |**2025-08-05**|**CTTS: Collective Test-Time Scaling**|Zhende Song et.al.|[2508.03333](http://arxiv.org/abs/2508.03333)|null|
 |**2025-08-05**|**MiSTR: Multi-Modal iEEG-to-Speech Synthesis with Transformer-Based Prosody Prediction and Neural Phase Reconstruction**|Mohammed Salah Al-Radhi et.al.|[2508.03166](http://arxiv.org/abs/2508.03166)|null|
 |**2025-08-05**|**Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback**|Jingyi Chen et.al.|[2508.03123](http://arxiv.org/abs/2508.03123)|null|
 |**2025-08-05**|**TROOP: At-the-Roofline Performance for Vector Processors on Low Operational Intensity Workloads**|Navaneeth Kunhi Purayil et.al.|[2508.03900](http://arxiv.org/abs/2508.03900)|null|
+|**2025-08-05**|**Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS**|Vignesh Ethiraj et.al.|[2508.04721](http://arxiv.org/abs/2508.04721)|null|
 |**2025-08-04**|**Inference-time Scaling for Diffusion-based Audio Super-resolution**|Yizhu Jin et.al.|[2508.02391](http://arxiv.org/abs/2508.02391)|null|
 |**2025-08-04**|**Classical-to-Quantum Crossover in 2D TMD Field-Effect Transistors: A First-Principles Study via Sub-10 nm Channel Scaling Beyond the Boltzmann Tyranny**|Yu-Chang Chen et.al.|[2508.02380](http://arxiv.org/abs/2508.02380)|null|
 |**2025-08-04**|**The tensor triangular geometry of fully faithful functors**|Beren Sanders et.al.|[2508.02105](http://arxiv.org/abs/2508.02105)|null|
