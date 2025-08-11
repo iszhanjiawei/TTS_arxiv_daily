@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457](http://arxiv.org/abs/2508.06457)|null|
+|**2025-08-08**|**Improved Dysarthric Speech to Text Conversion via TTS Personalization**|Péter Mihajlik et.al.|[2508.06391](http://arxiv.org/abs/2508.06391)|null|
+|**2025-08-08**|**Large Language Model Data Generation for Enhanced Intent Recognition in German Speech**|Theresa Pekarek Rosin et.al.|[2508.06277](http://arxiv.org/abs/2508.06277)|null|
+|**2025-08-08**|**Llasa+: Free Lunch for Accelerated and Streaming Llama-Based Speech Synthesis**|Wenjie Tian et.al.|[2508.06262](http://arxiv.org/abs/2508.06262)|null|
+|**2025-08-08**|**NEP: Autoregressive Image Editing via Next Editing Token Prediction**|Huimin Wu et.al.|[2508.06044](http://arxiv.org/abs/2508.06044)|null|
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
 |**2025-08-07**|**Probing lepton flavor violating dark matter scenarios via astrophysical photons and positrons**|Jin-Han Liang et.al.|[2508.05121](http://arxiv.org/abs/2508.05121)|null|
