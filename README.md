@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-11**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
+|**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
+|**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](http://arxiv.org/abs/2508.07711)|null|
+|**2025-08-10**|**Scalable Controllable Accented TTS**|Henry Li Xinyuan et.al.|[2508.07426](http://arxiv.org/abs/2508.07426)|null|
+|**2025-08-10**|**Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance**|Wenqian Cui et.al.|[2508.07375](http://arxiv.org/abs/2508.07375)|null|
+|**2025-08-10**|**KLASSify to Verify: Audio-Visual Deepfake Detection Using SSL-based Audio and Handcrafted Visual Features**|Ivan Kukanov et.al.|[2508.07337](http://arxiv.org/abs/2508.07337)|null|
+|**2025-08-10**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
+|**2025-08-09**|**Maestro-EVC: Controllable Emotional Voice Conversion Guided by References and Explicit Prosody**|Jinsung Yoon et.al.|[2508.06890](http://arxiv.org/abs/2508.06890)|null|
+|**2025-08-09**|**Text to Speech System for Meitei Mayek Script**|Gangular Singh Irengbam et.al.|[2508.06870](http://arxiv.org/abs/2508.06870)|null|
 |**2025-08-08**|**ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls**|Sanket Badhe et.al.|[2508.06457](http://arxiv.org/abs/2508.06457)|null|
 |**2025-08-08**|**Improved Dysarthric Speech to Text Conversion via TTS Personalization**|Péter Mihajlik et.al.|[2508.06391](http://arxiv.org/abs/2508.06391)|null|
 |**2025-08-08**|**Large Language Model Data Generation for Enhanced Intent Recognition in German Speech**|Theresa Pekarek Rosin et.al.|[2508.06277](http://arxiv.org/abs/2508.06277)|null|
@@ -22,7 +31,6 @@
 |**2025-08-07**|**UniTalker: Conversational Speech-Visual Synthesis**|Yifan Hu et.al.|[2508.04585](http://arxiv.org/abs/2508.04585)|null|
 |**2025-08-07**|**A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding**|Runchuan Ye et.al.|[2508.05385](http://arxiv.org/abs/2508.05385)|null|
 |**2025-08-07**|**Probing lepton flavor violating dark matter scenarios via astrophysical photons and positrons**|Jin-Han Liang et.al.|[2508.05121](http://arxiv.org/abs/2508.05121)|null|
-|**2025-08-07**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-06**|**Marco-Voice Technical Report**|Fengping Tian et.al.|[2508.02038](http://arxiv.org/abs/2508.02038)|null|
 |**2025-08-06**|**EmoSteer-TTS: Fine-Grained and Training-Free Emotion-Controllable Text-to-Speech via Activation Steering**|Tianxin Xie et.al.|[2508.03543](http://arxiv.org/abs/2508.03543)|null|
 |**2025-08-06**|**NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech Modeling with Paralinguistic Vocalizations**|Huan Liao et.al.|[2508.04195](http://arxiv.org/abs/2508.04195)|null|
