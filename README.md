@@ -15,6 +15,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
+|**2025-08-12**|**HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis**|Timo Teufel et.al.|[2508.09137](http://arxiv.org/abs/2508.09137)|null|
+|**2025-08-12**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
+|**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
+|**2025-08-12**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
+|**2025-08-12**|**Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization**|Chaoqun Cui et.al.|[2508.08550](http://arxiv.org/abs/2508.08550)|null|
 |**2025-08-11**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](http://arxiv.org/abs/2508.07711)|null|
