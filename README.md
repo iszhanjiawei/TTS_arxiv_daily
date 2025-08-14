@@ -15,11 +15,16 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-13**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
+|**2025-08-13**|**Analysis of Domain Shift across ASR Architectures via TTS-Enabled Separation of Target Domain and Acoustic Conditions**|Tina Raissi et.al.|[2508.09868](http://arxiv.org/abs/2508.09868)|null|
+|**2025-08-13**|**UtterTune: LoRA-Based Target-Language Pronunciation Edit and Control in Multilingual Text-to-Speech**|Shuhei Kato et.al.|[2508.09767](http://arxiv.org/abs/2508.09767)|null|
+|**2025-08-13**|**$\text{M}^3\text{PDB}$ : A Multimodal, Multi-Label, Multilingual Prompt Database for Speech Generation**|Boyu Zhu et.al.|[2508.09702](http://arxiv.org/abs/2508.09702)|null|
 |**2025-08-12**|**XEmoRAG: Cross-Lingual Emotion Transfer with Controllable Intensity Using Retrieval-Augmented Generation**|Tianlun Zuo et.al.|[2508.07302](http://arxiv.org/abs/2508.07302)|null|
 |**2025-08-12**|**HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis**|Timo Teufel et.al.|[2508.09137](http://arxiv.org/abs/2508.09137)|null|
 |**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
 |**2025-08-12**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
 |**2025-08-12**|**Fine-grained Video Dubbing Duration Alignment with Segment Supervised Preference Optimization**|Chaoqun Cui et.al.|[2508.08550](http://arxiv.org/abs/2508.08550)|null|
+|**2025-08-12**|**ProMode: A Speech Prosody Model Conditioned on Acoustic and Textual Inputs**|Eray Eren et.al.|[2508.09389](http://arxiv.org/abs/2508.09389)|null|
+|**2025-08-12**|**Fake-Mamba: Real-Time Speech Deepfake Detection Using Bidirectional Mamba as Self-Attention's Alternative**|Xi Xuan et.al.|[2508.09294](http://arxiv.org/abs/2508.09294)|null|
 |**2025-08-11**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|Anuprabha M et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-11**|**Single-Shot Decoding and Fault-tolerant Gates with Trivariate Tricycle Codes**|Abraham Jacob et.al.|[2508.08191](http://arxiv.org/abs/2508.08191)|null|
 |**2025-08-11**|**Is GAN Necessary for Mel-Spectrogram-based Neural Vocoder?**|Hui-Peng Du et.al.|[2508.07711](http://arxiv.org/abs/2508.07711)|null|
