@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**Exponential Ergodicity for McKean-Vlasov SDEs with Singular Interactions**|Xing Huang et.al.|[2508.13924](http://arxiv.org/abs/2508.13924)|null|
+|**2025-08-19**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
+|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Cooperative Sensing-Assisted Predictive Beam Tracking for MIMO-OFDM Networked ISAC Systems**|Xiaoyu Yang et.al.|[2508.12723](http://arxiv.org/abs/2508.12723)|null|
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
+|**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|null|
+|**2025-08-18**|**MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components**|Sangjun Cha et.al.|[2508.13262](http://arxiv.org/abs/2508.13262)|null|
 |**2025-08-16**|**FNH-TTS: A Fast, Natural, and Human-Like Speech Synthesis System with advanced prosodic modeling based on Mixture of Experts**|Qingliang Meng et.al.|[2508.12001](http://arxiv.org/abs/2508.12001)|null|
 |**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
 |**2025-08-15**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
