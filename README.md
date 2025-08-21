@@ -15,9 +15,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
+|**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
+|**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
 |**2025-08-19**|**FNH-TTS: A Fast, Natural, and Human-Like Speech Synthesis System with advanced prosodic modeling based on Mixture of Experts**|Qingliang Meng et.al.|[2508.12001](http://arxiv.org/abs/2508.12001)|null|
 |**2025-08-19**|**Exponential Ergodicity for McKean-Vlasov SDEs with Singular Interactions**|Xing Huang et.al.|[2508.13924](http://arxiv.org/abs/2508.13924)|null|
 |**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
+|**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Cooperative Sensing-Assisted Predictive Beam Tracking for MIMO-OFDM Networked ISAC Systems**|Xiaoyu Yang et.al.|[2508.12723](http://arxiv.org/abs/2508.12723)|null|
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
