@@ -15,9 +15,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
 |**2025-08-21**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
 |**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|null|
+|**2025-08-21**|**QvTAD: Differential Relative Attribute Learning for Voice Timbre Attribute Detection**|Zhiyu Wu et.al.|[2508.15931](http://arxiv.org/abs/2508.15931)|null|
+|**2025-08-21**|**Abelian integrals for polynomials with trivial global monodromy on $\mathbb{C}^2$**|Jesús Muciño-Raymundo et.al.|[2508.15925](http://arxiv.org/abs/2508.15925)|null|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
 |**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
 |**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
@@ -30,6 +33,7 @@
 |**2025-08-18**|**Real-Time Sign Language Gestures to Speech Transcription using Deep Learning**|Brandone Fonya et.al.|[2508.12713](http://arxiv.org/abs/2508.12713)|null|
 |**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|null|
 |**2025-08-18**|**MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components**|Sangjun Cha et.al.|[2508.13262](http://arxiv.org/abs/2508.13262)|null|
+|**2025-08-18**|**Mini-Omni-Reasoner: Token-Level Thinking-in-Speaking in Large Speech Models**|Zhifei Xie et.al.|[2508.15827](http://arxiv.org/abs/2508.15827)|null|
 |**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
 |**2025-08-15**|**MultiAiTutor: Child-Friendly Educational Multilingual Speech Generation Tutor with LLMs**|Xiaoxue Gao et.al.|[2508.08715](http://arxiv.org/abs/2508.08715)|null|
 |**2025-08-15**|**MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts**|Heyang Xue et.al.|[2508.11326](http://arxiv.org/abs/2508.11326)|null|
