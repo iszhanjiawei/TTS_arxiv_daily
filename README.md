@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-28**|**Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System**|Hashim Ali et.al.|[2508.20983](http://arxiv.org/abs/2508.20983)|null|
+|**2025-08-28**|**MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening**|Yongqi Shao et.al.|[2508.20513](http://arxiv.org/abs/2508.20513)|null|
 |**2025-08-27**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
