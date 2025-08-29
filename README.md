@@ -1,4 +1,4 @@
-## Updated on 2025.08.28
+## Updated on 2025.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-27**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
 |**2025-08-26**|**Interpolating Speaker Identities in Embedding Space for Data Expansion**|Tianchi Liu et.al.|[2508.19210](http://arxiv.org/abs/2508.19210)|null|
@@ -31,7 +32,6 @@
 |**2025-08-23**|**RephraseTTS: Dynamic Length Text based Speech Insertion with Speaker Style Transfer**|Neeraj Matiyali et.al.|[2508.17031](http://arxiv.org/abs/2508.17031)|null|
 |**2025-08-23**|**WildSpoof Challenge Evaluation Plan**|Yihan Wu et.al.|[2508.16858](http://arxiv.org/abs/2508.16858)|null|
 |**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
-|**2025-08-22**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|null|
 |**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
 |**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|null|
@@ -999,5 +999,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
