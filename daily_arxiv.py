@@ -278,24 +278,57 @@ def demo(**config):
         if wechat_pusher.is_enabled():
             logging.info("开始微信推送...")
             
-            # 合并所有收集到的论文数据
-            all_papers_data = {}
-            for data in data_collector:
-                for topic, papers in data.items():
-                    if topic not in all_papers_data:
-                        all_papers_data[topic] = {}
-                    all_papers_data[topic].update(papers)
+            # 从 JSON 文件中读取所有论文数据
+            try:
+                with open(tts_arxiv_daily_json, 'r', encoding='utf-8') as f:
+                    all_json_data = json.load(f)
+            except (FileNotFoundError, json.JSONDecodeError):
+                logging.warning("无法读取 JSON 文件，使用空数据")
+                all_json_data = {}
             
             # 获取当前日期
-            current_date = datetime.date.today().strftime('%Y-%m-%d')
+            today = datetime.date.today()
+            current_date = today.strftime('%Y-%m-%d')
             
-            # 检查是否有新论文
-            has_new_papers = any(papers for papers in all_papers_data.values())
+            # 筛选当天的论文
+            today_papers = {}
+            for topic, papers in all_json_data.items():
+                if isinstance(papers, dict):
+                    topic_today_papers = {}
+                    for paper_id, paper_content in papers.items():
+                        # 从论文内容中提取日期信息
+                        # 论文内容格式: |**2025-09-02**|**Title**|Author et.al.|[paper_id](url)|null|
+                        if isinstance(paper_content, str) and paper_content.startswith('|**'):
+                            # 提取日期部分
+                            date_match = re.search(r'\|\*\*(\d{4}-\d{2}-\d{2})\*\*\|', paper_content)
+                            if date_match:
+                                paper_date_str = date_match.group(1)
+                                try:
+                                    paper_date = datetime.datetime.strptime(paper_date_str, '%Y-%m-%d').date()
+                                    if paper_date == today:
+                                        topic_today_papers[paper_id] = paper_content
+                                        logging.info(f"找到今日论文: {paper_id} - {paper_date}")
+                                except ValueError:
+                                    continue
+                    
+                    if topic_today_papers:
+                        today_papers[topic] = topic_today_papers
+            
+            # 检查是否有今日新论文
+            has_new_papers = any(papers for papers in today_papers.values())
             push_empty = config.get('wechat_push', {}).get('push_empty_updates', False)
             
-            if has_new_papers or push_empty:
-                # 推送论文更新
-                success = wechat_pusher.push_daily_papers(all_papers_data, current_date)
+            if has_new_papers:
+                logging.info(f"找到 {sum(len(papers) for papers in today_papers.values())} 篇今日论文，开始推送")
+                # 推送今日论文
+                success = wechat_pusher.push_daily_papers(today_papers, current_date)
+                if success:
+                    logging.info("微信推送成功")
+                else:
+                    logging.error("微信推送失败")
+            elif push_empty:
+                logging.info("今日无新论文，但配置允许推送空更新")
+                success = wechat_pusher.push_daily_papers({}, current_date)
                 if success:
                     logging.info("微信推送成功")
                 else:

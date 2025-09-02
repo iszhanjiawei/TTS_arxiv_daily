@@ -52,9 +52,8 @@ class WeChatPusher:
                 total_papers += len(papers)
                 message_parts.append(f"\n🔍 {topic} ({len(papers)}篇)")
                 
-                # 只显示前3篇论文，避免消息过长
-                paper_items = list(papers.items())[:3]
-                for paper_id, paper_info in paper_items:
+                # 显示所有当日论文
+                for paper_id, paper_info in papers.items():
                     # 解析论文信息
                     # 格式: |**2024-06-07**|**Title**|Author et.al.|[2406.04843](http://arxiv.org/abs/2406.04843)|null|
                     parts = paper_info.split('|')
@@ -71,9 +70,6 @@ class WeChatPusher:
                         message_parts.append(f"• {title}")
                         message_parts.append(f"  👤 {author}")
                         message_parts.append(f"  🔗 {url}")
-                
-                if len(papers) > 3:
-                    message_parts.append(f"  ... 还有 {len(papers) - 3} 篇论文")
         
         if total_papers > 0:
             message_parts.append(f"\n📊 今日共更新 {total_papers} 篇论文")

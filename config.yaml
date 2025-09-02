@@ -18,7 +18,6 @@ wechat_push:
   webhook_url: ''  # 企业微信机器人的Webhook URL
   
   # 推送设置
-  max_papers_per_topic: 5  # 每个主题最多推送的论文数量
   push_empty_updates: false  # 是否推送空更新（无新论文时）
 
 # keywords to search
