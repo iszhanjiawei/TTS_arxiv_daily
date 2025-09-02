@@ -12,6 +12,7 @@ import yaml
 import logging
 import argparse
 import datetime
+from wechat_push import create_wechat_pusher
 
 print(arxiv.__file__)  # 应该显示来自lib/arxiv的路径
 
@@ -260,6 +261,7 @@ def demo(**config):
         data_collector_web.append(data_web)
         print("\n")
     logging.info(f"GET daily papers end")
+    
     # 1. update README.md file
     tts_arxiv_daily_json = config['json_readme_path']
     readme_md   = config['md_readme_path']
@@ -267,6 +269,45 @@ def demo(**config):
     update_json_file(tts_arxiv_daily_json,data_collector)
     # json data to markdown
     json_to_md(tts_arxiv_daily_json,readme_md, task ='Update Readme')
+    
+    # 2. 微信推送功能
+    try:
+        # 创建微信推送器
+        wechat_pusher = create_wechat_pusher(config)
+        
+        if wechat_pusher.is_enabled():
+            logging.info("开始微信推送...")
+            
+            # 合并所有收集到的论文数据
+            all_papers_data = {}
+            for data in data_collector:
+                for topic, papers in data.items():
+                    if topic not in all_papers_data:
+                        all_papers_data[topic] = {}
+                    all_papers_data[topic].update(papers)
+            
+            # 获取当前日期
+            current_date = datetime.date.today().strftime('%Y-%m-%d')
+            
+            # 检查是否有新论文
+            has_new_papers = any(papers for papers in all_papers_data.values())
+            push_empty = config.get('wechat_push', {}).get('push_empty_updates', False)
+            
+            if has_new_papers or push_empty:
+                # 推送论文更新
+                success = wechat_pusher.push_daily_papers(all_papers_data, current_date)
+                if success:
+                    logging.info("微信推送成功")
+                else:
+                    logging.error("微信推送失败")
+            else:
+                logging.info("今日无新论文，跳过微信推送")
+        else:
+            logging.info("微信推送未启用或配置不完整")
+            
+    except Exception as e:
+        logging.error(f"微信推送过程中出现错误: {str(e)}")
+        # 不影响主流程，继续执行
 
 
 if __name__ == "__main__":

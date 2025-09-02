@@ -6,6 +6,20 @@ json_readme_path: './docs/tts-arxiv-daily.json'
 
 md_readme_path: 'README.md'
 
+# 微信推送配置
+wechat_push:
+  enabled: true  # 是否启用微信推送，设置为true启用
+  method: 'serverchan'  # 推送方式: 'serverchan'(Server酱，推荐个人微信) 或 'webhook'(企业微信机器人)
+  
+  # Server酱配置 (method为serverchan时使用，推荐个人微信推送)
+  serverchan_key: ''  # Server酱的SendKey（请勿在此处填写真实密钥！）
+  
+  # 企业微信机器人配置 (method为webhook时使用，备选方案)
+  webhook_url: ''  # 企业微信机器人的Webhook URL
+  
+  # 推送设置
+  max_papers_per_topic: 5  # 每个主题最多推送的论文数量
+  push_empty_updates: false  # 是否推送空更新（无新论文时）
 
 # keywords to search
 # keywords to search
