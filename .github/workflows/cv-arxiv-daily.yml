@@ -52,43 +52,43 @@ jobs:
           # 动态更新配置文件中的微信推送设置
           if [ ! -z "$WECHAT_WEBHOOK_URL" ] || [ ! -z "$SERVERCHAN_KEY" ]; then
             python -c "
-import yaml
-import os
-
-# 读取配置文件
-with open('config.yaml', 'r', encoding='utf-8') as f:
-    config = yaml.load(f, Loader=yaml.FullLoader)
-
-# 更新微信推送配置
-if 'wechat_push' not in config:
-    config['wechat_push'] = {}
-
-# 检查环境变量并更新配置
-webhook_url = os.environ.get('WECHAT_WEBHOOK_URL', '')
-serverchan_key = os.environ.get('SERVERCHAN_KEY', '')
-
-if webhook_url or serverchan_key:
-    config['wechat_push']['enabled'] = True
-    if webhook_url:
-        config['wechat_push']['method'] = 'webhook'
-        config['wechat_push']['webhook_url'] = webhook_url
-    elif serverchan_key:
-        config['wechat_push']['method'] = 'serverchan'
-        config['wechat_push']['serverchan_key'] = serverchan_key
-
-    # 设置默认值
-    config['wechat_push'].setdefault('max_papers_per_topic', 3)
-    config['wechat_push'].setdefault('push_empty_updates', False)
-    
-    print('微信推送已启用')
-else:
-    config['wechat_push']['enabled'] = False
-    print('微信推送未配置，保持禁用状态')
-
-# 写回配置文件
-with open('config.yaml', 'w', encoding='utf-8') as f:
-    yaml.dump(config, f, default_flow_style=False, allow_unicode=True)
-            "
+          import yaml
+          import os
+          
+          # 读取配置文件
+          with open('config.yaml', 'r', encoding='utf-8') as f:
+              config = yaml.load(f, Loader=yaml.FullLoader)
+          
+          # 更新微信推送配置
+          if 'wechat_push' not in config:
+              config['wechat_push'] = {}
+          
+          # 检查环境变量并更新配置
+          webhook_url = os.environ.get('WECHAT_WEBHOOK_URL', '')
+          serverchan_key = os.environ.get('SERVERCHAN_KEY', '')
+          
+          if webhook_url or serverchan_key:
+              config['wechat_push']['enabled'] = True
+              if webhook_url:
+                  config['wechat_push']['method'] = 'webhook'
+                  config['wechat_push']['webhook_url'] = webhook_url
+              elif serverchan_key:
+                  config['wechat_push']['method'] = 'serverchan'
+                  config['wechat_push']['serverchan_key'] = serverchan_key
+          
+              # 设置默认值
+              config['wechat_push'].setdefault('max_papers_per_topic', 3)
+              config['wechat_push'].setdefault('push_empty_updates', False)
+              
+              print('微信推送已启用')
+          else:
+              config['wechat_push']['enabled'] = False
+              print('微信推送未配置，保持禁用状态')
+          
+          # 写回配置文件
+          with open('config.yaml', 'w', encoding='utf-8') as f:
+              yaml.dump(config, f, default_flow_style=False, allow_unicode=True)
+          "
           else
             echo "未配置微信推送环境变量，跳过微信推送配置"
           fi
