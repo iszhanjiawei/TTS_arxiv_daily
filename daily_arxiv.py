@@ -318,3 +318,4 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config}
     demo(**config)
+
