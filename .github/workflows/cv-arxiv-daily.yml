@@ -51,7 +51,7 @@ jobs:
         run: |
           # 动态更新配置文件中的微信推送设置
           if [ ! -z "$WECHAT_WEBHOOK_URL" ] || [ ! -z "$SERVERCHAN_KEY" ]; then
-            python -c "
+            cat > configure_wechat.py << 'EOF'
 import yaml
 import os
 
@@ -88,7 +88,9 @@ else:
 # 写回配置文件
 with open('config.yaml', 'w', encoding='utf-8') as f:
     yaml.dump(config, f, default_flow_style=False, allow_unicode=True)
-            "
+EOF
+            python configure_wechat.py
+            rm configure_wechat.py
           else
             echo "未配置微信推送环境变量，跳过微信推送配置"
           fi
