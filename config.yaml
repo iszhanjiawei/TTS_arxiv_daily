@@ -18,7 +18,7 @@ wechat_push:
   webhook_url: ''  # 企业微信机器人的Webhook URL
   
   # 推送设置
-  push_empty_updates: false  # 是否推送空更新（无新论文时）
+  push_empty_updates: true  # 是否推送空更新（无新论文时）
 
 # keywords to search
 # keywords to search
