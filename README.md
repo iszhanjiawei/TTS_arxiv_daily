@@ -14,10 +14,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
+|**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
+|**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
+|**2025-09-03**|**AIVA: An AI-based Virtual Companion for Emotion-aware Interaction**|Chenxi Li et.al.|[2509.03212](http://arxiv.org/abs/2509.03212)|null|
 |**2025-09-02**|**Zero-shot Context Biasing with Trie-based Decoding using Synthetic Multi-Pronunciation**|Changsong Liu et.al.|[2508.17796](http://arxiv.org/abs/2508.17796)|null|
+|**2025-09-02**|**Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time**|Jintao Cheng et.al.|[2509.02129](http://arxiv.org/abs/2509.02129)|null|
+|**2025-09-02**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
+|**2025-09-01**|**MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model**|Joonyong Park et.al.|[2509.01391](http://arxiv.org/abs/2509.01391)|null|
+|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
+|**2025-09-01**|**An AI-Based Shopping Assistant System to Support the Visually Impaired**|Larissa R. de S. Shibata et.al.|[2509.01246](http://arxiv.org/abs/2509.01246)|null|
+|**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
+|**2025-08-31**|**MPO: Multidimensional Preference Optimization for Language Model-based Text-to-Speech**|Kangxiang Xia et.al.|[2509.00685](http://arxiv.org/abs/2509.00685)|null|
+|**2025-08-31**|**Speaker-Conditioned Phrase Break Prediction for Text-to-Speech with Phoneme-Level Pre-trained Language Model**|Dong Yang et.al.|[2509.00675](http://arxiv.org/abs/2509.00675)|null|
+|**2025-08-30**|**FreeTalk:A plug-and-play and black-box defense against speech synthesis attacks**|Yuwen Pu et.al.|[2509.00561](http://arxiv.org/abs/2509.00561)|null|
+|**2025-08-30**|**Entropy-based Coarse and Compressed Semantic Speech Representation Learning**|Jialong Zuo et.al.|[2509.00503](http://arxiv.org/abs/2509.00503)|null|
+|**2025-08-30**|**SaD: A Scenario-Aware Discriminator for Speech Enhancement**|Xihao Yuan et.al.|[2509.00405](http://arxiv.org/abs/2509.00405)|null|
 |**2025-08-29**|**Towards Improved Speech Recognition through Optimized Synthetic Data Generation**|Yanis Perrin et.al.|[2508.21631](http://arxiv.org/abs/2508.21631)|null|
+|**2025-08-29**|**Democratizing Agentic AI with Fast Test-Time Scaling on the Edge**|Hao Mark Chen et.al.|[2509.00195](http://arxiv.org/abs/2509.00195)|null|
 |**2025-08-28**|**Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System**|Hashim Ali et.al.|[2508.20983](http://arxiv.org/abs/2508.20983)|null|
 |**2025-08-28**|**MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening**|Yongqi Shao et.al.|[2508.20513](http://arxiv.org/abs/2508.20513)|null|
+|**2025-08-28**|**Talking Spell: A Wearable System Enabling Real-Time Anthropomorphic Voice Interaction with Everyday Objects**|Xuetong Wang et.al.|[2509.02367](http://arxiv.org/abs/2509.02367)|null|
 |**2025-08-27**|**Seeing is Believing: Emotion-Aware Audio-Visual Language Modeling for Expressive Speech Generation**|Weiting Tan et.al.|[2508.16188](http://arxiv.org/abs/2508.16188)|null|
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-26**|**EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Spoken Dialogue Systems**|Jingwen Liu et.al.|[2508.17623](http://arxiv.org/abs/2508.17623)|null|
