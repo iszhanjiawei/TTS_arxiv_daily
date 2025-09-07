@@ -286,15 +286,15 @@ def demo(**config):
                 logging.warning("无法读取 JSON 文件，使用空数据")
                 all_json_data = {}
             
-            # 获取当前日期
-            today = datetime.date.today()
-            current_date = today.strftime('%Y-%m-%d')
+            # 获取昨天日期
+            yesterday = datetime.date.today() - datetime.timedelta(days=1)
+            current_date = yesterday.strftime('%Y-%m-%d')
             
-            # 筛选当天的论文
-            today_papers = {}
+            # 筛选昨天的论文
+            yesterday_papers = {}
             for topic, papers in all_json_data.items():
                 if isinstance(papers, dict):
-                    topic_today_papers = {}
+                    topic_yesterday_papers = {}
                     for paper_id, paper_content in papers.items():
                         # 从论文内容中提取日期信息
                         # 论文内容格式: |**2025-09-02**|**Title**|Author et.al.|[paper_id](url)|null|
@@ -305,36 +305,36 @@ def demo(**config):
                                 paper_date_str = date_match.group(1)
                                 try:
                                     paper_date = datetime.datetime.strptime(paper_date_str, '%Y-%m-%d').date()
-                                    if paper_date == today:
-                                        topic_today_papers[paper_id] = paper_content
-                                        logging.info(f"找到今日论文: {paper_id} - {paper_date}")
+                                    if paper_date == yesterday:
+                                        topic_yesterday_papers[paper_id] = paper_content
+                                        logging.info(f"找到昨日论文: {paper_id} - {paper_date}")
                                 except ValueError:
                                     continue
                     
-                    if topic_today_papers:
-                        today_papers[topic] = topic_today_papers
+                    if topic_yesterday_papers:
+                        yesterday_papers[topic] = topic_yesterday_papers
             
-            # 检查是否有今日新论文
-            has_new_papers = any(papers for papers in today_papers.values())
+            # 检查是否有昨日新论文
+            has_new_papers = any(papers for papers in yesterday_papers.values())
             push_empty = config.get('wechat_push', {}).get('push_empty_updates', False)
             
             if has_new_papers:
-                logging.info(f"找到 {sum(len(papers) for papers in today_papers.values())} 篇今日论文，开始推送")
-                # 推送今日论文
-                success = wechat_pusher.push_daily_papers(today_papers, current_date)
+                logging.info(f"找到 {sum(len(papers) for papers in yesterday_papers.values())} 篇昨日论文，开始推送")
+                # 推送昨日论文
+                success = wechat_pusher.push_daily_papers(yesterday_papers, current_date)
                 if success:
                     logging.info("微信推送成功")
                 else:
                     logging.error("微信推送失败")
             elif push_empty:
-                logging.info("今日无新论文，但配置允许推送空更新")
+                logging.info("昨日无新论文，但配置允许推送空更新")
                 success = wechat_pusher.push_daily_papers({}, current_date)
                 if success:
                     logging.info("微信推送成功")
                 else:
                     logging.error("微信推送失败")
             else:
-                logging.info("今日无新论文，跳过微信推送")
+                logging.info("昨日无新论文，跳过微信推送")
         else:
             logging.info("微信推送未启用或配置不完整")
             
