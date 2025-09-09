@@ -1,4 +1,4 @@
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-08**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Jie Chen et.al.|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
 |**2025-09-05**|**WenetSpeech-Yue: A Large-scale Cantonese Speech Corpus with Multi-dimensional Annotation**|Longhao Li et.al.|[2509.03959](http://arxiv.org/abs/2509.03959)|null|
 |**2025-09-05**|**Testing Magnetic Field Configurations in Spider Pulsar PSR J1723-2837 with IXPE**|Michela Negro et.al.|[2509.05240](http://arxiv.org/abs/2509.05240)|null|
 |**2025-09-05**|**Deep Inverse Rosenblatt Transport for Structural Reliability Analysis**|Aryan Tyagi et.al.|[2509.05061](http://arxiv.org/abs/2509.05061)|null|
-|**2025-09-05**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Jie Chen et.al.|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
 |**2025-09-05**|**Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales**|Krittanon Kaewtawee et.al.|[2509.04871](http://arxiv.org/abs/2509.04871)|null|
 |**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
 |**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
@@ -1031,5 +1031,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
 
