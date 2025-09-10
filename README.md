@@ -15,9 +15,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-09**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
+|**2025-09-09**|**TextlessRAG: End-to-End Visual Document RAG by Speech Without Text**|Peijin Xie et.al.|[2509.07538](http://arxiv.org/abs/2509.07538)|null|
+|**2025-09-09**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
+|**2025-09-09**|**When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection**|Bin Hu et.al.|[2509.07323](http://arxiv.org/abs/2509.07323)|null|
 |**2025-09-08**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Jie Chen et.al.|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
 |**2025-09-08**|**New kinematic map of the Milky Way bulge**|Carlos Quezada et.al.|[2509.06846](http://arxiv.org/abs/2509.06846)|null|
 |**2025-09-08**|**ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data**|Vladislav Stankov et.al.|[2509.06675](http://arxiv.org/abs/2509.06675)|null|
+|**2025-09-08**|**Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence**|Yerin Ryu et.al.|[2509.07038](http://arxiv.org/abs/2509.07038)|null|
 |**2025-09-07**|**Multiplicity distributions in QCD jets and jet topics**|Xiang-Pan Duan et.al.|[2509.06158](http://arxiv.org/abs/2509.06158)|null|
 |**2025-09-07**|**UniVerse-1: Unified Audio-Video Generation via Stitching of Experts**|Duomin Wang et.al.|[2509.06155](http://arxiv.org/abs/2509.06155)|null|
 |**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|
