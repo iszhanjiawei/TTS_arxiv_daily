@@ -1,4 +1,4 @@
-## Updated on 2025.09.09
+## Updated on 2025.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,14 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-09**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
 |**2025-09-08**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Jie Chen et.al.|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
 |**2025-09-08**|**New kinematic map of the Milky Way bulge**|Carlos Quezada et.al.|[2509.06846](http://arxiv.org/abs/2509.06846)|null|
 |**2025-09-08**|**ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data**|Vladislav Stankov et.al.|[2509.06675](http://arxiv.org/abs/2509.06675)|null|
-|**2025-09-08**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
 |**2025-09-07**|**Multiplicity distributions in QCD jets and jet topics**|Xiang-Pan Duan et.al.|[2509.06158](http://arxiv.org/abs/2509.06158)|null|
 |**2025-09-07**|**UniVerse-1: Unified Audio-Video Generation via Stitching of Experts**|Duomin Wang et.al.|[2509.06155](http://arxiv.org/abs/2509.06155)|null|
 |**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|
-|**2025-09-07**|**Solar--System Experiments in the Search for Dark Energy and Dark Matter**|Slava G. Turyshev et.al.|[2509.05910](http://arxiv.org/abs/2509.05910)|null|
+|**2025-09-07**|**Solar System Experiments in the Search for Dark Energy and Dark Matter**|Slava G. Turyshev et.al.|[2509.05910](http://arxiv.org/abs/2509.05910)|null|
 |**2025-09-06**|**LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization**|Luis Felipe Chary et.al.|[2509.05863](http://arxiv.org/abs/2509.05863)|null|
 |**2025-09-05**|**WenetSpeech-Yue: A Large-scale Cantonese Speech Corpus with Multi-dimensional Annotation**|Longhao Li et.al.|[2509.03959](http://arxiv.org/abs/2509.03959)|null|
 |**2025-09-05**|**Testing Magnetic Field Configurations in Spider Pulsar PSR J1723-2837 with IXPE**|Michela Negro et.al.|[2509.05240](http://arxiv.org/abs/2509.05240)|null|
@@ -1039,5 +1039,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250910>back to top</a>)</p>
 
