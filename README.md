@@ -1,4 +1,4 @@
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-11**|**A Low-Rank tensor framework for THB-Splines**|Tom-Christian Riemer et.al.|[2509.09434](http://arxiv.org/abs/2509.09434)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
@@ -1051,5 +1051,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
