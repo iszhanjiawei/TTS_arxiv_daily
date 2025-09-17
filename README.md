@@ -14,7 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-16**|**A Tensor Train-Based Isogeometric Solver for Large-Scale 3D Poisson Problems on Complex Geometries**|Quoc Thai Tran et.al.|[2509.13224](http://arxiv.org/abs/2509.13224)|null|
+|**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
+|**2025-09-16**|**LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**|Jiaqi Wang et.al.|[2509.12875](http://arxiv.org/abs/2509.12875)|null|
+|**2025-09-16**|**Towards personalized, precise and survey-free environment recognition: AI-enhanced sensor fusion without pre-deployment**|Ruichen Wang et.al.|[2509.12870](http://arxiv.org/abs/2509.12870)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
+|**2025-09-15**|**Building Coding Agents via Entropy-Enhanced Multi-Turn Preference Optimization**|Jiahao Yu et.al.|[2509.12434](http://arxiv.org/abs/2509.12434)|null|
+|**2025-09-15**|**Constraints on the early growth of massive black holes from PTA and JWST with L-GalaxiesBH**|Silvia Bonoli et.al.|[2509.12325](http://arxiv.org/abs/2509.12325)|null|
 |**2025-09-14**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
 |**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|null|
 |**2025-09-14**|**Length-Aware Rotary Position Embedding for Text-Speech Alignment**|Hyeongju Kim et.al.|[2509.11084](http://arxiv.org/abs/2509.11084)|null|
