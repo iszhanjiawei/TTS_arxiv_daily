@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2509.18060](http://arxiv.org/abs/2509.18060)|null|
+|**2025-09-22**|**WenetSpeech-Chuan: A Large-Scale Sichuanese Corpus with Rich Annotation for Dialectal Speech Processing**|Yuhang Dai et.al.|[2509.18004](http://arxiv.org/abs/2509.18004)|null|
+|**2025-09-22**|**Variation in Verification: Understanding Verification Dynamics in Large Language Models**|Yefan Zhou et.al.|[2509.17995](http://arxiv.org/abs/2509.17995)|null|
+|**2025-09-22**|**Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech**|Zirui Li et.al.|[2509.17988](http://arxiv.org/abs/2509.17988)|null|
+|**2025-09-22**|**Mitigating Strategy-Selection Bias in Reasoning for More Effective Test-Time Scaling**|Zongqian Wu et.al.|[2509.17905](http://arxiv.org/abs/2509.17905)|null|
+|**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
+|**2025-09-22**|**Audiobook-CC: Controllable Long-context Speech Generation for Multicast Audiobook**|Min Liu et.al.|[2509.17516](http://arxiv.org/abs/2509.17516)|null|
+|**2025-09-21**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|null|
+|**2025-09-21**|**Bridging the gap between training and inference in LM-based TTS models**|Ruonan Zhang et.al.|[2509.17021](http://arxiv.org/abs/2509.17021)|null|
+|**2025-09-21**|**MBCodec:Thorough disentangle for high-fidelity audio compression**|Ruonan Zhang et.al.|[2509.17006](http://arxiv.org/abs/2509.17006)|null|
 |**2025-09-20**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
 |**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 |**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
