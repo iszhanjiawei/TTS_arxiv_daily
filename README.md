@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
+|**2025-09-24**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
+|**2025-09-24**|**CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance**|Junchuan Zhao et.al.|[2509.19883](http://arxiv.org/abs/2509.19883)|null|
+|**2025-09-24**|**SwissGPC v1.0 -- The Swiss German Podcasts Corpus**|Samuel Stucki et.al.|[2509.19866](http://arxiv.org/abs/2509.19866)|null|
+|**2025-09-24**|**Eliminating stability hallucinations in llm-based tts models via attention guidance**|ShiMing Wang et.al.|[2509.19852](http://arxiv.org/abs/2509.19852)|null|
+|**2025-09-24**|**Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation**|Yang Cui et.al.|[2509.19812](http://arxiv.org/abs/2509.19812)|null|
+|**2025-09-24**|**PART: Progressive Alignment Representation Training for Multilingual Speech-To-Text with LLMs**|Pei Zhang et.al.|[2509.19745](http://arxiv.org/abs/2509.19745)|null|
+|**2025-09-24**|**Selective Classifier-free Guidance for Zero-shot Text-to-speech**|John Zheng et.al.|[2509.19668](http://arxiv.org/abs/2509.19668)|null|
 |**2025-09-23**|**Mitigating Strategy-Selection Bias in Reasoning for More Effective Test-Time Scaling**|Zongqian Wu et.al.|[2509.17905](http://arxiv.org/abs/2509.17905)|null|
 |**2025-09-23**|**Finding My Voice: Generative Reconstruction of Disordered Speech for Automated Clinical Evaluation**|Karen Rosero et.al.|[2509.19231](http://arxiv.org/abs/2509.19231)|null|
 |**2025-09-23**|**Investigating Test-Time Scaling with Reranking for Machine Translation**|Shaomu Tan et.al.|[2509.19020](http://arxiv.org/abs/2509.19020)|null|
@@ -23,6 +31,8 @@
 |**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|null|
 |**2025-09-23**|**Explore the Reinforcement Learning for the LLM based ASR and TTS system**|Changfeng Gao et.al.|[2509.18569](http://arxiv.org/abs/2509.18569)|null|
 |**2025-09-23**|**No Verifiable Reward for Prosody: Toward Preference-Guided Prosody Learning in TTS**|Seungyoun Shin et.al.|[2509.18531](http://arxiv.org/abs/2509.18531)|null|
+|**2025-09-23**|**Are We Scaling the Right Thing? A System Perspective on Test-Time Scaling**|Youpeng Zhao et.al.|[2509.19645](http://arxiv.org/abs/2509.19645)|null|
+|**2025-09-23**|**Frame-Stacked Local Transformers For Efficient Multi-Codebook Speech Generation**|Roy Fejgin et.al.|[2509.19592](http://arxiv.org/abs/2509.19592)|null|
 |**2025-09-22**|**TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2509.18060](http://arxiv.org/abs/2509.18060)|null|
 |**2025-09-22**|**WenetSpeech-Chuan: A Large-Scale Sichuanese Corpus with Rich Annotation for Dialectal Speech Processing**|Yuhang Dai et.al.|[2509.18004](http://arxiv.org/abs/2509.18004)|null|
 |**2025-09-22**|**Variation in Verification: Understanding Verification Dynamics in Large Language Models**|Yefan Zhou et.al.|[2509.17995](http://arxiv.org/abs/2509.17995)|null|
