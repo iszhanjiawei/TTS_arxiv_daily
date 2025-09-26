@@ -15,6 +15,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
+|**2025-09-25**|**UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice**|Sitong Cheng et.al.|[2509.21144](http://arxiv.org/abs/2509.21144)|null|
+|**2025-09-25**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
+|**2025-09-25**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
 |**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
 |**2025-09-24**|**CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance**|Junchuan Zhao et.al.|[2509.19883](http://arxiv.org/abs/2509.19883)|null|
 |**2025-09-24**|**SwissGPC v1.0 -- The Swiss German Podcasts Corpus**|Samuel Stucki et.al.|[2509.19866](http://arxiv.org/abs/2509.19866)|null|
@@ -22,6 +25,8 @@
 |**2025-09-24**|**Efficient Speech Watermarking for Speech Synthesis via Progressive Knowledge Distillation**|Yang Cui et.al.|[2509.19812](http://arxiv.org/abs/2509.19812)|null|
 |**2025-09-24**|**PART: Progressive Alignment Representation Training for Multilingual Speech-To-Text with LLMs**|Pei Zhang et.al.|[2509.19745](http://arxiv.org/abs/2509.19745)|null|
 |**2025-09-24**|**Selective Classifier-free Guidance for Zero-shot Text-to-speech**|John Zheng et.al.|[2509.19668](http://arxiv.org/abs/2509.19668)|null|
+|**2025-09-24**|**Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems**|Samer Alshaer et.al.|[2509.20513](http://arxiv.org/abs/2509.20513)|null|
+|**2025-09-24**|**Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens**|Ismail Rasim Ulgen et.al.|[2509.20485](http://arxiv.org/abs/2509.20485)|null|
 |**2025-09-23**|**Mitigating Strategy-Selection Bias in Reasoning for More Effective Test-Time Scaling**|Zongqian Wu et.al.|[2509.17905](http://arxiv.org/abs/2509.17905)|null|
 |**2025-09-23**|**Finding My Voice: Generative Reconstruction of Disordered Speech for Automated Clinical Evaluation**|Karen Rosero et.al.|[2509.19231](http://arxiv.org/abs/2509.19231)|null|
 |**2025-09-23**|**Investigating Test-Time Scaling with Reranking for Machine Translation**|Shaomu Tan et.al.|[2509.19020](http://arxiv.org/abs/2509.19020)|null|
