@@ -1,4 +1,4 @@
-## Updated on 2025.09.25
+## Updated on 2025.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
 |**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
-|**2025-09-24**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
 |**2025-09-24**|**CoMelSinger: Discrete Token-Based Zero-Shot Singing Synthesis With Structured Melody Control and Guidance**|Junchuan Zhao et.al.|[2509.19883](http://arxiv.org/abs/2509.19883)|null|
 |**2025-09-24**|**SwissGPC v1.0 -- The Swiss German Podcasts Corpus**|Samuel Stucki et.al.|[2509.19866](http://arxiv.org/abs/2509.19866)|null|
 |**2025-09-24**|**Eliminating stability hallucinations in llm-based tts models via attention guidance**|ShiMing Wang et.al.|[2509.19852](http://arxiv.org/abs/2509.19852)|null|
@@ -1115,5 +1115,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20250925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250926>back to top</a>)</p>
 
