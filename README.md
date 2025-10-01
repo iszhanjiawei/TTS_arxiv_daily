@@ -15,6 +15,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
+|**2025-09-30**|**BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**|Yue Wang et.al.|[2509.26514](http://arxiv.org/abs/2509.26514)|null|
+|**2025-09-30**|**Go with Your Gut: Scaling Confidence for Autoregressive Image Generation**|Harold Haodong Chen et.al.|[2509.26376](http://arxiv.org/abs/2509.26376)|null|
+|**2025-09-30**|**The transverse-traceless gauge and the gauge problem of second order gravitational waves**|Yadong Xue et.al.|[2509.26159](http://arxiv.org/abs/2509.26159)|null|
+|**2025-09-30**|**HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis**|Ziyu Zhang et.al.|[2509.25842](http://arxiv.org/abs/2509.25842)|null|
+|**2025-09-30**|**LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning**|Kang Yang et.al.|[2509.25670](http://arxiv.org/abs/2509.25670)|null|
 |**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
 |**2025-09-29**|**LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**|Guibin Zhang et.al.|[2509.24771](http://arxiv.org/abs/2509.24771)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
@@ -23,6 +28,10 @@
 |**2025-09-29**|**ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**|Haotian Zhang et.al.|[2509.24460](http://arxiv.org/abs/2509.24460)|null|
 |**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|null|
 |**2025-09-29**|**Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives**|Hexin Liu et.al.|[2509.24310](http://arxiv.org/abs/2509.24310)|null|
+|**2025-09-29**|**Emotion-Aligned Generation in Diffusion Text to Speech Models via Preference-Guided Optimization**|Jiacheng Shi et.al.|[2509.25416](http://arxiv.org/abs/2509.25416)|null|
+|**2025-09-29**|**Nijenhuis operators on Banach fibration**|Katarzyna Grabowska et.al.|[2509.25405](http://arxiv.org/abs/2509.25405)|null|
+|**2025-09-29**|**Incentive-Aligned Multi-Source LLM Summaries**|Yanchen Jiang et.al.|[2509.25184](http://arxiv.org/abs/2509.25184)|null|
+|**2025-09-29**|**Non-linear infusion of intrinsic alignment and source clustering: impact on non-Gaussian cosmic shear statistics**|J. Harnois-Déraps et.al.|[2509.25166](http://arxiv.org/abs/2509.25166)|null|
 |**2025-09-28**|**Game-Oriented ASR Error Correction via RAG-Enhanced LLM**|Yan Jiang et.al.|[2509.23630](http://arxiv.org/abs/2509.23630)|null|
 |**2025-09-28**|**Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment**|Pu Huang et.al.|[2509.23618](http://arxiv.org/abs/2509.23618)|null|
 |**2025-09-27**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
