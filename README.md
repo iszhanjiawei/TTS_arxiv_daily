@@ -14,10 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-03**|**Evaluation of preprocessing pipelines in the creation of in-the-wild TTS datasets**|Matías Di Bernardo et.al.|[2510.03111](http://arxiv.org/abs/2510.03111)|null|
+|**2025-10-03**|**Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech**|Hieu-Nghia Huynh-Nguyen et.al.|[2510.02848](http://arxiv.org/abs/2510.02848)|null|
+|**2025-10-03**|**Hunt for the mHz variability in the TESS and XMM-Newton observations of nova-like cataclysmic variables**|Andrej Dobrotka et.al.|[2510.02834](http://arxiv.org/abs/2510.02834)|null|
 |**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|Siddhant Arora et.al.|[2510.02044](http://arxiv.org/abs/2510.02044)|null|
 |**2025-10-02**|**Emotional Text-To-Speech Based on Mutual-Information-Guided Emotion-Timbre Disentanglement**|Jianing Yang et.al.|[2510.01722](http://arxiv.org/abs/2510.01722)|null|
 |**2025-10-02**|**FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates**|Jiaqi Li et.al.|[2510.00981](http://arxiv.org/abs/2510.00981)|null|
 |**2025-10-02**|**MOSS-Speech: Towards True Speech-to-Speech Models Without Text Guidance**|Xingjian Zhao et.al.|[2510.00499](http://arxiv.org/abs/2510.00499)|null|
+|**2025-10-02**|**On the Role of Temperature Sampling in Test-Time Scaling**|Yuheng Wu et.al.|[2510.02611](http://arxiv.org/abs/2510.02611)|null|
 |**2025-10-01**|**From Scores to Preferences: Redefining MOS Benchmarking for Speech Quality Reward Modeling**|Yifei Cao et.al.|[2510.00743](http://arxiv.org/abs/2510.00743)|null|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-30**|**BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**|Yue Wang et.al.|[2509.26514](http://arxiv.org/abs/2509.26514)|null|
