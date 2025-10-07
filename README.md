@@ -14,9 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
+|**2025-10-06**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
+|**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
+|**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
+|**2025-10-05**|**GDiffuSE: Diffusion-based speech enhancement with noise model guidance**|Efrayim Yanir et.al.|[2510.04157](http://arxiv.org/abs/2510.04157)|null|
+|**2025-10-05**|**Tensor tomography on asymptotically hyperbolic surfaces**|Nikolas Eptaminitakis et.al.|[2510.04144](http://arxiv.org/abs/2510.04144)|null|
+|**2025-10-05**|**A Multilingual Framework for Dysarthria: Detection, Severity Classification, Speech-to-Text, and Clean Speech Generation**|Ananya Raghu et.al.|[2510.03986](http://arxiv.org/abs/2510.03986)|null|
 |**2025-10-03**|**Evaluation of preprocessing pipelines in the creation of in-the-wild TTS datasets**|Matías Di Bernardo et.al.|[2510.03111](http://arxiv.org/abs/2510.03111)|null|
 |**2025-10-03**|**Flamed-TTS: Flow Matching Attention-Free Models for Efficient Generating and Dynamic Pacing Zero-shot Text-to-Speech**|Hieu-Nghia Huynh-Nguyen et.al.|[2510.02848](http://arxiv.org/abs/2510.02848)|null|
 |**2025-10-03**|**Hunt for the mHz variability in the TESS and XMM-Newton observations of nova-like cataclysmic variables**|Andrej Dobrotka et.al.|[2510.02834](http://arxiv.org/abs/2510.02834)|null|
+|**2025-10-03**|**Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
 |**2025-10-02**|**Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage**|Siddhant Arora et.al.|[2510.02044](http://arxiv.org/abs/2510.02044)|null|
 |**2025-10-02**|**Emotional Text-To-Speech Based on Mutual-Information-Guided Emotion-Timbre Disentanglement**|Jianing Yang et.al.|[2510.01722](http://arxiv.org/abs/2510.01722)|null|
 |**2025-10-02**|**FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates**|Jiaqi Li et.al.|[2510.00981](http://arxiv.org/abs/2510.00981)|null|
