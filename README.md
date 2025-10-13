@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models**|Donghang Wu et.al.|[2510.09592](http://arxiv.org/abs/2510.09592)|null|
+|**2025-10-10**|**A family of non-simple surfaces whose transport twistor spaces admit global blow-down maps**|François Monard et.al.|[2510.09518](http://arxiv.org/abs/2510.09518)|null|
+|**2025-10-10**|**O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion**|Huu Tuong Tu et.al.|[2510.09061](http://arxiv.org/abs/2510.09061)|null|
+|**2025-10-10**|**DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment**|Zongcai Du et.al.|[2510.09016](http://arxiv.org/abs/2510.09016)|null|
 |**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-09**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yolo Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
 |**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
@@ -23,6 +27,7 @@
 |**2025-10-09**|**Self-Improving LLM Agents at Test-Time**|Emre Can Acikgoz et.al.|[2510.07841](http://arxiv.org/abs/2510.07841)|null|
 |**2025-10-09**|**From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation**|Xiangwei Lv et.al.|[2510.07762](http://arxiv.org/abs/2510.07762)|null|
 |**2025-10-09**|**Parallel Test-Time Scaling for Latent Reasoning Models**|Runyang You et.al.|[2510.07745](http://arxiv.org/abs/2510.07745)|null|
+|**2025-10-09**|**Theoretical Analysis of Topotomography Using Small Intragranular Strain Approximations**|Zheheng Liu et.al.|[2510.08712](http://arxiv.org/abs/2510.08712)|null|
 |**2025-10-08**|**Gauge Dependence of Scalar-Induced Gravitational Waves from Isocurvature Perturbations: Analytical Results**|Arshad Ali et.al.|[2510.07252](http://arxiv.org/abs/2510.07252)|null|
 |**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
 |**2025-10-08**|**Towards Responsible Evaluation for Text-to-Speech**|Yifan Yang et.al.|[2510.06927](http://arxiv.org/abs/2510.06927)|null|
