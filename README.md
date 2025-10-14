@@ -14,10 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
+|**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
+|**2025-10-12**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
+|**2025-10-12**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
+|**2025-10-11**|**Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey**|Jiaqi Wei et.al.|[2510.09988](http://arxiv.org/abs/2510.09988)|null|
 |**2025-10-10**|**Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models**|Donghang Wu et.al.|[2510.09592](http://arxiv.org/abs/2510.09592)|null|
 |**2025-10-10**|**A family of non-simple surfaces whose transport twistor spaces admit global blow-down maps**|François Monard et.al.|[2510.09518](http://arxiv.org/abs/2510.09518)|null|
 |**2025-10-10**|**O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion**|Huu Tuong Tu et.al.|[2510.09061](http://arxiv.org/abs/2510.09061)|null|
 |**2025-10-10**|**DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment**|Zongcai Du et.al.|[2510.09016](http://arxiv.org/abs/2510.09016)|null|
+|**2025-10-10**|**Tensor-based compression of the sea temperature data**|Ilya Kosolapov et.al.|[2510.09778](http://arxiv.org/abs/2510.09778)|null|
 |**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-09**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yolo Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
 |**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
