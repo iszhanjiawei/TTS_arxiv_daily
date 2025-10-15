@@ -1,4 +1,4 @@
-## Updated on 2025.10.14
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-14**|**Structured covariance estimation via tensor-train decomposition**|Artsiom Patarusau et.al.|[2510.08174](http://arxiv.org/abs/2510.08174)|null|
+|**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
+|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
-|**2025-10-12**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
-|**2025-10-12**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
 |**2025-10-11**|**Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey**|Jiaqi Wei et.al.|[2510.09988](http://arxiv.org/abs/2510.09988)|null|
 |**2025-10-10**|**Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models**|Donghang Wu et.al.|[2510.09592](http://arxiv.org/abs/2510.09592)|null|
 |**2025-10-10**|**A family of non-simple surfaces whose transport twistor spaces admit global blow-down maps**|François Monard et.al.|[2510.09518](http://arxiv.org/abs/2510.09518)|null|
@@ -27,7 +28,6 @@
 |**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
 |**2025-10-09**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yolo Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
 |**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
-|**2025-10-09**|**Structured covariance estimation via tensor-train decomposition**|Artsiom Patarusau et.al.|[2510.08174](http://arxiv.org/abs/2510.08174)|null|
 |**2025-10-09**|**IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation**|Wei Wang et.al.|[2510.07979](http://arxiv.org/abs/2510.07979)|null|
 |**2025-10-09**|**VoiceAgentBench: Are Voice Assistants ready for agentic tasks?**|Dhruv Jain et.al.|[2510.07978](http://arxiv.org/abs/2510.07978)|null|
 |**2025-10-09**|**Self-Improving LLM Agents at Test-Time**|Emre Can Acikgoz et.al.|[2510.07841](http://arxiv.org/abs/2510.07841)|null|
@@ -1202,5 +1202,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251015>back to top</a>)</p>
 
