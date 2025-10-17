@@ -1,4 +1,4 @@
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
@@ -26,7 +27,6 @@
 |**2025-10-14**|**Content Anonymization for Privacy in Long-form Audio**|Cristina Aggazzotti et.al.|[2510.12780](http://arxiv.org/abs/2510.12780)|null|
 |**2025-10-14**|**TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.|[2510.12670](http://arxiv.org/abs/2510.12670)|null|
 |**2025-10-14**|**Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation**|Greta Damo et.al.|[2510.12316](http://arxiv.org/abs/2510.12316)|null|
-|**2025-10-14**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
 |**2025-10-14**|**Toward First-Principles Multi-Messenger Predictions: Coupling Nuclear Networks with GR Radiation-MHD in {\tt Gmunu}**|Patrick Chi-Kit Cheong et.al.|[2510.12978](http://arxiv.org/abs/2510.12978)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
@@ -1215,5 +1215,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
 
