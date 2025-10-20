@@ -14,10 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**High order Tensor-Train-Based Schemes for High-Dimensional Mean Field Games**|Elisabetta Carlini et.al.|[2510.15603](http://arxiv.org/abs/2510.15603)|null|
 |**2025-10-16**|**Improving Cybercrime Detection and Digital Forensics Investigations with Artificial Intelligence**|Silvia Lucia Sanna et.al.|[2510.14638](http://arxiv.org/abs/2510.14638)|null|
 |**2025-10-16**|**RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF**|Qing Yang et.al.|[2510.14628](http://arxiv.org/abs/2510.14628)|null|
 |**2025-10-16**|**The tt*-structure for the quantum cohomology of complex Grassmannian**|Tadashi Udagawa et.al.|[2510.14483](http://arxiv.org/abs/2510.14483)|null|
 |**2025-10-16**|**Radiation pressure and equation of state are important in the envelope unbinding process in common envelope evolution**|Zhuo Chen et.al.|[2510.14173](http://arxiv.org/abs/2510.14173)|null|
+|**2025-10-16**|**Hints for dynamical dark energy from warm inflation**|Anupama B et.al.|[2510.15051](http://arxiv.org/abs/2510.15051)|null|
 |**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
