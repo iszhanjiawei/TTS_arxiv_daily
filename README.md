@@ -1,4 +1,4 @@
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-22**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
 |**2025-10-21**|**KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers**|Mohd Ruhul Ameen et.al.|[2510.18355](http://arxiv.org/abs/2510.18355)|null|
 |**2025-10-21**|**ParaStyleTTS: Toward Efficient and Robust Paralinguistic Style Control for Expressive Text-to-Speech Generation**|Haowei Lou et.al.|[2510.18308](http://arxiv.org/abs/2510.18308)|null|
 |**2025-10-20**|**Radiation pressure and equation of state are important in the envelope unbinding process in common envelope evolution**|Zhuo Chen et.al.|[2510.14173](http://arxiv.org/abs/2510.14173)|null|
@@ -21,7 +22,6 @@
 |**2025-10-18**|**Edge-Based Speech Transcription and Synthesis for Kinyarwanda and Swahili Languages**|Pacome Simon Mbonimpa et.al.|[2510.16497](http://arxiv.org/abs/2510.16497)|null|
 |**2025-10-18**|**TrajSelector: Harnessing Latent Representations for Efficient and Effective Best-of-N in Large Reasoning Model**|Bin Yu et.al.|[2510.16449](http://arxiv.org/abs/2510.16449)|null|
 |**2025-10-17**|**High order Tensor-Train-Based Schemes for High-Dimensional Mean Field Games**|Elisabetta Carlini et.al.|[2510.15603](http://arxiv.org/abs/2510.15603)|null|
-|**2025-10-17**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
 |**2025-10-16**|**Improving Cybercrime Detection and Digital Forensics Investigations with Artificial Intelligence**|Silvia Lucia Sanna et.al.|[2510.14638](http://arxiv.org/abs/2510.14638)|null|
 |**2025-10-16**|**RLAIF-SPA: Optimizing LLM-based Emotional Speech Synthesis via RLAIF**|Qing Yang et.al.|[2510.14628](http://arxiv.org/abs/2510.14628)|null|
 |**2025-10-16**|**The tt*-structure for the quantum cohomology of complex Grassmannian**|Tadashi Udagawa et.al.|[2510.14483](http://arxiv.org/abs/2510.14483)|null|
@@ -1228,5 +1228,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
