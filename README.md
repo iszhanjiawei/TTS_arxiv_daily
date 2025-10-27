@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
+|**2025-10-24**|**SHAP Meets Tensor Networks: Provably Tractable Explanations with Parallelism**|Reda Marzouk et.al.|[2510.21599](http://arxiv.org/abs/2510.21599)|null|
 |**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
 |**2025-10-23**|**SpeechAgent: An End-to-End Mobile Infrastructure for Speech Impairment Assistance**|Haowei Lou et.al.|[2510.20113](http://arxiv.org/abs/2510.20113)|null|
 |**2025-10-22**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
