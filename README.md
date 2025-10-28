@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
+|**2025-10-27**|**BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents**|Litu Ou et.al.|[2510.23458](http://arxiv.org/abs/2510.23458)|null|
+|**2025-10-27**|**Detecting Intermediate-Mass Black Holes out to 20 Mpc with ELT/HARMONI: The Case of FCC 119**|Hai N. Ngo et.al.|[2510.22959](http://arxiv.org/abs/2510.22959)|null|
+|**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|
+|**2025-10-25**|**T2SMark: Balancing Robustness and Diversity in Noise-as-Watermark for Diffusion Models**|Jindong Yang et.al.|[2510.22366](http://arxiv.org/abs/2510.22366)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
 |**2025-10-24**|**SHAP Meets Tensor Networks: Provably Tractable Explanations with Parallelism**|Reda Marzouk et.al.|[2510.21599](http://arxiv.org/abs/2510.21599)|null|
 |**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
