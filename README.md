@@ -14,11 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2511.04653](http://arxiv.org/abs/2511.04653)|null|
+|**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**Adaptive Randomized Tensor Train Rounding using Khatri-Rao Products**|Hussam Al Daas et.al.|[2511.03598](http://arxiv.org/abs/2511.03598)|null|
 |**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
 |**2025-11-05**|**Quasi-Periodic Polarized Emissions from Kink Structure in Magnetized Relativistic Jets**|Xu-Fan Hu et.al.|[2511.03140](http://arxiv.org/abs/2511.03140)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
+|**2025-11-05**|**LoRA-Edge: Tensor-Train-Assisted LoRA for Practical CNN Fine-Tuning on Edge Devices**|Hyunseok Kwak et.al.|[2511.03765](http://arxiv.org/abs/2511.03765)|null|
 |**2025-11-04**|**Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision**|Kaimeng Jia et.al.|[2511.02270](http://arxiv.org/abs/2511.02270)|null|
 |**2025-11-03**|**Toward Objective and Interpretable Prosody Evaluation in Text-to-Speech: A Linguistically Motivated Approach**|Cedric Chan et.al.|[2511.02104](http://arxiv.org/abs/2511.02104)|null|
 |**2025-11-01**|**Challenging DINOv3 Foundation Model under Low Inter-Class Variability: A Case Study on Fetal Brain Ultrasound**|Edoardo Conti et.al.|[2511.01915](http://arxiv.org/abs/2511.01915)|null|
