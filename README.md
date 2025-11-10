@@ -15,6 +15,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-11-07**|**LoRA-Edge: Tensor-Train-Assisted LoRA for Practical CNN Fine-Tuning on Edge Devices**|Hyunseok Kwak et.al.|[2511.03765](http://arxiv.org/abs/2511.03765)|null|
+|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
+|**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-06**|**TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2511.04653](http://arxiv.org/abs/2511.04653)|null|
 |**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
