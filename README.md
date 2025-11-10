@@ -1,4 +1,4 @@
-## Updated on 2025.11.09
+## Updated on 2025.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-07**|**LoRA-Edge: Tensor-Train-Assisted LoRA for Practical CNN Fine-Tuning on Edge Devices**|Hyunseok Kwak et.al.|[2511.03765](http://arxiv.org/abs/2511.03765)|null|
 |**2025-11-06**|**TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2511.04653](http://arxiv.org/abs/2511.04653)|null|
 |**2025-11-06**|**Random access Bell game by sequentially measuring the control of the quantum SWITCH**|Gaurang Agrawal et.al.|[2511.04272](http://arxiv.org/abs/2511.04272)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
@@ -21,7 +22,6 @@
 |**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
 |**2025-11-05**|**Quasi-Periodic Polarized Emissions from Kink Structure in Magnetized Relativistic Jets**|Xu-Fan Hu et.al.|[2511.03140](http://arxiv.org/abs/2511.03140)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
-|**2025-11-05**|**LoRA-Edge: Tensor-Train-Assisted LoRA for Practical CNN Fine-Tuning on Edge Devices**|Hyunseok Kwak et.al.|[2511.03765](http://arxiv.org/abs/2511.03765)|null|
 |**2025-11-04**|**Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision**|Kaimeng Jia et.al.|[2511.02270](http://arxiv.org/abs/2511.02270)|null|
 |**2025-11-03**|**Toward Objective and Interpretable Prosody Evaluation in Text-to-Speech: A Linguistically Motivated Approach**|Cedric Chan et.al.|[2511.02104](http://arxiv.org/abs/2511.02104)|null|
 |**2025-11-01**|**Challenging DINOv3 Foundation Model under Low Inter-Class Variability: A Case Study on Fetal Brain Ultrasound**|Edoardo Conti et.al.|[2511.01915](http://arxiv.org/abs/2511.01915)|null|
@@ -1264,5 +1264,5 @@
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
 
-<p align=right>(<a href=#updated-on-20251109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251110>back to top</a>)</p>
 
