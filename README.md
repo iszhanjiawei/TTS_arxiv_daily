@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
+|**2025-11-10**|**A catalog of new blue stragglers in open clusters with Gaia DR3**|Songmei Qin et.al.|[2511.07043](http://arxiv.org/abs/2511.07043)|null|
+|**2025-11-09**|**IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping**|Zeyan Liu et.al.|[2511.06246](http://arxiv.org/abs/2511.06246)|null|
 |**2025-11-07**|**LoRA-Edge: Tensor-Train-Assisted LoRA for Practical CNN Fine-Tuning on Edge Devices**|Hyunseok Kwak et.al.|[2511.03765](http://arxiv.org/abs/2511.03765)|null|
 |**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
