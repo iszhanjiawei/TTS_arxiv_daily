@@ -735,8 +735,8 @@
 |**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
 |**2025-05-13**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|null|
 |**2025-05-13**|**Investigating self-supervised features for expressive, multilingual voice conversion**|Álvaro Martín-Cortinas et.al.|[2505.08278](http://arxiv.org/abs/2505.08278)|null|
+|**2025-05-13**|**Lightweight End-to-end Text-to-speech Synthesis for low resource on-device applications**|Biel Tura Vecino et.al.|[2505.07701](http://arxiv.org/abs/2505.07701)|null|
 |**2025-05-13**|**SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation**|Yu-Ren Guo et.al.|[2505.03244](http://arxiv.org/abs/2505.03244)|null|
-|**2025-05-12**|**Lightweight End-to-end Text-to-speech Synthesis for low resource on-device applications**|Biel Tura Vecino et.al.|[2505.07701](http://arxiv.org/abs/2505.07701)|null|
 |**2025-05-12**|**MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder**|Bowen Zhang et.al.|[2505.07916](http://arxiv.org/abs/2505.07916)|null|
 |**2025-05-12**|**On the Cost and Benefits of Training Context with Utterance or Full Conversation Training: A Comparative Stud**|Hyouin Liu et.al.|[2505.07202](http://arxiv.org/abs/2505.07202)|null|
 |**2025-05-11**|**A Matrix Product State Representation of Boolean Functions**|Umut Eren Usturali et.al.|[2505.01930](http://arxiv.org/abs/2505.01930)|null|
@@ -1263,12 +1263,31 @@
 |**2024-06-07**|**Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study**|Chong Zhang et.al.|[2406.04633](http://arxiv.org/abs/2406.04633)|null|
 |**2024-06-06**|**Total-Duration-Aware Duration Modeling for Text-to-Speech Systems**|Sefik Emre Eskimez et.al.|[2406.04281](http://arxiv.org/abs/2406.04281)|null|
 |**2024-06-06**|**Simulation-based Inference for Gravitational-waves from Intermediate-Mass Binary Black Holes in Real Noise**|Vivien Raymond et.al.|[2406.03935](http://arxiv.org/abs/2406.03935)|null|
+|**2024-06-06**|**Parallel Synthesis for Autoregressive Speech Generation**|Po-chun Hsu et.al.|[2204.11806](http://arxiv.org/abs/2204.11806)|null|
 |**2024-06-02**|**Full-Atom Peptide Design based on Multi-modal Flow Matching**|Jiahan Li et.al.|[2406.00735](http://arxiv.org/abs/2406.00735)|null|
 |**2024-05-26**|**Reflected Flow Matching**|Tianyu Xie et.al.|[2405.16577](http://arxiv.org/abs/2405.16577)|null|
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
 |**2024-05-23**|**From Fourier to Neural ODEs: Flow Matching for Modeling Complex Systems**|Xin Li et.al.|[2405.11542](http://arxiv.org/abs/2405.11542)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-01**|**F $^3$ low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching**|Shaoning Li et.al.|[2405.00751](http://arxiv.org/abs/2405.00751)|null|
+|**2023-12-19**|**Zero-shot text-to-speech synthesis conditioned using self-supervised speech representation model**|Kenichi Fujita et.al.|[2304.11976](http://arxiv.org/abs/2304.11976)|null|
+|**2023-05-31**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|null|
+|**2023-05-25**|**Autovocoder: Fast Waveform Generation from a Learned Speech Representation using Differentiable Digital Signal Processing**|Jacob J Webber et.al.|[2211.06989](http://arxiv.org/abs/2211.06989)|null|
+|**2022-10-03**|**Detection of Prosodic Boundaries in Speech Using Wav2Vec 2.0**|Marie Kunešová et.al.|[2209.15032](http://arxiv.org/abs/2209.15032)|null|
+|**2022-08-01**|**Meta-TTS: Meta-Learning for Few-Shot Speaker Adaptive Text-to-Speech**|Sung-Feng Huang et.al.|[2111.04040](http://arxiv.org/abs/2111.04040)|null|
+|**2022-02-25**|**Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis**|Erica Cooper et.al.|[2104.12292](http://arxiv.org/abs/2104.12292)|null|
+|**2021-07-13**|**Extending Text-to-Speech Synthesis with Articulatory Movement Prediction using Ultrasound Tongue Imaging**|Tamás Gábor Csapó et.al.|[2107.05550](http://arxiv.org/abs/2107.05550)|null|
+|**2021-07-07**|**Location, Location: Enhancing the Evaluation of Text-to-Speech Synthesis Using the Rapid Prosody Transcription Paradigm**|Elijah Gutierrez et.al.|[2107.02527](http://arxiv.org/abs/2107.02527)|null|
+|**2021-07-06**|**Speech Synthesis from Text and Ultrasound Tongue Image-based Articulatory Input**|Tamás Gábor Csapó et.al.|[2107.02003](http://arxiv.org/abs/2107.02003)|null|
+|**2021-06-22**|**Advances in Speech Vocoding for Text-to-Speech with Continuous Parameters**|Mohammed Salah Al-Radhi et.al.|[2106.10481](http://arxiv.org/abs/2106.10481)|null|
+|**2021-03-29**|**GraphSpeech: Syntax-Aware Graph Attention Network For Neural Speech Synthesis**|Rui Liu et.al.|[2010.12423](http://arxiv.org/abs/2010.12423)|null|
+|**2021-01-07**|**Transfer Learning from Speech Synthesis to Voice Conversion with Non-Parallel Training Data**|Mingyang Zhang et.al.|[2009.14399](http://arxiv.org/abs/2009.14399)|null|
+|**2020-05-22**|**Cross-lingual Multispeaker Text-to-Speech under Limited-Data Scenario**|Zexin Cai et.al.|[2005.10441](http://arxiv.org/abs/2005.10441)|null|
+|**2019-09-24**|**Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**|David Álvarez et.al.|[1906.00733](http://arxiv.org/abs/1906.00733)|null|
+|**2019-08-28**|**Neural Harmonic-plus-Noise Waveform Model with Trainable Maximum Voice Frequency for Text-to-Speech Synthesis**|Xin Wang et.al.|[1908.10256](http://arxiv.org/abs/1908.10256)|null|
+|**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
+|**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
+|**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
 <p align=right>(<a href=#updated-on-20251112>back to top</a>)</p>
 
