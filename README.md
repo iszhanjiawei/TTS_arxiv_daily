@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement**|Xiaobin Rong et.al.|[2511.13300](http://arxiv.org/abs/2511.13300)|null|
+|**2025-11-17**|**Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms**|Patrick Parschan et.al.|[2511.13238](http://arxiv.org/abs/2511.13238)|null|
+|**2025-11-17**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
+|**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|null|
+|**2025-11-17**|**A Smart-Glasses for Emergency Medical Services via Multimodal Multitask Learning**|Liuyi Jin et.al.|[2511.13078](http://arxiv.org/abs/2511.13078)|null|
+|**2025-11-17**|**CalibrateMix: Guided-Mixup Calibration of Image Semi-Supervised Models**|Mehrab Mustafy Rahman et.al.|[2511.12964](http://arxiv.org/abs/2511.12964)|null|
+|**2025-11-16**|**Improving Direct Persian-English Speech-to-Speech Translation with Discrete Units and Synthetic Parallel Data**|Sina Rashidi et.al.|[2511.12690](http://arxiv.org/abs/2511.12690)|null|
+|**2025-11-16**|**Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans**|Hongbin Huang et.al.|[2511.12662](http://arxiv.org/abs/2511.12662)|null|
+|**2025-11-16**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|null|
+|**2025-11-16**|**DenseAnnotate: Enabling Scalable Dense Caption Collection for Images and 3D Scenes via Spoken Descriptions**|Xiaoyu Lin et.al.|[2511.12452](http://arxiv.org/abs/2511.12452)|null|
+|**2025-11-15**|**VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing**|Zhisheng Zheng et.al.|[2511.12347](http://arxiv.org/abs/2511.12347)|null|
+|**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|
+|**2025-11-15**|**MF-Speech: Achieving Fine-Grained and Compositional Control in Speech Generation via Factor Disentanglement**|Xinyue Yu et.al.|[2511.12074](http://arxiv.org/abs/2511.12074)|null|
 |**2025-11-14**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
 |**2025-11-14**|**Proactive Hearing Assistants that Isolate Egocentric Conversations**|Guilin Hu et.al.|[2511.11473](http://arxiv.org/abs/2511.11473)|null|
 |**2025-11-14**|**Language-Aided State Estimation**|Yuki Miyoshi et.al.|[2511.11285](http://arxiv.org/abs/2511.11285)|null|
