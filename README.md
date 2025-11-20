@@ -14,13 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-19**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
+|**2025-11-19**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
+|**2025-11-19**|**Auden-Voice: General-Purpose Voice Encoder for Speech and Language Understanding**|Mingyue Huo et.al.|[2511.15145](http://arxiv.org/abs/2511.15145)|null|
+|**2025-11-19**|**Aligning Generative Music AI with Human Preferences: Methods and Challenges**|Dorien Herremans et.al.|[2511.15038](http://arxiv.org/abs/2511.15038)|null|
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
 |**2025-11-18**|**Periods in equivariant and motivic contexts**|Martin Gallauer et.al.|[2511.14325](http://arxiv.org/abs/2511.14325)|null|
 |**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
 |**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
-|**2025-11-18**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
 |**2025-11-18**|**FxSearcher: gradient-free text-driven audio transformation**|Hojoon Ki et.al.|[2511.14138](http://arxiv.org/abs/2511.14138)|null|
+|**2025-11-18**|**Quality-Controlled Multimodal Emotion Recognition in Conversations with Identity-Based Transfer Learning and MAMBA Fusion**|Zanxu Wang et.al.|[2511.14969](http://arxiv.org/abs/2511.14969)|null|
+|**2025-11-18**|**PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants**|Mingkun Yu et.al.|[2511.14852](http://arxiv.org/abs/2511.14852)|null|
+|**2025-11-18**|**Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2511.14824](http://arxiv.org/abs/2511.14824)|null|
 |**2025-11-17**|**PASE: Leveraging the Phonological Prior of WavLM for Low-Hallucination Generative Speech Enhancement**|Xiaobin Rong et.al.|[2511.13300](http://arxiv.org/abs/2511.13300)|null|
 |**2025-11-17**|**Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms**|Patrick Parschan et.al.|[2511.13238](http://arxiv.org/abs/2511.13238)|null|
 |**2025-11-17**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
