@@ -14,10 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-25**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
+|**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
+|**2025-11-25**|**Towards Edge General Intelligence: Knowledge Distillation for Mobile Agentic AI**|Yuxuan Wu et.al.|[2511.19947](http://arxiv.org/abs/2511.19947)|null|
+|**2025-11-25**|**Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models**|Qin Ren et.al.|[2511.19917](http://arxiv.org/abs/2511.19917)|null|
+|**2025-11-25**|**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**|Xiangyu Zhao et.al.|[2511.19877](http://arxiv.org/abs/2511.19877)|null|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
-|**2025-11-24**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
 |**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
 |**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
+|**2025-11-24**|**Evaluating Objective Speech Quality Metrics for Neural Audio Codecs**|Luca A. Lanzendörfer et.al.|[2511.19734](http://arxiv.org/abs/2511.19734)|null|
+|**2025-11-24**|**A Layered Protocol Architecture for the Internet of Agents**|Charles Fleming et.al.|[2511.19699](http://arxiv.org/abs/2511.19699)|null|
 |**2025-11-23**|**The Locally Deployable Virtual Doctor: LLM Based Human Interface for Automated Anamnesis and Database Conversion**|Jan Benedikt Ruhland et.al.|[2511.18632](http://arxiv.org/abs/2511.18632)|null|
 |**2025-11-23**|**InstructAudio: Unified speech and music generation with natural language instruction**|Chunyu Qiang et.al.|[2511.18487](http://arxiv.org/abs/2511.18487)|null|
 |**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
