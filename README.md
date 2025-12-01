@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Time Extrapolation with Graph Convolutional Autoencoder and Tensor Train Decomposition**|Yuanhong Chen et.al.|[2511.23037](http://arxiv.org/abs/2511.23037)|null|
+|**2025-11-28**|**CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation**|Fengyi Fang et.al.|[2511.22863](http://arxiv.org/abs/2511.22863)|null|
+|**2025-11-27**|**Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration**|Kanchon Gharami et.al.|[2511.22769](http://arxiv.org/abs/2511.22769)|null|
+|**2025-11-27**|**PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning**|Jiatong Shi et.al.|[2511.22687](http://arxiv.org/abs/2511.22687)|null|
+|**2025-11-27**|**Joint Speech and Text Training for LLM-Based End-to-End Spoken Dialogue State Tracking**|Katia Vendrame et.al.|[2511.22503](http://arxiv.org/abs/2511.22503)|null|
+|**2025-11-27**|**Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition**|Maheswar Bora et.al.|[2511.22443](http://arxiv.org/abs/2511.22443)|null|
+|**2025-11-27**|**GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis**|Teysir Baoueb et.al.|[2511.22293](http://arxiv.org/abs/2511.22293)|null|
+|**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
 |**2025-11-26**|**Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models**|Qin Ren et.al.|[2511.19917](http://arxiv.org/abs/2511.19917)|null|
 |**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
 |**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|
@@ -24,6 +33,7 @@
 |**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
 |**2025-11-26**|**Towards Audio Token Compression in Large Audio Language Models**|Saurabhchand Bhati et.al.|[2511.20973](http://arxiv.org/abs/2511.20973)|null|
 |**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|null|
+|**2025-11-26**|**Advancing Marine Bioacoustics with Deep Generative Models: A Hybrid Augmentation Strategy for Southern Resident Killer Whale Detection**|Bruno Padovese et.al.|[2511.21872](http://arxiv.org/abs/2511.21872)|null|
 |**2025-11-25**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
 |**2025-11-25**|**Towards Edge General Intelligence: Knowledge Distillation for Mobile Agentic AI**|Yuxuan Wu et.al.|[2511.19947](http://arxiv.org/abs/2511.19947)|null|
