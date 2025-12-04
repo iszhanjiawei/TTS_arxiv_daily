@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**TT Arietis: New approach to the analysis of quasi-periodic oscillations**|I. Vega-Manubens et.al.|[2512.04049](http://arxiv.org/abs/2512.04049)|null|
+|**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|
+|**2025-12-03**|**Production of charged Higgs bosons associated with CP-even Higgs bosons at future multi--TeV muon colliders**|Quang Hoang-Minh Pham et.al.|[2512.03810](http://arxiv.org/abs/2512.03810)|null|
+|**2025-12-03**|**Head, posture, and full-body gestures in interactive communication**|Ľuboš Hládek et.al.|[2512.03636](http://arxiv.org/abs/2512.03636)|null|
+|**2025-12-03**|**A Convolutional Framework for Mapping Imagined Auditory MEG into Listened Brain Responses**|Maryam Maghsoudi et.al.|[2512.03458](http://arxiv.org/abs/2512.03458)|null|
 |**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 |**2025-12-02**|**Perceptual evaluation of Acoustic Level of Detail in Virtual Acoustic Environments**|Stefan Fichna et.al.|[2512.02891](http://arxiv.org/abs/2512.02891)|null|
 |**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|
@@ -26,6 +31,8 @@
 |**2025-12-02**|**Laplace Approximation For Tensor Train Kernel Machines In System Identification**|Albert Saiapin et.al.|[2512.02532](http://arxiv.org/abs/2512.02532)|null|
 |**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|
 |**2025-12-02**|**VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables**|Lixing He et.al.|[2512.02515](http://arxiv.org/abs/2512.02515)|null|
+|**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
+|**2025-12-02**|**How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy**|Natalia Ponomareva et.al.|[2512.03238](http://arxiv.org/abs/2512.03238)|null|
 |**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
 |**2025-12-01**|**Cross-Lingual Interleaving for Speech Language Models**|Adel Moumen et.al.|[2512.01865](http://arxiv.org/abs/2512.01865)|null|
 |**2025-12-01**|**MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark**|Yuezhang Peng et.al.|[2512.01603](http://arxiv.org/abs/2512.01603)|null|
