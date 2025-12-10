@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-08**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
+|**2025-12-09**|**A Framework for Quantum Simulations of Energy-Loss and Hadronization in Non-Abelian Gauge Theories: SU(2) Lattice Gauge Theory in 1+1D**|Zhiyao Li et.al.|[2512.05210](http://arxiv.org/abs/2512.05210)|null|
+|**2025-12-09**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
 |**2025-12-08**|**MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection**|Xueping Zhang et.al.|[2512.07352](http://arxiv.org/abs/2512.07352)|null|
+|**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
 |**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](http://arxiv.org/abs/2512.06485)|null|
 |**2025-12-05**|**Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting**|Menghua Jiang et.al.|[2512.05619](http://arxiv.org/abs/2512.05619)|null|
 |**2025-12-05**|**SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures**|Panuthep Tasawong et.al.|[2512.05501](http://arxiv.org/abs/2512.05501)|null|
@@ -32,7 +34,6 @@
 |**2025-12-04**|**Limit cycles for speech**|Adamantios I. Gafos et.al.|[2512.04642](http://arxiv.org/abs/2512.04642)|null|
 |**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
 |**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|
-|**2025-12-04**|**A Framework for Quantum Simulations of Energy-Loss and Hadronization in Non-Abelian Gauge Theories: SU(2) Lattice Gauge Theory in 1+1D**|Zhiyao Li et.al.|[2512.05210](http://arxiv.org/abs/2512.05210)|null|
 |**2025-12-03**|**STCTS: Generative Semantic Compression for Ultra-Low Bitrate Speech via Explicit Text-Prosody-Timbre Decomposition**|Siyu Wang et.al.|[2512.00451](http://arxiv.org/abs/2512.00451)|null|
 |**2025-12-03**|**TT Arietis: New approach to the analysis of quasi-periodic oscillations**|I. Vega-Manubens et.al.|[2512.04049](http://arxiv.org/abs/2512.04049)|null|
 |**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|
