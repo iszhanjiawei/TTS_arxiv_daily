@@ -14,8 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance**|Kang Yin et.al.|[2512.09504](http://arxiv.org/abs/2512.09504)|null|
+|**2025-12-10**|**Symmetry-driven giant magneto-optical Kerr effects in altermagnet hematite**|Jiaxin Luo et.al.|[2512.09451](http://arxiv.org/abs/2512.09451)|null|
+|**2025-12-10**|**Tensor-Compressed and Fully-Quantized Training of Neural PDE Solvers**|Jinming Lu et.al.|[2512.09202](http://arxiv.org/abs/2512.09202)|null|
 |**2025-12-09**|**A Framework for Quantum Simulations of Energy-Loss and Hadronization in Non-Abelian Gauge Theories: SU(2) Lattice Gauge Theory in 1+1D**|Zhiyao Li et.al.|[2512.05210](http://arxiv.org/abs/2512.05210)|null|
 |**2025-12-09**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
+|**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
 |**2025-12-08**|**MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection**|Xueping Zhang et.al.|[2512.07352](http://arxiv.org/abs/2512.07352)|null|
 |**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
