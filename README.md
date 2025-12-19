@@ -14,18 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
+|**2025-12-18**|**A homogeneous geometry of low-rank tensors**|Simon Jacobsson et.al.|[2512.13594](http://arxiv.org/abs/2512.13594)|null|
+|**2025-12-18**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
+|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
+|**2025-12-17**|**Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization**|Yen-Ju Lu et.al.|[2512.14687](http://arxiv.org/abs/2512.14687)|null|
 |**2025-12-17**|**Space-Time Spectral Collocation Tensor-Network Approach for Maxwell's Equations**|Dibyendu Adak et.al.|[2512.15631](http://arxiv.org/abs/2512.15631)|null|
 |**2025-12-17**|**Rotatable IRS-Assisted 6DMA Communications: A Two-timescale Design**|Chao Zhou et.al.|[2512.15092](http://arxiv.org/abs/2512.15092)|null|
-|**2025-12-16**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
-|**2025-12-16**|**Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization**|Yen-Ju Lu et.al.|[2512.14687](http://arxiv.org/abs/2512.14687)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|null|
 |**2025-12-16**|**Primordial features and low- $\ell$ suppression from isocurvature modes in multi-field Higgs-$R^2$ inflation**|Flavio Pineda et.al.|[2512.14455](http://arxiv.org/abs/2512.14455)|null|
 |**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
 |**2025-12-16**|**Dynamical Tensor Train Approximation for Kinetic Equations**|Geshuo Wang et.al.|[2512.14950](http://arxiv.org/abs/2512.14950)|null|
-|**2025-12-15**|**A homogeneous geometry of low-rank tensors**|Simon Jacobsson et.al.|[2512.13594](http://arxiv.org/abs/2512.13594)|null|
 |**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
-|**2025-12-15**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
 |**2025-12-13**|**F5-TTS-RO: Extending F5-TTS to Romanian TTS via Lightweight Input Adaptation**|Radu-Gabriel Chivereanu et.al.|[2512.12297](http://arxiv.org/abs/2512.12297)|null|
 |**2025-12-12**|**Probable Quasi-Periodic Oscillations in the {\tt TESS} observations of blazars in the Swift X-ray Survey**|Ashutosh Tripathi et.al.|[2512.11266](http://arxiv.org/abs/2512.11266)|null|
 |**2025-12-12**|**Direct measurement of $^{59}$Cu($p$,$α$)$^{56}$ Ni precludes a strong NiCu cycle in Type-I X-ray bursts**|N. Bhathi et.al.|[2512.12025](http://arxiv.org/abs/2512.12025)|null|
