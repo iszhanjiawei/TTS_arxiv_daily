@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-19**|**Implicit Likelihood Inference of the Neutrino Mass Hierarchy from Cosmological Data**|Ke Wang et.al.|[2512.17744](http://arxiv.org/abs/2512.17744)|null|
+|**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
+|**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
+|**2025-12-19**|**Seed-Prover 1.5: Mastering Undergraduate-Level Theorem Proving via Learning from Experience**|Jiangjie Chen et.al.|[2512.17260](http://arxiv.org/abs/2512.17260)|null|
+|**2025-12-19**|**A robust morphological classification method for galaxies using dual-encoding contrastive learning and multi-clustering voting on JWST/NIRCam images**|Xiaolei Yin et.al.|[2512.17162](http://arxiv.org/abs/2512.17162)|null|
 |**2025-12-18**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
 |**2025-12-18**|**A homogeneous geometry of low-rank tensors**|Simon Jacobsson et.al.|[2512.13594](http://arxiv.org/abs/2512.13594)|null|
 |**2025-12-18**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
