@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Picosecond laser test unit for photosensor characterization at ambient and low temperatures**|Matthias Raphael Stock et.al.|[2512.19667](http://arxiv.org/abs/2512.19667)|null|
+|**2025-12-22**|**dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models**|Yi Xin et.al.|[2512.19433](http://arxiv.org/abs/2512.19433)|null|
+|**2025-12-22**|**Asymptotic and monodromy problems for higher-order Painlevé III equations**|Zikang Wang et.al.|[2512.19381](http://arxiv.org/abs/2512.19381)|null|
+|**2025-12-22**|**JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis**|Fan Yu et.al.|[2512.19090](http://arxiv.org/abs/2512.19090)|null|
+|**2025-12-21**|**Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform**|Yichuan Zhang et.al.|[2512.18791](http://arxiv.org/abs/2512.18791)|null|
+|**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](http://arxiv.org/abs/2512.18699)|null|
+|**2025-12-20**|**The MEVIR 2 Framework: A Virtue-Informed Moral-Epistemic Model of Human Trust Decisions**|Daniel Schwabe et.al.|[2512.18539](http://arxiv.org/abs/2512.18539)|null|
 |**2025-12-19**|**Implicit Likelihood Inference of the Neutrino Mass Hierarchy from Cosmological Data**|Ke Wang et.al.|[2512.17744](http://arxiv.org/abs/2512.17744)|null|
 |**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
 |**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
