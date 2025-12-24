@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**|Ji-Hoon Kim et.al.|[2512.20296](http://arxiv.org/abs/2512.20296)|null|
+|**2025-12-23**|**Critical Temperature(s) of Sierpiński Carpet(s)**|Riccardo Ben Alì Zinati et.al.|[2512.20295](http://arxiv.org/abs/2512.20295)|null|
+|**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-22**|**Picosecond laser test unit for photosensor characterization at ambient and low temperatures**|Matthias Raphael Stock et.al.|[2512.19667](http://arxiv.org/abs/2512.19667)|null|
 |**2025-12-22**|**dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models**|Yi Xin et.al.|[2512.19433](http://arxiv.org/abs/2512.19433)|null|
 |**2025-12-22**|**Asymptotic and monodromy problems for higher-order Painlevé III equations**|Zikang Wang et.al.|[2512.19381](http://arxiv.org/abs/2512.19381)|null|
