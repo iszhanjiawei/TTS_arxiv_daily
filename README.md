@@ -14,13 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
+|**2025-12-29**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
+|**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
+|**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
+|**2025-12-26**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|
 |**2025-12-26**|**Orbital stability of solitary waves for the Schr odinger-Boussinesq system**|Yilong Ma et.al.|[2512.21824](http://arxiv.org/abs/2512.21824)|null|
 |**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702](http://arxiv.org/abs/2512.21702)|null|
 |**2025-12-24**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
 |**2025-12-23**|**TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**|Ji-Hoon Kim et.al.|[2512.20296](http://arxiv.org/abs/2512.20296)|null|
 |**2025-12-23**|**Critical Temperature(s) of Sierpiński Carpet(s)**|Riccardo Ben Alì Zinati et.al.|[2512.20295](http://arxiv.org/abs/2512.20295)|null|
-|**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-23**|**Satellite Cybersecurity Across Orbital Altitudes: Analyzing Ground-Based Threats to LEO, MEO, and GEO**|Mark Ballard et.al.|[2512.21367](http://arxiv.org/abs/2512.21367)|null|
 |**2025-12-22**|**Picosecond laser test unit for photosensor characterization at ambient and low temperatures**|Matthias Raphael Stock et.al.|[2512.19667](http://arxiv.org/abs/2512.19667)|null|
 |**2025-12-22**|**dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models**|Yi Xin et.al.|[2512.19433](http://arxiv.org/abs/2512.19433)|null|
