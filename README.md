@@ -14,12 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-01**|**DepFlow: Disentangled Speech Generation to Mitigate Semantic Bias in Depression Detection**|Yuxin Li et.al.|[2601.00303](http://arxiv.org/abs/2601.00303)|null|
+|**2026-01-01**|**Latent Flow Matching for Expressive Singing Voice Synthesis**|Minhyeok Yun et.al.|[2601.00217](http://arxiv.org/abs/2601.00217)|null|
+|**2025-12-31**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
 |**2025-12-31**|**Proca stars and their frozen states in an infinite tower of higher-derivative gravity**|Jun-Ru Chen et.al.|[2512.24584](http://arxiv.org/abs/2512.24584)|null|
 |**2025-12-30**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-30**|**Search for charged Higgs bosons decaying into top and bottom quarks in lepton+jets final states in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2512.24471](http://arxiv.org/abs/2512.24471)|null|
 |**2025-12-30**|**A closer look at the young stellar group around Sh 2-295**|João Victor Corrêa-Rodrigues et.al.|[2512.24388](http://arxiv.org/abs/2512.24388)|null|
 |**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
-|**2025-12-29**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
 |**2025-12-29**|**MiMo-Audio: Audio Language Models are Few-Shot Learners**|Xiaomi LLM-Core Team et.al.|[2512.23808](http://arxiv.org/abs/2512.23808)|null|
 |**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
 |**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
