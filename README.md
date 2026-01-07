@@ -14,9 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170](http://arxiv.org/abs/2601.03170)|null|
+|**2026-01-06**|**A Kirchhoff equation with infinite conservation laws**|Chiara Boiti et.al.|[2601.03095](http://arxiv.org/abs/2601.03095)|null|
+|**2026-01-06**|**XLSR-MamBo: Scaling the Hybrid Mamba-Attention Backbone for Audio Deepfake Detection**|Kwok-Ho Ng et.al.|[2601.02944](http://arxiv.org/abs/2601.02944)|null|
+|**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
+|**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
 |**2026-01-05**|**Towards Prosodically Informed Mizo TTS without Explicit Tone Markings**|Abhijit Mohanta et.al.|[2601.02073](http://arxiv.org/abs/2601.02073)|null|
 |**2026-01-05**|**TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train**|Ungsik Kim et.al.|[2601.01903](http://arxiv.org/abs/2601.01903)|null|
 |**2026-01-05**|**A Training-Free Large Reasoning Model-based Knowledge Tracing Framework for Unified Prediction and Prescription**|Unggi Lee et.al.|[2601.01708](http://arxiv.org/abs/2601.01708)|null|
+|**2026-01-05**|**VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses**|Maryam Abbasihafshejani et.al.|[2601.02444](http://arxiv.org/abs/2601.02444)|null|
 |**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
 |**2026-01-04**|**OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech**|Yong Ren et.al.|[2601.01459](http://arxiv.org/abs/2601.01459)|null|
 |**2026-01-04**|**SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving**|Chaofan Tao et.al.|[2601.01426](http://arxiv.org/abs/2601.01426)|null|
