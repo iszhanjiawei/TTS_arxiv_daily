@@ -14,9 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888](http://arxiv.org/abs/2601.03888)|null|
+|**2026-01-08**|**FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions**|Dekun Chen et.al.|[2601.04656](http://arxiv.org/abs/2601.04656)|null|
+|**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](http://arxiv.org/abs/2601.04654)|null|
 |**2026-01-07**|**Agentic Rubrics as Contextual Verifiers for SWE Agents**|Mohit Raghavendra et.al.|[2601.04171](http://arxiv.org/abs/2601.04171)|null|
 |**2026-01-07**|**SpeakerSleuth: Evaluating Large Audio-Language Models as Judges for Multi-turn Speaker Consistency**|Jonggeun Lee et.al.|[2601.04029](http://arxiv.org/abs/2601.04029)|null|
-|**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888](http://arxiv.org/abs/2601.03888)|null|
 |**2026-01-07**|**Local Interpolation via Low-Rank Tensor Trains**|Siddhartha E. Guzman et.al.|[2601.03885](http://arxiv.org/abs/2601.03885)|null|
 |**2026-01-07**|**Computational hardness of estimating quantum entropies via binary entropy bounds**|Yupan Liu et.al.|[2601.03734](http://arxiv.org/abs/2601.03734)|null|
 |**2026-01-07**|**Stuttering-Aware Automatic Speech Recognition for Indonesian Language**|Fadhil Muhammad et.al.|[2601.03727](http://arxiv.org/abs/2601.03727)|null|
