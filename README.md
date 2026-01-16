@@ -14,14 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
+|**2026-01-15**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
+|**2026-01-15**|**VoiceSculptor: Your Voice, Designed By You**|Jingbin Hu et.al.|[2601.10629](http://arxiv.org/abs/2601.10629)|null|
+|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
+|**2026-01-15**|**Pulse thermal imaging of FUHAO bronze artifact**|Li Wang et.al.|[2601.10265](http://arxiv.org/abs/2601.10265)|null|
+|**2026-01-15**|**STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter**|Ziqi Xu et.al.|[2601.10223](http://arxiv.org/abs/2601.10223)|null|
+|**2026-01-15**|**Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL**|Zerui Yang et.al.|[2601.10011](http://arxiv.org/abs/2601.10011)|null|
 |**2026-01-14**|**Afri-MCQA: Multimodal Cultural Question Answering for African Languages**|Atnafu Lambebo Tonja et.al.|[2601.05699](http://arxiv.org/abs/2601.05699)|null|
-|**2026-01-14**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
 |**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Changyu Liu et.al.|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
 |**2026-01-13**|**Search for Cosmic Ray Electron Boosted Dark Matter with the CDEX-10 Experiment**|R. Xu et.al.|[2601.08746](http://arxiv.org/abs/2601.08746)|null|
 |**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|
 |**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
-|**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-12**|**Exclusive Decays of the Fully Heavy Tetraquarks into Light Mesons**|Feng Feng et.al.|[2601.07243](http://arxiv.org/abs/2601.07243)|null|
 |**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
