@@ -14,13 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**VoiceSculptor: Your Voice, Designed By You**|Jingbin Hu et.al.|[2601.10629](http://arxiv.org/abs/2601.10629)|null|
+|**2026-01-20**|**Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches**|Changhao Pan et.al.|[2601.13910](http://arxiv.org/abs/2601.13910)|null|
+|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|null|
+|**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
+|**2026-01-20**|**Large magneto-optical Kerr effect induced by collinear antiferromagnetic order**|H. Yoshimochi et.al.|[2601.13723](http://arxiv.org/abs/2601.13723)|null|
+|**2026-01-19**|**Nash approximation of differentiable semialgebraic maps**|Antonio Carbone et.al.|[2601.13164](http://arxiv.org/abs/2601.13164)|null|
+|**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](http://arxiv.org/abs/2601.12966)|null|
+|**2026-01-19**|**Transverse modulation in electrovac Brinkmann pp-waves: Maxwell consistency and curvature universality**|Galin S. Valchev et.al.|[2601.12949](http://arxiv.org/abs/2601.12949)|null|
+|**2026-01-18**|**The $ν$ EYE Neutrino Telescope: Conceptual Design Report**|Shaomin Chen et.al.|[2601.12569](http://arxiv.org/abs/2601.12569)|null|
+|**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
+|**2026-01-18**|**LiQSS: Post-Transformer Linear Quantum-Inspired State-Space Tensor Networks for Real-Time 6G**|Farhad Rezazadeh et.al.|[2601.12375](http://arxiv.org/abs/2601.12375)|null|
+|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|null|
+|**2026-01-18**|**Confidence-based Filtering for Speech Dataset Curation with Generative Speech Enhancement Using Discrete Tokens**|Kazuki Yamauchi et.al.|[2601.12254](http://arxiv.org/abs/2601.12254)|null|
+|**2026-01-17**|**Examining possible doubly topped baryon configurations**|M. Shekari Tousi et.al.|[2601.11985](http://arxiv.org/abs/2601.11985)|null|
 |**2026-01-16**|**F-Actor: Controllable Conversational Behaviour in Full-Duplex Models**|Maike Züfle et.al.|[2601.11329](http://arxiv.org/abs/2601.11329)|null|
 |**2026-01-16**|**FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**|Tanyu Chen et.al.|[2601.11141](http://arxiv.org/abs/2601.11141)|null|
 |**2026-01-16**|**WenetSpeech-Wu: Datasets, Benchmarks, and Models for a Unified Chinese Wu Dialect Speech Processing Ecosystem**|Chengyou Wang et.al.|[2601.11027](http://arxiv.org/abs/2601.11027)|null|
 |**2026-01-16**|**Redefining Machine Simultaneous Interpretation: From Incremental Translation to Human-Like Strategies**|Qianen Zhang et.al.|[2601.11002](http://arxiv.org/abs/2601.11002)|null|
 |**2026-01-15**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-15**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
-|**2026-01-15**|**VoiceSculptor: Your Voice, Designed By You**|Jingbin Hu et.al.|[2601.10629](http://arxiv.org/abs/2601.10629)|null|
 |**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
 |**2026-01-15**|**Pulse thermal imaging of FUHAO bronze artifact**|Li Wang et.al.|[2601.10265](http://arxiv.org/abs/2601.10265)|null|
 |**2026-01-15**|**STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter**|Ziqi Xu et.al.|[2601.10223](http://arxiv.org/abs/2601.10223)|null|
