@@ -19,6 +19,8 @@
 |**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](http://arxiv.org/abs/2601.13802)|null|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-20**|**Large magneto-optical Kerr effect induced by collinear antiferromagnetic order**|H. Yoshimochi et.al.|[2601.13723](http://arxiv.org/abs/2601.13723)|null|
+|**2026-01-20**|**Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**|Mohammed Salah Al-Radhi et.al.|[2601.14472](http://arxiv.org/abs/2601.14472)|null|
+|**2026-01-20**|**Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis**|Thanathai Lertpetchpun et.al.|[2601.14417](http://arxiv.org/abs/2601.14417)|null|
 |**2026-01-19**|**Nash approximation of differentiable semialgebraic maps**|Antonio Carbone et.al.|[2601.13164](http://arxiv.org/abs/2601.13164)|null|
 |**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](http://arxiv.org/abs/2601.12966)|null|
 |**2026-01-19**|**Transverse modulation in electrovac Brinkmann pp-waves: Maxwell consistency and curvature universality**|Galin S. Valchev et.al.|[2601.12949](http://arxiv.org/abs/2601.12949)|null|
