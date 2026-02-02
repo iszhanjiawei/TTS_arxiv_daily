@@ -1,4 +1,4 @@
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion**|Yuxuan Lou et.al.|[2601.22889](http://arxiv.org/abs/2601.22889)|null|
+|**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873](http://arxiv.org/abs/2601.22873)|null|
+|**2026-01-30**|**Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability**|Yong Ren et.al.|[2601.22661](http://arxiv.org/abs/2601.22661)|null|
 |**2026-01-29**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
 |**2026-01-29**|**Speech Quality-Based Localization of Low-Quality Speech and Text-to-Speech Synthesis Artefacts**|Michael Kuhlmann et.al.|[2601.21886](http://arxiv.org/abs/2601.21886)|null|
 |**2026-01-29**|**Understanding Frechet Speech Distance for Synthetic Speech Quality Evaluation**|June-Woo Kim et.al.|[2601.21386](http://arxiv.org/abs/2601.21386)|null|
+|**2026-01-29**|**Sylber 2.0: A Universal Syllable Embedding**|Cheol Jun Cho et.al.|[2601.22306](http://arxiv.org/abs/2601.22306)|null|
 |**2026-01-28**|**Geometric purity and the frame of smashing ideals**|Juan Omar Gómez et.al.|[2601.20744](http://arxiv.org/abs/2601.20744)|null|
 |**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
 |**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481](http://arxiv.org/abs/2601.20481)|null|
@@ -1594,5 +1598,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
