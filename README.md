@@ -17,6 +17,9 @@
 |**2026-01-30**|**DiffuSpeech: Silent Thought, Spoken Answer via Unified Speech-Text Diffusion**|Yuxuan Lou et.al.|[2601.22889](http://arxiv.org/abs/2601.22889)|null|
 |**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873](http://arxiv.org/abs/2601.22873)|null|
 |**2026-01-30**|**Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability**|Yong Ren et.al.|[2601.22661](http://arxiv.org/abs/2601.22661)|null|
+|**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
+|**2026-01-30**|**Planar Graph Homomorphisms: A Dichotomy and a Barrier from Quantum Groups**|Jin-Yi Cai et.al.|[2601.23198](http://arxiv.org/abs/2601.23198)|null|
+|**2026-01-30**|**Hearing is Believing? Evaluating and Analyzing Audio Language Model Sycophancy with SYAUDIO**|Junchi Yao et.al.|[2601.23149](http://arxiv.org/abs/2601.23149)|null|
 |**2026-01-29**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
 |**2026-01-29**|**Speech Quality-Based Localization of Low-Quality Speech and Text-to-Speech Synthesis Artefacts**|Michael Kuhlmann et.al.|[2601.21886](http://arxiv.org/abs/2601.21886)|null|
 |**2026-01-29**|**Understanding Frechet Speech Distance for Synthetic Speech Quality Evaluation**|June-Woo Kim et.al.|[2601.21386](http://arxiv.org/abs/2601.21386)|null|
