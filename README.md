@@ -1,4 +1,4 @@
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,6 +23,7 @@
 |**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|null|
 |**2026-02-05**|**EGSS: Entropy-guided Stepwise Scaling for Reliable Software Engineering**|Chenhui Mao et.al.|[2602.05242](http://arxiv.org/abs/2602.05242)|null|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
+|**2026-02-05**|**Private and interpretable clinical prediction with quantum-inspired tensor train models**|José Ramón Pareja Monturiol et.al.|[2602.06110](http://arxiv.org/abs/2602.06110)|null|
 |**2026-02-04**|**WAXAL: A Large-Scale Multilingual African Language Speech Corpus**|Abdoulaye Diack et.al.|[2602.02734](http://arxiv.org/abs/2602.02734)|null|
 |**2026-02-04**|**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**|Xuenan Xu et.al.|[2602.04535](http://arxiv.org/abs/2602.04535)|null|
 |**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[2602.04307](http://arxiv.org/abs/2602.04307)|null|
@@ -1636,5 +1637,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
