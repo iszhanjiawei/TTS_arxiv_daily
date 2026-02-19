@@ -1,4 +1,4 @@
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Fragment-Based Configuration Interaction: Towards a Unifying Description of Biexcitonic Processes in Molecular Aggregates**|Johannes E. Adelsperger et.al.|[2602.16528](http://arxiv.org/abs/2602.16528)|null|
+|**2026-02-18**|**Emergent Topological Complexity in the Barabasi-Albert Model with Higher-Order Interactions**|Vadood Adami et.al.|[2602.16487](http://arxiv.org/abs/2602.16487)|null|
+|**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
 |**2026-02-17**|**Existence of large-data solutions to a thermo-piezoelectric system and forward operator analysis for associated inverse problems**|Torben J. Fricke et.al.|[2602.14848](http://arxiv.org/abs/2602.14848)|null|
 |**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](http://arxiv.org/abs/2602.15675)|null|
 |**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|
@@ -1665,5 +1668,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260219>back to top</a>)</p>
 
