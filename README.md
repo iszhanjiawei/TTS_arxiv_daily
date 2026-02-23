@@ -1,4 +1,4 @@
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Recursive Sketched Interpolation: Efficient Hadamard Products of Tensor Trains**|Zhaonan Meng et.al.|[2602.17974](http://arxiv.org/abs/2602.17974)|null|
 |**2026-02-19**|**Toward Precision Helicity PDFs from Global DIS and SIDIS Fits with Projected EIC Measurements**|Hamzeh Khanpour et.al.|[2602.17298](http://arxiv.org/abs/2602.17298)|null|
 |**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
+|**2026-02-19**|**Financial time series augmentation using transformer based GAN architecture**|Andrzej Podobiński et.al.|[2602.17865](http://arxiv.org/abs/2602.17865)|null|
 |**2026-02-18**|**Fragment-Based Configuration Interaction: Towards a Unifying Description of Biexcitonic Processes in Molecular Aggregates**|Johannes E. Adelsperger et.al.|[2602.16528](http://arxiv.org/abs/2602.16528)|null|
 |**2026-02-18**|**Emergent Topological Complexity in the Barabasi-Albert Model with Higher-Order Interactions**|Vadood Adami et.al.|[2602.16487](http://arxiv.org/abs/2602.16487)|null|
 |**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
@@ -37,6 +39,7 @@
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
 |**2026-02-12**|**Global solutions and large time stabilization in a model for thermoacoustics in a standard linear solid**|Tobias Black et.al.|[2602.12171](http://arxiv.org/abs/2602.12171)|null|
+|**2026-02-12**|**Spectral Homogenization of the Radiative Transfer Equation via Low-Rank Tensor Train Decomposition**|Y. Sungtaek Ju et.al.|[2602.17708](http://arxiv.org/abs/2602.17708)|null|
 |**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|null|
 |**2026-02-10**|**Covo-Audio Technical Report**|Wenfu Wang et.al.|[2602.09823](http://arxiv.org/abs/2602.09823)|null|
 |**2026-02-10**|**TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization**|Waris Quamer et.al.|[2602.09389](http://arxiv.org/abs/2602.09389)|null|
@@ -1671,5 +1674,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
 
