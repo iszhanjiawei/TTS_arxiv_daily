@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-22**|**CosyAccent: Duration-Controllable Accent Normalization Using Source-Synthesis Training Data**|Qibing Bai et.al.|[2602.19166](http://arxiv.org/abs/2602.19166)|null|
 |**2026-02-20**|**Recursive Sketched Interpolation: Efficient Hadamard Products of Tensor Trains**|Zhaonan Meng et.al.|[2602.17974](http://arxiv.org/abs/2602.17974)|null|
 |**2026-02-19**|**Toward Precision Helicity PDFs from Global DIS and SIDIS Fits with Projected EIC Measurements**|Hamzeh Khanpour et.al.|[2602.17298](http://arxiv.org/abs/2602.17298)|null|
 |**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
@@ -1674,5 +1675,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
