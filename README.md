@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
+|**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|null|
+|**2026-02-26**|**Deepfake Word Detection by Next-token Prediction using Fine-tuned Whisper**|Hoan My Tran et.al.|[2602.22658](http://arxiv.org/abs/2602.22658)|null|
 |**2026-02-25**|**Symbols frequencies in the Thue--Morse word in base $3/2$ and related conjectures**|Julien Cassaigne et.al.|[2602.21895](http://arxiv.org/abs/2602.21895)|null|
 |**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-25**|**Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages**|Imran Kabir et.al.|[2602.22131](http://arxiv.org/abs/2602.22131)|null|
@@ -21,6 +24,7 @@
 |**2026-02-24**|**Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios**|Yiming Yang et.al.|[2602.15519](http://arxiv.org/abs/2602.15519)|null|
 |**2026-02-24**|**Search for pair production of heavy resonances in final states with a photon and large-radius jets in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2602.20477](http://arxiv.org/abs/2602.20477)|null|
 |**2026-02-24**|**MIDI-Informed Singing Accompaniment Generation in a Compositional Song Pipeline**|Fang-Duo Tsai et.al.|[2602.22029](http://arxiv.org/abs/2602.22029)|null|
+|**2026-02-24**|**TT-SEAL: TTD-Aware Selective Encryption for Adversarially-Robust and Low-Latency Edge AI**|Kyeongpil Min et.al.|[2602.22238](http://arxiv.org/abs/2602.22238)|null|
 |**2026-02-23**|**Emergent Topological Complexity in the Barabasi-Albert Model with Higher-Order Interactions**|Vadood Adami et.al.|[2602.16487](http://arxiv.org/abs/2602.16487)|null|
 |**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**The asymptotic charges of Curtright dual graviton and Curtright extensions of BMS algebra**|Federico Manzoni et.al.|[2602.20037](http://arxiv.org/abs/2602.20037)|null|
