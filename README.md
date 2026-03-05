@@ -14,8 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Radius-Flow Entanglement in Hadron States and Gravitational Form Factors**|Kiminad A. Mamo et.al.|[2603.03064](http://arxiv.org/abs/2603.03064)|null|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al.|[2603.04145](http://arxiv.org/abs/2603.04145)|null|
 |**2026-03-03**|**Kinetic Equilibrium Prediction at TCV using RAPTOR and FBT**|C. E. Contré et.al.|[2603.01210](http://arxiv.org/abs/2603.01210)|null|
-|**2026-03-03**|**Radius-Flow Entanglement in Hadron States and Gravitational Form Factors**|Kiminad A. Mamo et.al.|[2603.03064](http://arxiv.org/abs/2603.03064)|null|
 |**2026-03-03**|**DLIOS: An LLM-Augmented Real-Time Multi-Modal Interactive Enhancement Overlay System for Douyin Live Streaming**|Shuide Wen et.al.|[2603.03060](http://arxiv.org/abs/2603.03060)|null|
 |**2026-03-03**|**Overmassive and Undermassive Massive Black Holes: The Role of Environment and Gravitational-Wave Recoils**|David Izquierdo-Villalba et.al.|[2603.02811](http://arxiv.org/abs/2603.02811)|null|
 |**2026-03-03**|**Rethinking Training Targets, Architectures and Data Quality for Universal Speech Enhancement**|Szu-Wei Fu et.al.|[2603.02641](http://arxiv.org/abs/2603.02641)|null|
