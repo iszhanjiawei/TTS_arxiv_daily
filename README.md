@@ -1,4 +1,4 @@
-## Updated on 2026.03.09
+## Updated on 2026.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,11 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
+|**2026-03-07**|**Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision**|Shreyas Gopal et.al.|[2603.07025](http://arxiv.org/abs/2603.07025)|null|
 |**2026-03-06**|**Prosodic Boundary-Aware Streaming Generation for LLM-Based TTS with Streaming Text Input**|Changsong Liu et.al.|[2603.06444](http://arxiv.org/abs/2603.06444)|null|
 |**2026-03-06**|**Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality**|Jieying Zhang et.al.|[2603.06030](http://arxiv.org/abs/2603.06030)|null|
 |**2026-03-06**|**Activation Steering for Accent-Neutralized Zero-Shot Text-To-Speech**|Mu Yang et.al.|[2603.05977](http://arxiv.org/abs/2603.05977)|null|
 |**2026-03-06**|**How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?**|Daixian Li et.al.|[2603.05852](http://arxiv.org/abs/2603.05852)|null|
 |**2026-03-06**|**StreamWise: Serving Multi-Modal Generation in Real-Time at Scale**|Haoran Qiu et.al.|[2603.05800](http://arxiv.org/abs/2603.05800)|null|
+|**2026-03-06**|**All $2D$ generalised dilaton theories from $d\geq 4$ gravities**|Johanna Borissova et.al.|[2603.06786](http://arxiv.org/abs/2603.06786)|null|
 |**2026-03-05**|**Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial**|Jielin Qiu et.al.|[2603.05413](http://arxiv.org/abs/2603.05413)|null|
 |**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](http://arxiv.org/abs/2603.05373)|null|
 |**2026-03-05**|**WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation**|Luca Della Libera et.al.|[2603.05299](http://arxiv.org/abs/2603.05299)|null|
@@ -1717,5 +1720,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
 
