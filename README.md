@@ -1,4 +1,4 @@
-## Updated on 2026.03.23
+## Updated on 2026.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-22**|**Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation**|Tianle Yang et.al.|[2603.21078](http://arxiv.org/abs/2603.21078)|null|
+|**2026-03-21**|**The Binding Effect: Analyzing How Multi-Dimensional Cues Form Gender Bias in Instruction TTS**|Kuan-Yu Chen et.al.|[2603.20743](http://arxiv.org/abs/2603.20743)|null|
+|**2026-03-21**|**SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection**|Kyudan Jung et.al.|[2603.20686](http://arxiv.org/abs/2603.20686)|null|
 |**2026-03-20**|**MOSS-TTS Technical Report**|Yitian Gong et.al.|[2603.18090](http://arxiv.org/abs/2603.18090)|null|
 |**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
 |**2026-03-20**|**On tt*-structures from $ADE$ -type Stokes data**|Tadashi Udagawa et.al.|[2603.19871](http://arxiv.org/abs/2603.19871)|null|
@@ -1781,5 +1784,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260324>back to top</a>)</p>
 
