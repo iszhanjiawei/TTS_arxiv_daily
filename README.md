@@ -17,6 +17,7 @@
 |**2026-03-30**|**Hydra: Unifying Document Retrieval and Generation in a Single Vision-Language Model**|Athos Georgiou et.al.|[2603.28554](http://arxiv.org/abs/2603.28554)|null|
 |**2026-03-30**|**Compressing Transformer Language Models via Matrix Product Operator Decomposition: A Case Study on PicoGPT**|Younes Javanmard et.al.|[2603.28534](http://arxiv.org/abs/2603.28534)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
+|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|Anuj Diwan et.al.|[2603.28737](http://arxiv.org/abs/2603.28737)|null|
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**The motivic tt-geometry of real quadrics**|Jean Paul Schemeil et.al.|[2603.26492](http://arxiv.org/abs/2603.26492)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
