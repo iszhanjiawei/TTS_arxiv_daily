@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**Probing Unification Scenarios with Big Bang Nucleosynthesis**|I. M. Dreyer et.al.|[2604.04870](http://arxiv.org/abs/2604.04870)|null|
+|**2026-04-06**|**Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency**|Guan-Ting Lin et.al.|[2604.04847](http://arxiv.org/abs/2604.04847)|null|
+|**2026-04-06**|**Joint Fullband-Subband Modeling for High-Resolution SingFake Detection**|Xuanjun Chen et.al.|[2604.04841](http://arxiv.org/abs/2604.04841)|null|
+|**2026-04-06**|**nascTime: A Full-Stack 5G-TSN Bridge Simulation Framework with SDAP-Based QoS Mapping and IEEE 802.1AS Transparent Clock**|Mohamed Seliem et.al.|[2604.04616](http://arxiv.org/abs/2604.04616)|null|
+|**2026-04-06**|**MC-GenRef: Annotation-free mammography microcalcification segmentation with generative posterior refinement**|Hyunwoo Cho et.al.|[2604.04470](http://arxiv.org/abs/2604.04470)|null|
+|**2026-04-06**|**Geometry of the tt*-Toda equations I: universal centralizer and symplectic groupoids**|Martin A. Guest et.al.|[2604.04358](http://arxiv.org/abs/2604.04358)|null|
+|**2026-04-05**|**Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization**|Yancheng Huang et.al.|[2604.04231](http://arxiv.org/abs/2604.04231)|null|
+|**2026-04-05**|**AURA: Always-On Understanding and Real-Time Assistance via Video Streams**|Xudong Lu et.al.|[2604.04184](http://arxiv.org/abs/2604.04184)|null|
+|**2026-04-05**|**The PLATO Science Calibration and Validation Plan: Targets for the First Long-pointing Field**|Konstanze Zwintz et.al.|[2604.04042](http://arxiv.org/abs/2604.04042)|null|
 |**2026-04-03**|**On a stability of time-optimal version of the Boundary Control method**|Mikhail I. Belishev et.al.|[2604.02957](http://arxiv.org/abs/2604.02957)|null|
 |**2026-04-02**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688](http://arxiv.org/abs/2604.00688)|null|
 |**2026-04-02**|**Captioning Daily Activity Images in Early Childhood Education: Benchmark and Algorithm**|Sixing Li et.al.|[2604.01941](http://arxiv.org/abs/2604.01941)|null|
@@ -1815,5 +1825,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
 
