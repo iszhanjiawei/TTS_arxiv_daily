@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,8 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-04-13**|**Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation**|Kuang Wang et.al.|[2604.11424](http://arxiv.org/abs/2604.11424)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
+|**2026-04-12**|**Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark**|Arnon Turetzky et.al.|[2604.10580](http://arxiv.org/abs/2604.10580)|null|
+|**2026-04-12**|**Sign-to-Speech Prosody Transfer via Sign Reconstruction-based GAN**|Toranosuke Manabe et.al.|[2604.10413](http://arxiv.org/abs/2604.10413)|null|
 |**2026-04-10**|**Finding Circumbinary Planets: A Semi-Automated Transit Search of TESS Eclipsing Binaries**|Benjamin D. R. Davies et.al.|[2604.09435](http://arxiv.org/abs/2604.09435)|null|
-|**2026-04-10**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-04-10**|**Gaia astrometry disfavors a binary origin for long secondary periods**|Cheyanne Shariat et.al.|[2604.09767](http://arxiv.org/abs/2604.09767)|null|
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
 |**2026-04-09**|**AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages**|Lilian Wanzare et.al.|[2604.08448](http://arxiv.org/abs/2604.08448)|null|
 |**2026-04-09**|**TASU2: Controllable CTC Simulation for Alignment and Low-Resource Adaptation of Speech LLMs**|Jing Peng et.al.|[2604.08384](http://arxiv.org/abs/2604.08384)|null|
@@ -1844,5 +1849,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
 
