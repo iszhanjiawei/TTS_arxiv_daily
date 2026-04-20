@@ -1,4 +1,4 @@
-## Updated on 2026.04.19
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
+|**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
+|**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004](http://arxiv.org/abs/2604.16004)|null|
+|**2026-04-17**|**Hierarchical Codec Diffusion for Video-to-Speech Generation**|Jiaxin Ye et.al.|[2604.15923](http://arxiv.org/abs/2604.15923)|null|
+|**2026-04-17**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
 |**2026-04-16**|**WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training**|Yifu Chen et.al.|[2604.14932](http://arxiv.org/abs/2604.14932)|null|
 |**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)|null|
 |**2026-04-15**|**SpeakerRPL v2: Robust Open-set Speaker Identification through Enhanced Few-shot Foundation Tuning and Model Fusion**|Zhiyong Chen et.al.|[2604.13605](http://arxiv.org/abs/2604.13605)|null|
@@ -1860,5 +1865,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
 
