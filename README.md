@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation**|Jiaxu He et.al.|[2605.02496](http://arxiv.org/abs/2605.02496)|null|
+|**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223](http://arxiv.org/abs/2605.02223)|null|
+|**2026-05-03**|**Ergosphere Geometry and Thermodynamic Properties of Boosted Kerr-Taub-NUT Solutions in Kaluza-Klein Theory**|Hasan Oguz et.al.|[2605.02000](http://arxiv.org/abs/2605.02000)|null|
+|**2026-05-03**|**Global well-posedness for a one-dimensional quasilinear wave equation**|Yuusuke Sugiyama et.al.|[2605.01814](http://arxiv.org/abs/2605.01814)|null|
+|**2026-05-02**|**MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech**|Yutong Jin et.al.|[2605.01515](http://arxiv.org/abs/2605.01515)|null|
+|**2026-05-02**|**Completely Positive and Trace Preserving Schemes with Tensor Train Compression for the Lindblad Equation**|Peter DelMastro et.al.|[2605.01494](http://arxiv.org/abs/2605.01494)|null|
+|**2026-05-02**|**A framework for analyzing concept representations in neural models**|Burin Naowarat et.al.|[2605.01381](http://arxiv.org/abs/2605.01381)|null|
 |**2026-05-01**|**LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation**|Venkata Pushpak Teja Menta et.al.|[2605.00777](http://arxiv.org/abs/2605.00777)|null|
 |**2026-05-01**|**Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe**|Gaofei Shen et.al.|[2605.00607](http://arxiv.org/abs/2605.00607)|null|
 |**2026-04-30**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|
@@ -1908,5 +1915,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
