@@ -1,4 +1,4 @@
-## Updated on 2026.06.07
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-05**|**Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech**|Xuanjun Chen et.al.|[2606.07494](http://arxiv.org/abs/2606.07494)|null|
+|**2026-06-05**|**Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement**|Yifan Duan et.al.|[2606.07397](http://arxiv.org/abs/2606.07397)|null|
+|**2026-06-05**|**Discrete analogues in harmonic analysis: $TT^*$ methods**|Bartosz Langowski et.al.|[2606.07359](http://arxiv.org/abs/2606.07359)|null|
+|**2026-06-05**|**KIT's Submission to Cross-Lingual Voice Cloning in IWSLT 2026**|Seymanur Akti et.al.|[2606.07240](http://arxiv.org/abs/2606.07240)|null|
+|**2026-06-05**|**dots.tts Technical Report**|Shi Lian et.al.|[2606.07080](http://arxiv.org/abs/2606.07080)|null|
+|**2026-06-05**|**VoxCPM2 Technical Report**|Yixuan Zhou et.al.|[2606.06928](http://arxiv.org/abs/2606.06928)|null|
+|**2026-06-05**|**Leveraging Soft Distributions of SSL-Derived Discrete Speech Tokens for Downstream Inference**|Kentaro Onda et.al.|[2606.06806](http://arxiv.org/abs/2606.06806)|null|
 |**2026-06-04**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|
 |**2026-06-04**|**Regret Minimization with Adaptive Opponents in Repeated Games**|Mingyang Liu et.al.|[2606.06486](http://arxiv.org/abs/2606.06486)|null|
 |**2026-06-04**|**$\tt BlackHawk$ $\tt v3.0$ : Hawking Radiation from Regular Black Holes**|Alexandre Arbey et.al.|[2606.06355](http://arxiv.org/abs/2606.06355)|null|
@@ -23,6 +30,7 @@
 |**2026-06-04**|**GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech**|Jaehoon Kang et.al.|[2606.05889](http://arxiv.org/abs/2606.05889)|null|
 |**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
 |**2026-06-04**|**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**|Gio Paik et.al.|[2606.05846](http://arxiv.org/abs/2606.05846)|null|
+|**2026-06-04**|**Multilingual Multi-Speaker Unit Vocoders: A Systematic Analysis of Discrete Speech Representations**|Naman Kothari et.al.|[2606.06740](http://arxiv.org/abs/2606.06740)|null|
 |**2026-06-03**|**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**|Daniel Oliveira de Brito et.al.|[2606.05367](http://arxiv.org/abs/2606.05367)|null|
 |**2026-06-03**|**Compressed \emph{Gaussian} likelihood for the \textit{Planck} low- $\ell$ data**|Nanoom Lee et.al.|[2606.05166](http://arxiv.org/abs/2606.05166)|null|
 |**2026-06-03**|**FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**|Sepehr Dehdashtian et.al.|[2606.05101](http://arxiv.org/abs/2606.05101)|null|
@@ -2047,5 +2055,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
