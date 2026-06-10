@@ -14,17 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
+|**2026-06-09**|**Dispersive estimates for wave-type equations with time-dependent damping**|Halit Sevki Aslan et.al.|[2606.11093](http://arxiv.org/abs/2606.11093)|null|
+|**2026-06-09**|**Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning**|Cristian-Teodor Neamtu et.al.|[2606.10758](http://arxiv.org/abs/2606.10758)|null|
+|**2026-06-09**|**KCSAT-ML: Probing Reasoning Models with Nationwide-Cohort Human Difficulty**|Sanghee Park et.al.|[2606.10403](http://arxiv.org/abs/2606.10403)|null|
 |**2026-06-08**|**What Makes Synthetic Speech Sound Sarcastic? A Prosody-Controlled Perception Study**|Zhu Li et.al.|[2606.09717](http://arxiv.org/abs/2606.09717)|null|
 |**2026-06-08**|**Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading**|Eder del Blanco et.al.|[2606.09667](http://arxiv.org/abs/2606.09667)|null|
 |**2026-06-08**|**OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages**|David Guzmán et.al.|[2606.09553](http://arxiv.org/abs/2606.09553)|null|
 |**2026-06-08**|**NüshuVoice: Reviving the Voice of Endangered Nüshu with Pitch-Aware Text-to-Speech**|Hongkun Yang et.al.|[2606.09295](http://arxiv.org/abs/2606.09295)|null|
 |**2026-06-08**|**End-to-End Training for Discrete Token LLM based TTS System**|Changfeng Gao et.al.|[2606.09234](http://arxiv.org/abs/2606.09234)|null|
 |**2026-06-08**|**DuplexOmni: Real-Time Listening, Seeing, Thinking, and Speaking for Full-Duplex Interaction**|Muye Huang et.al.|[2606.09186](http://arxiv.org/abs/2606.09186)|null|
-|**2026-06-08**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141](http://arxiv.org/abs/2606.09141)|null|
 |**2026-06-08**|**Persistent singlet electronic character in the multiexcitonic triplet-pair state of strongly coupled pentacene singlet fission dimers**|Atandrita Bhattacharyya et.al.|[2606.09130](http://arxiv.org/abs/2606.09130)|null|
 |**2026-06-08**|**HoliDubber: Holistic Video Dubbing for Complex Acoustic Scenes via Text-Guided Audio Synthesis**|Wenhao Guan et.al.|[2606.09098](http://arxiv.org/abs/2606.09098)|null|
 |**2026-06-08**|**BareWave: Waveform-Native Flow-Matching Text-to-Speech**|Wei Fan et.al.|[2606.09048](http://arxiv.org/abs/2606.09048)|null|
 |**2026-06-08**|**TLDR: Compressing Audio Tokens for Efficient Autoregressive Text-to-Speech**|Yejin Lee et.al.|[2606.09019](http://arxiv.org/abs/2606.09019)|null|
+|**2026-06-08**|**LLM can Read Spectrogram: Encoder-free Speech-Language Modeling**|Ruchao Fan et.al.|[2606.10231](http://arxiv.org/abs/2606.10231)|null|
+|**2026-06-08**|**Curved DG Modules and Matrix Factorizations from Noncommutative Quadric Hypersurfaces**|Peter Goetz et.al.|[2606.10146](http://arxiv.org/abs/2606.10146)|null|
+|**2026-06-08**|**Mean First Passage Times and Fundamental Tensors of Higher Order Markov Chains**|Jianhong Xu et.al.|[2606.10058](http://arxiv.org/abs/2606.10058)|null|
+|**2026-06-08**|**Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders**|Nikita Koriagin et.al.|[2606.10029](http://arxiv.org/abs/2606.10029)|null|
+|**2026-06-08**|**Optimality of FSQ Tokens for Continuous Diffusion for Categorical Data with Application to Text-to-Speech**|Vadim Popov et.al.|[2606.09962](http://arxiv.org/abs/2606.09962)|null|
 |**2026-06-07**|**TT-DAC-PS: Twin-Target Deterministic Actor-Critic with Policy Smoothing for Optimal Trade Execution**|Ilia Zaznov et.al.|[2606.08379](http://arxiv.org/abs/2606.08379)|null|
 |**2026-06-06**|**Test-Time Scaling in Multimodal Foundation Models: A Comprehensive Survey of Generation and Reasoning**|Cong Wan et.al.|[2606.08231](http://arxiv.org/abs/2606.08231)|null|
 |**2026-06-05**|**Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech**|Xuanjun Chen et.al.|[2606.07494](http://arxiv.org/abs/2606.07494)|null|
