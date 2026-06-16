@@ -14,11 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Electromagnetic Kantowski--Sachs Solutions in Teleparallel $F(T)$ Gravity**|Alexandre Landry et.al.|[2606.16982](http://arxiv.org/abs/2606.16982)|null|
+|**2026-06-15**|**Probing Low Frame Rate Degradation in Neural Audio Codecs**|Alex Gichamba et.al.|[2606.16969](http://arxiv.org/abs/2606.16969)|null|
+|**2026-06-15**|**Data-Driven Decoding of Russell's Circumplex Model of Affect**|Amdjed Belaref et.al.|[2606.16843](http://arxiv.org/abs/2606.16843)|null|
+|**2026-06-15**|**CraBERT: Efficient Phoneme Encoder Pre-Training via Cascade Fusion of Subword Representations for Text-to-Speech**|Dong Yang et.al.|[2606.16668](http://arxiv.org/abs/2606.16668)|null|
+|**2026-06-15**|**Joycent: Diffusion-based Accent TTS without Accented Phone Prediction**|Xintong Wang et.al.|[2606.16417](http://arxiv.org/abs/2606.16417)|null|
+|**2026-06-14**|**NVMOS: Non-Verbal Vocalization Quality Assessment in Speech**|Jialong Mai et.al.|[2606.15888](http://arxiv.org/abs/2606.15888)|null|
+|**2026-06-13**|**Fast-reactor neutron sources in evaluated nuclear data library validation**|Aaron Hurst et.al.|[2606.15440](http://arxiv.org/abs/2606.15440)|null|
+|**2026-06-13**|**Consistency between X-ray and UV-Optical reverberation measurements in NGC 5548**|Amit Kumar Mandal et.al.|[2606.15406](http://arxiv.org/abs/2606.15406)|null|
+|**2026-06-13**|**EMRI Dephasing from a Torsion-Inspired Near-Zone Kerr Deformation: Motivated by Spin-Polarized Dark Matter**|Jingxu Wu et.al.|[2606.15381](http://arxiv.org/abs/2606.15381)|null|
+|**2026-06-13**|**Dynamic Prosody Prediction in LLM-based TTS for Improving Speaker Similarity**|Zhenwei Mou et.al.|[2606.15267](http://arxiv.org/abs/2606.15267)|null|
+|**2026-06-13**|**DuraMark: Duration-Embedded Watermarking in LLM-based TTS**|Zhenwei Mou et.al.|[2606.15264](http://arxiv.org/abs/2606.15264)|null|
+|**2026-06-13**|**VoxWatermark: A Large-Scale Benchmark for Audio Watermark Detection under Perturbations**|Farnaz Sedaghati et.al.|[2606.15187](http://arxiv.org/abs/2606.15187)|null|
 |**2026-06-12**|**Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations**|Xinxin Li et.al.|[2606.13464](http://arxiv.org/abs/2606.13464)|null|
 |**2026-06-12**|**From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing**|Hugo Daumain et.al.|[2606.14639](http://arxiv.org/abs/2606.14639)|null|
 |**2026-06-12**|**Algebraic Operations on Tensor Trains**|Petr Tichavsky et.al.|[2606.14627](http://arxiv.org/abs/2606.14627)|null|
 |**2026-06-12**|**Unsupervised Approaches for Global Prosodic Embedding Extraction**|Martin Meza et.al.|[2606.14004](http://arxiv.org/abs/2606.14004)|null|
 |**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](http://arxiv.org/abs/2606.13989)|null|
+|**2026-06-12**|**An Empirical Study on Learning Latent Representations for Emotional Speech Synthesis**|Vinh Dang Quang et.al.|[2606.14922](http://arxiv.org/abs/2606.14922)|null|
 |**2026-06-11**|**KCSAT-ML: Probing Reasoning Models with Nationwide-Cohort Human Difficulty**|Sanghee Park et.al.|[2606.10403](http://arxiv.org/abs/2606.10403)|null|
 |**2026-06-11**|**LLM can Read Spectrogram: Encoder-free Speech-Language Modeling**|Ruchao Fan et.al.|[2606.10231](http://arxiv.org/abs/2606.10231)|null|
 |**2026-06-11**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|null|
