@@ -14,11 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
+|**2026-06-17**|**Simultaneous determination of an unknown bending moment and shear force in the Euler Bernoulli cantilever beam from measured boundary defection and slope**|Alemdar Hasanov et.al.|[2606.18817](http://arxiv.org/abs/2606.18817)|null|
+|**2026-06-17**|**Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs**|Chris Lee et.al.|[2606.18747](http://arxiv.org/abs/2606.18747)|null|
+|**2026-06-17**|**GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis**|Thi Ngan Ha Do et.al.|[2606.18738](http://arxiv.org/abs/2606.18738)|null|
+|**2026-06-17**|**Augmenting Dysarthric Speech Severity Assessment with MOS Supervision**|Kaimeng Jia et.al.|[2606.18645](http://arxiv.org/abs/2606.18645)|null|
 |**2026-06-16**|**One-Step Token-to-Waveform Generation with MeanFlow in Latent Space**|Zheqi Dai et.al.|[2606.18072](http://arxiv.org/abs/2606.18072)|null|
 |**2026-06-16**|**Semi-analytical results for $e^+e^-\to J/ψ+ X_{{\rm non\,}c\bar{c}}$ up to $\mathcal{O}(α_s v^2)$ at B factories**|Cong Li et.al.|[2606.17827](http://arxiv.org/abs/2606.17827)|null|
 |**2026-06-16**|**Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy**|Sofie Kamber et.al.|[2606.17789](http://arxiv.org/abs/2606.17789)|null|
 |**2026-06-16**|**An Analysis of the Effectiveness of Synthetic Speech Data for ASR Fine-tuning in Selected Indic Languages**|Sujith Pulikodan et.al.|[2606.17662](http://arxiv.org/abs/2606.17662)|null|
 |**2026-06-16**|**Sender--Receiver Community Detection in Directed Networks via Node-Role-Constrained Edge Clustering**|Duy Hieu Do et.al.|[2606.17411](http://arxiv.org/abs/2606.17411)|null|
+|**2026-06-16**|**MagpieTTS-LF: Inference-Time Long-Form Speech Generation Without Training on Long-Form data**|Subhankar Ghosh et.al.|[2606.18485](http://arxiv.org/abs/2606.18485)|null|
+|**2026-06-16**|**Reliable Neural-Codec Text-to-Speech by ASR Self-Verification and Distillation: Near-Zero Catastrophic Failures Across Models and Codecs**|Ali Asaria et.al.|[2606.18323](http://arxiv.org/abs/2606.18323)|null|
 |**2026-06-15**|**Electromagnetic Kantowski--Sachs Solutions in Teleparallel $F(T)$ Gravity**|Alexandre Landry et.al.|[2606.16982](http://arxiv.org/abs/2606.16982)|null|
 |**2026-06-15**|**Probing Low Frame Rate Degradation in Neural Audio Codecs**|Alex Gichamba et.al.|[2606.16969](http://arxiv.org/abs/2606.16969)|null|
 |**2026-06-15**|**Data-Driven Decoding of Russell's Circumplex Model of Affect**|Amdjed Belaref et.al.|[2606.16843](http://arxiv.org/abs/2606.16843)|null|
