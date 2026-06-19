@@ -14,11 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-17**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
+|**2026-06-18**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
+|**2026-06-18**|**How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech**|Nityanand Mathur et.al.|[2606.20532](http://arxiv.org/abs/2606.20532)|null|
+|**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
+|**2026-06-18**|**Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation**|Rostislav Makarov et.al.|[2606.20457](http://arxiv.org/abs/2606.20457)|null|
+|**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266](http://arxiv.org/abs/2606.20266)|null|
+|**2026-06-18**|**ReNikud: Audio-Supervised Hebrew Grapheme-to-Phoneme Conversion**|Maxim Melichov et.al.|[2606.20179](http://arxiv.org/abs/2606.20179)|null|
+|**2026-06-18**|**PASQA: Pitch-Accent-Focused Speech Quality Assessment Model Trained on Synthetic Speech with Accent Errors**|Masaya Kawamura et.al.|[2606.20137](http://arxiv.org/abs/2606.20137)|null|
+|**2026-06-18**|**Interpreting Content and Speaker Characteristics in Factorised Self-Supervised Subspaces**|Kyle Janse van Rensburg et.al.|[2606.19974](http://arxiv.org/abs/2606.19974)|null|
+|**2026-06-18**|**Investigating Human-Model Discrepancies in Speech Quality Assessment via Acoustic and Prosodic Perturbations**|Masato Takagi et.al.|[2606.19951](http://arxiv.org/abs/2606.19951)|null|
+|**2026-06-18**|**PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation**|Zhangzhao Liang et.al.|[2606.19935](http://arxiv.org/abs/2606.19935)|null|
+|**2026-06-18**|**Exploring Pre-training Benefits on Phoneme Addition through Fine-tuning in Speech Synthesis**|Masato Murata et.al.|[2606.19792](http://arxiv.org/abs/2606.19792)|null|
 |**2026-06-17**|**Simultaneous determination of an unknown bending moment and shear force in the Euler Bernoulli cantilever beam from measured boundary defection and slope**|Alemdar Hasanov et.al.|[2606.18817](http://arxiv.org/abs/2606.18817)|null|
 |**2026-06-17**|**Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs**|Chris Lee et.al.|[2606.18747](http://arxiv.org/abs/2606.18747)|null|
 |**2026-06-17**|**GRIDEX: Grid-Grounded Forensic Explanations for Deepfake Spectrogram Analysis**|Thi Ngan Ha Do et.al.|[2606.18738](http://arxiv.org/abs/2606.18738)|null|
 |**2026-06-17**|**Augmenting Dysarthric Speech Severity Assessment with MOS Supervision**|Kaimeng Jia et.al.|[2606.18645](http://arxiv.org/abs/2606.18645)|null|
+|**2026-06-17**|**FlowFake: Liquid Networks for Audio Deepfake Detection**|Shivaay Dhondiyal et.al.|[2606.19579](http://arxiv.org/abs/2606.19579)|null|
 |**2026-06-16**|**One-Step Token-to-Waveform Generation with MeanFlow in Latent Space**|Zheqi Dai et.al.|[2606.18072](http://arxiv.org/abs/2606.18072)|null|
 |**2026-06-16**|**Semi-analytical results for $e^+e^-\to J/ψ+ X_{{\rm non\,}c\bar{c}}$ up to $\mathcal{O}(α_s v^2)$ at B factories**|Cong Li et.al.|[2606.17827](http://arxiv.org/abs/2606.17827)|null|
 |**2026-06-16**|**Mind Companion: An Embodied Conversational Agent for Process-Based Psychotherapy**|Sofie Kamber et.al.|[2606.17789](http://arxiv.org/abs/2606.17789)|null|
