@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Formation of singularities for a family of one-dimensional quasilinear wave equations beyond the variational case**|Yuusuke Sugiyama et.al.|[2606.23605](http://arxiv.org/abs/2606.23605)|null|
+|**2026-06-22**|**The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2606.23335](http://arxiv.org/abs/2606.23335)|null|
+|**2026-06-22**|**On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models**|Shunsuke Kando et.al.|[2606.23285](http://arxiv.org/abs/2606.23285)|null|
+|**2026-06-22**|**Parallelized contraction of tensor trains or matrix product operators**|Simone Foderà et.al.|[2606.23274](http://arxiv.org/abs/2606.23274)|null|
+|**2026-06-22**|**FlowTTS-GRPO: Online Reinforcement Learning with Multi-Objective Reward Optimization for Flow-Matching Based Text-to-Speech**|Haoxu Wang et.al.|[2606.23190](http://arxiv.org/abs/2606.23190)|null|
+|**2026-06-22**|**Synthesizing the Lombard Effect: Multi-Level Control of Speech Clarity and Vocal Effort in TTS**|Seymanur Akti et.al.|[2606.23176](http://arxiv.org/abs/2606.23176)|null|
+|**2026-06-22**|**Tensor Train Decomposition-based 3D Implicit Full Waveform Inversion with Multi-scale Structural Similarity**|Liangsheng He et.al.|[2606.22867](http://arxiv.org/abs/2606.22867)|null|
+|**2026-06-22**|**Bagpiper-TTS: Natural Language Guided Universal Speech Synthesis**|Jinchuan Tian et.al.|[2606.22811](http://arxiv.org/abs/2606.22811)|null|
+|**2026-06-21**|**Stable blow-up on a sphere for a quadratic-derivative nonlinear wave equation**|Manuel del Pino et.al.|[2606.22282](http://arxiv.org/abs/2606.22282)|null|
+|**2026-06-20**|**Benchmarking Large Language Models for Grapheme-to-Phoneme Conversion: A Japanese Case Study**|Tomoki Koriyama et.al.|[2606.22009](http://arxiv.org/abs/2606.22009)|null|
+|**2026-06-20**|**ISCSLP 2026 CoT-TTS Challenge: Chain-of-Thought Reasoning for Context-Aware Text-to-Speech**|Wei Xue et.al.|[2606.21933](http://arxiv.org/abs/2606.21933)|null|
+|**2026-06-20**|**ProsoCodec: Prosody-Oriented Speech Codec for Voice Conversion**|Jeongsoo Choi et.al.|[2606.21888](http://arxiv.org/abs/2606.21888)|null|
+|**2026-06-20**|**Streaming T5-based Text-to-Speech Synthesis with Limited Lookahead**|Muyang Du et.al.|[2606.21882](http://arxiv.org/abs/2606.21882)|null|
+|**2026-06-19**|**DisSpeech: Low-Resource Controllable Mandarin Stuttered Speech Synthesis for ASR Augmentation**|Yao Lu et.al.|[2606.21457](http://arxiv.org/abs/2606.21457)|null|
+|**2026-06-19**|**LambdaMark: Semantic Audio Watermarking for Robustness and Radioactivity**|Kexin Li et.al.|[2606.21365](http://arxiv.org/abs/2606.21365)|null|
+|**2026-06-19**|**An Evaluation Framework for Text-to-Speech Voice Reconstruction**|Ariadna Sanchez et.al.|[2606.21343](http://arxiv.org/abs/2606.21343)|null|
+|**2026-06-19**|**Synthetic Audio Generation Framework for Air Traffic Control Speech Recognition**|Raphaël Bagat et.al.|[2606.21340](http://arxiv.org/abs/2606.21340)|null|
+|**2026-06-19**|**Speaker Identity in Non-Verbal Vocalizations: Conditional Distillation and Mixture of Experts Approach**|Tzu-Chieh Wei et.al.|[2606.21215](http://arxiv.org/abs/2606.21215)|null|
+|**2026-06-19**|**Imitation Learning for Elder-Facing Speech Synthesis**|Dongrui Han et.al.|[2606.21053](http://arxiv.org/abs/2606.21053)|null|
+|**2026-06-19**|**Backdoor Attacks on Speech Emotion Recognition via TTS-Generated Poisoning**|Yongbin Huang et.al.|[2606.21052](http://arxiv.org/abs/2606.21052)|null|
 |**2026-06-18**|**FineCombo-TTS: Collaborative and Precise Controllable Speech Synthesis Using Text Descriptions and Reference Speech**|Shuoyi Zhou et.al.|[2606.19209](http://arxiv.org/abs/2606.19209)|null|
 |**2026-06-18**|**How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech**|Nityanand Mathur et.al.|[2606.20532](http://arxiv.org/abs/2606.20532)|null|
 |**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518](http://arxiv.org/abs/2606.20518)|null|
