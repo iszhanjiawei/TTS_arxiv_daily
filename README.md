@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-23**|**CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation**|Shijun Luo et.al.|[2606.24714](http://arxiv.org/abs/2606.24714)|null|
+|**2026-06-23**|**The linearized minimal surfaces problem**|Haim Grebnev et.al.|[2606.24682](http://arxiv.org/abs/2606.24682)|null|
+|**2026-06-23**|**Gradient Mean-Field Dynamics with Measure-Valued States: Well-Posedness, Chaos, and Long-Time Stability**|Anderson Melchor Hernandez et.al.|[2606.24385](http://arxiv.org/abs/2606.24385)|null|
+|**2026-06-23**|**ZONOS2 Technical Report**|Gabriel Clark et.al.|[2606.24320](http://arxiv.org/abs/2606.24320)|null|
+|**2026-06-23**|**Evaluating the solution performance of the augmented Lagrangian function on Ising machines**|Shunsuke Awai et.al.|[2606.24241](http://arxiv.org/abs/2606.24241)|null|
 |**2026-06-22**|**Formation of singularities for a family of one-dimensional quasilinear wave equations beyond the variational case**|Yuusuke Sugiyama et.al.|[2606.23605](http://arxiv.org/abs/2606.23605)|null|
 |**2026-06-22**|**The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2606.23335](http://arxiv.org/abs/2606.23335)|null|
 |**2026-06-22**|**On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models**|Shunsuke Kando et.al.|[2606.23285](http://arxiv.org/abs/2606.23285)|null|
