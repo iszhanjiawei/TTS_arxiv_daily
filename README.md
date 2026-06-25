@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect**|Dihia Lanasri et.al.|[2606.26003](http://arxiv.org/abs/2606.26003)|null|
+|**2026-06-24**|**A fast scheme for the homogeneous Boltzmann equation based on lifting and tensor train approximation**|Kun Huang et.al.|[2606.25914](http://arxiv.org/abs/2606.25914)|null|
+|**2026-06-24**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672](http://arxiv.org/abs/2606.25672)|null|
+|**2026-06-24**|**Adaptive Oscillatory Inductive Bias for Modeling Sharp Prosodic Dynamics in Diffusion-Based TTS**|Sandipan Dhar et.al.|[2606.25424](http://arxiv.org/abs/2606.25424)|null|
+|**2026-06-24**|**CrossAccent-TTS: Cross-Lingual Accent-Intensity Controllable Text-to-Speech via Disentangled Speaker and Accent Representations**|Ram Annamdevula et.al.|[2606.25403](http://arxiv.org/abs/2606.25403)|null|
+|**2026-06-24**|**Sarashina2.2-TTS: Tackling Kanji Polyphony in Japanese Speech Generation via Data Scaling and Targeted Data Synthesis**|Lianbo Liu et.al.|[2606.25369](http://arxiv.org/abs/2606.25369)|null|
 |**2026-06-23**|**CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation**|Shijun Luo et.al.|[2606.24714](http://arxiv.org/abs/2606.24714)|null|
 |**2026-06-23**|**The linearized minimal surfaces problem**|Haim Grebnev et.al.|[2606.24682](http://arxiv.org/abs/2606.24682)|null|
 |**2026-06-23**|**Gradient Mean-Field Dynamics with Measure-Valued States: Well-Posedness, Chaos, and Long-Time Stability**|Anderson Melchor Hernandez et.al.|[2606.24385](http://arxiv.org/abs/2606.24385)|null|
 |**2026-06-23**|**ZONOS2 Technical Report**|Gabriel Clark et.al.|[2606.24320](http://arxiv.org/abs/2606.24320)|null|
 |**2026-06-23**|**Evaluating the solution performance of the augmented Lagrangian function on Ising machines**|Shunsuke Awai et.al.|[2606.24241](http://arxiv.org/abs/2606.24241)|null|
+|**2026-06-23**|**Superoscillatory initial states during inflation: theory, CMB constraints, and prospects for galaxy clustering**|Ali Nayeri et.al.|[2606.25133](http://arxiv.org/abs/2606.25133)|null|
+|**2026-06-23**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-22**|**Formation of singularities for a family of one-dimensional quasilinear wave equations beyond the variational case**|Yuusuke Sugiyama et.al.|[2606.23605](http://arxiv.org/abs/2606.23605)|null|
 |**2026-06-22**|**The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2606.23335](http://arxiv.org/abs/2606.23335)|null|
 |**2026-06-22**|**On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models**|Shunsuke Kando et.al.|[2606.23285](http://arxiv.org/abs/2606.23285)|null|
