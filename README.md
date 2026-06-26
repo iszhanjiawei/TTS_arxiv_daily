@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
+|**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Wen Ye et.al.|[2606.27268](http://arxiv.org/abs/2606.27268)|null|
+|**2026-06-25**|**HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9**|Amit Kumar Mandal et.al.|[2606.27195](http://arxiv.org/abs/2606.27195)|null|
+|**2026-06-25**|**Half-Life Measurements of $^{110}$Sn, $^{113}$Sn, $^{117\mathrm{m}}$Sn, and $^{123\mathrm{m}}$ Sn Produced via Photon Activation of Natural Tin**|O Nusair et.al.|[2606.27064](http://arxiv.org/abs/2606.27064)|null|
+|**2026-06-25**|**Incremental Tensor-Train Compression from Streaming TT-Formatted Data: Applications to Reduced-Order Modeling**|Wei Guo et.al.|[2606.26900](http://arxiv.org/abs/2606.26900)|null|
+|**2026-06-25**|**Closing the Quality Gap in Low-Resource Text-to-Speech: LoRA Fine-Tuning of VoxCPM2 for Khmer and Korean**|Phannet Pov et.al.|[2606.26618](http://arxiv.org/abs/2606.26618)|null|
+|**2026-06-25**|**VoiceTTA: Enhancing Zero-Shot Text-to-Speech via Reinforcement Learning-Based Test-Time Adaptation**|Tianxin Xie et.al.|[2606.26534](http://arxiv.org/abs/2606.26534)|null|
 |**2026-06-24**|**Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect**|Dihia Lanasri et.al.|[2606.26003](http://arxiv.org/abs/2606.26003)|null|
 |**2026-06-24**|**A fast scheme for the homogeneous Boltzmann equation based on lifting and tensor train approximation**|Kun Huang et.al.|[2606.25914](http://arxiv.org/abs/2606.25914)|null|
 |**2026-06-24**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672](http://arxiv.org/abs/2606.25672)|null|
@@ -26,7 +33,6 @@
 |**2026-06-23**|**ZONOS2 Technical Report**|Gabriel Clark et.al.|[2606.24320](http://arxiv.org/abs/2606.24320)|null|
 |**2026-06-23**|**Evaluating the solution performance of the augmented Lagrangian function on Ising machines**|Shunsuke Awai et.al.|[2606.24241](http://arxiv.org/abs/2606.24241)|null|
 |**2026-06-23**|**Superoscillatory initial states during inflation: theory, CMB constraints, and prospects for galaxy clustering**|Ali Nayeri et.al.|[2606.25133](http://arxiv.org/abs/2606.25133)|null|
-|**2026-06-23**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-22**|**Formation of singularities for a family of one-dimensional quasilinear wave equations beyond the variational case**|Yuusuke Sugiyama et.al.|[2606.23605](http://arxiv.org/abs/2606.23605)|null|
 |**2026-06-22**|**The Watermark Shortcut: How Provenance Marking Sabotages Audio Deepfake Detection**|Nicolas M. Müller et.al.|[2606.23335](http://arxiv.org/abs/2606.23335)|null|
 |**2026-06-22**|**On the Effect of Segmentation Width and Cluster Size on Speech Resynthesis and Continuation in Generative Spoken Language Models**|Shunsuke Kando et.al.|[2606.23285](http://arxiv.org/abs/2606.23285)|null|
