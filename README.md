@@ -1,4 +1,4 @@
-## Updated on 2026.06.28
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech**|Sihang Nie et.al.|[2606.28249](http://arxiv.org/abs/2606.28249)|null|
+|**2026-06-26**|**$\texttt{SMaSH}$ : Simplify Massive Spinor Helicity**|Aakash Kumar et.al.|[2606.27928](http://arxiv.org/abs/2606.27928)|null|
+|**2026-06-25**|**ZONOS2 Technical Report**|Gabriel Clark et.al.|[2606.24320](http://arxiv.org/abs/2606.24320)|null|
 |**2026-06-25**|**Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models**|Lianghua Huang et.al.|[2606.25041](http://arxiv.org/abs/2606.25041)|null|
 |**2026-06-25**|**E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation**|Wen Ye et.al.|[2606.27268](http://arxiv.org/abs/2606.27268)|null|
 |**2026-06-25**|**HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9**|Amit Kumar Mandal et.al.|[2606.27195](http://arxiv.org/abs/2606.27195)|null|
@@ -30,7 +33,6 @@
 |**2026-06-23**|**CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation**|Shijun Luo et.al.|[2606.24714](http://arxiv.org/abs/2606.24714)|null|
 |**2026-06-23**|**The linearized minimal surfaces problem**|Haim Grebnev et.al.|[2606.24682](http://arxiv.org/abs/2606.24682)|null|
 |**2026-06-23**|**Gradient Mean-Field Dynamics with Measure-Valued States: Well-Posedness, Chaos, and Long-Time Stability**|Anderson Melchor Hernandez et.al.|[2606.24385](http://arxiv.org/abs/2606.24385)|null|
-|**2026-06-23**|**ZONOS2 Technical Report**|Gabriel Clark et.al.|[2606.24320](http://arxiv.org/abs/2606.24320)|null|
 |**2026-06-23**|**Evaluating the solution performance of the augmented Lagrangian function on Ising machines**|Shunsuke Awai et.al.|[2606.24241](http://arxiv.org/abs/2606.24241)|null|
 |**2026-06-23**|**Superoscillatory initial states during inflation: theory, CMB constraints, and prospects for galaxy clustering**|Ali Nayeri et.al.|[2606.25133](http://arxiv.org/abs/2606.25133)|null|
 |**2026-06-22**|**Formation of singularities for a family of one-dimensional quasilinear wave equations beyond the variational case**|Yuusuke Sugiyama et.al.|[2606.23605](http://arxiv.org/abs/2606.23605)|null|
@@ -2171,5 +2173,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260628>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
