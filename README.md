@@ -14,10 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**LuxEmo: Expressive Text-to-Speech Corpus for Luxembourgish**|Nina Hosseini-Kivanani et.al.|[2606.31947](http://arxiv.org/abs/2606.31947)|null|
+|**2026-06-30**|**Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation**|Dominika Woszczyk et.al.|[2606.31729](http://arxiv.org/abs/2606.31729)|null|
+|**2026-06-30**|**Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization**|Hiroki Takeda et.al.|[2606.31061](http://arxiv.org/abs/2606.31061)|null|
 |**2026-06-29**|**REAR: Test-time Preference Realignment through Reward Decomposition**|Fuxiang Zhang et.al.|[2606.30339](http://arxiv.org/abs/2606.30339)|null|
 |**2026-06-29**|**DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information**|Roland Roller et.al.|[2606.30312](http://arxiv.org/abs/2606.30312)|null|
 |**2026-06-29**|**Low-Rank Tensor Completion using Tensor Train Decomposition via Riemannian Optimization on the Quotient Geometry**|Zhenlong Hu et.al.|[2606.30173](http://arxiv.org/abs/2606.30173)|null|
 |**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
+|**2026-06-29**|**A rotating black hole in a Hernquist dark matter halo: horizon geometry, thermodynamics, and quantum emission**|A. A. Araújo Filho et.al.|[2606.30962](http://arxiv.org/abs/2606.30962)|null|
+|**2026-06-29**|**Preserving Speech-to-Text LLM Capabilities in Speech-to-Speech Generation**|Yuxuan Hu et.al.|[2606.30944](http://arxiv.org/abs/2606.30944)|null|
 |**2026-06-28**|**Dziri Voicebot: An End-to-End Low-Resource Speech-to-Speech Conversational System for Algerian Dialect**|Dihia Lanasri et.al.|[2606.26003](http://arxiv.org/abs/2606.26003)|null|
 |**2026-06-28**|**VeRe-Flow: Guiding Flow Matching toward Clean Speech via Velocity Contrastive Regularization and Representation Alignment for Noise-Robust Bandwidth Expansion**|Sujin Koo et.al.|[2606.29450](http://arxiv.org/abs/2606.29450)|null|
 |**2026-06-27**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672](http://arxiv.org/abs/2606.25672)|null|
