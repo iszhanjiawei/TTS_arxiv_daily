@@ -14,9 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**LuxEmo: Expressive Text-to-Speech Corpus for Luxembourgish**|Nina Hosseini-Kivanani et.al.|[2606.31947](http://arxiv.org/abs/2606.31947)|null|
+|**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
+|**2026-07-02**|**Towards a Phonology-Informed Evaluation of Multilingual TTS**|Sneha Ray Barman et.al.|[2607.01965](http://arxiv.org/abs/2607.01965)|null|
+|**2026-07-02**|**Enhancing Acoustic-to-Articulatory Inversion with Multi-Target Pretraining for Low-Resource Settings**|Jesuraj Bandekar et.al.|[2607.01594](http://arxiv.org/abs/2607.01594)|null|
 |**2026-07-01**|**A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models**|Siyi Wang et.al.|[2607.00946](http://arxiv.org/abs/2607.00946)|null|
 |**2026-07-01**|**Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis**|Zuda Yu et.al.|[2607.00363](http://arxiv.org/abs/2607.00363)|null|
-|**2026-06-30**|**LuxEmo: Expressive Text-to-Speech Corpus for Luxembourgish**|Nina Hosseini-Kivanani et.al.|[2606.31947](http://arxiv.org/abs/2606.31947)|null|
 |**2026-06-30**|**Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation**|Dominika Woszczyk et.al.|[2606.31729](http://arxiv.org/abs/2606.31729)|null|
 |**2026-06-30**|**Online TT-ALS for Streaming Tensor Decomposition with Incremental Orthogonalization**|Hiroki Takeda et.al.|[2606.31061](http://arxiv.org/abs/2606.31061)|null|
 |**2026-06-29**|**REAR: Test-time Preference Realignment through Reward Decomposition**|Fuxiang Zhang et.al.|[2606.30339](http://arxiv.org/abs/2606.30339)|null|
