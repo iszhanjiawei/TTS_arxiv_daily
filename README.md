@@ -14,10 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-06**|**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**|Thomas Thebaud et.al.|[2607.05276](http://arxiv.org/abs/2607.05276)|null|
+|**2026-07-06**|**Streaming Neural Speech Codecs through Time-Invariant Representations**|Kélian Estève et.al.|[2607.05250](http://arxiv.org/abs/2607.05250)|null|
+|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-05**|**Towards Digital Preservation of Efik: TTS for a Low-Resource African Language**|Offiong Bassey Edet et.al.|[2607.04515](http://arxiv.org/abs/2607.04515)|null|
+|**2026-07-05**|**DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech**|Junwon Moon et.al.|[2607.04140](http://arxiv.org/abs/2607.04140)|null|
+|**2026-07-04**|**NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization**|Meiying Melissa Chen et.al.|[2607.03985](http://arxiv.org/abs/2607.03985)|null|
+|**2026-07-04**|**Photometry of Kuiper belt objects in inner and outer mean motion resonances with Neptune**|Audrey Thirouin et.al.|[2607.03956](http://arxiv.org/abs/2607.03956)|null|
+|**2026-07-04**|**Tensor-Train Joint Modeling for Few-Step Discrete Diffusion**|Byoungkwon Kim et.al.|[2607.03788](http://arxiv.org/abs/2607.03788)|null|
 |**2026-07-02**|**LuxEmo: Expressive Text-to-Speech Corpus for Luxembourgish**|Nina Hosseini-Kivanani et.al.|[2606.31947](http://arxiv.org/abs/2606.31947)|null|
 |**2026-07-02**|**VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval**|Cristian-Gabriel Florea et.al.|[2607.02371](http://arxiv.org/abs/2607.02371)|null|
 |**2026-07-02**|**Towards a Phonology-Informed Evaluation of Multilingual TTS**|Sneha Ray Barman et.al.|[2607.01965](http://arxiv.org/abs/2607.01965)|null|
 |**2026-07-02**|**Enhancing Acoustic-to-Articulatory Inversion with Multi-Target Pretraining for Low-Resource Settings**|Jesuraj Bandekar et.al.|[2607.01594](http://arxiv.org/abs/2607.01594)|null|
+|**2026-07-02**|**LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering**|Nina Hosseini-Kivanani et.al.|[2607.02763](http://arxiv.org/abs/2607.02763)|null|
+|**2026-07-02**|**Reinforcement Learning for Data-Efficient Code-Switched ASR**|Ziwei Ye et.al.|[2607.02757](http://arxiv.org/abs/2607.02757)|null|
+|**2026-07-02**|**GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech**|Antonis Asonitis et.al.|[2607.02633](http://arxiv.org/abs/2607.02633)|null|
 |**2026-07-01**|**A Geometric Perspective on Composable Emotion Steering in Text-to-Speech Models**|Siyi Wang et.al.|[2607.00946](http://arxiv.org/abs/2607.00946)|null|
 |**2026-07-01**|**Enhancing Flow Matching with A Unified Guidance Framework for Efficient and Robust Speech Synthesis**|Zuda Yu et.al.|[2607.00363](http://arxiv.org/abs/2607.00363)|null|
 |**2026-06-30**|**Is Natural Always Appropriate? Investigating Naturalness and Appropriateness Across Different Domains for TTS Evaluation**|Dominika Woszczyk et.al.|[2606.31729](http://arxiv.org/abs/2606.31729)|null|
