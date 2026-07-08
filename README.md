@@ -14,9 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
+|**2026-07-07**|**BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech**|Ho Lam Chung et.al.|[2607.06054](http://arxiv.org/abs/2607.06054)|null|
+|**2026-07-07**|**Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis**|Ho-Lam Chung et.al.|[2607.06027](http://arxiv.org/abs/2607.06027)|null|
 |**2026-07-06**|**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**|Thomas Thebaud et.al.|[2607.05276](http://arxiv.org/abs/2607.05276)|null|
 |**2026-07-06**|**Streaming Neural Speech Codecs through Time-Invariant Representations**|Kélian Estève et.al.|[2607.05250](http://arxiv.org/abs/2607.05250)|null|
-|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
 |**2026-07-05**|**Towards Digital Preservation of Efik: TTS for a Low-Resource African Language**|Offiong Bassey Edet et.al.|[2607.04515](http://arxiv.org/abs/2607.04515)|null|
 |**2026-07-05**|**DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech**|Junwon Moon et.al.|[2607.04140](http://arxiv.org/abs/2607.04140)|null|
 |**2026-07-04**|**NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization**|Meiying Melissa Chen et.al.|[2607.03985](http://arxiv.org/abs/2607.03985)|null|
