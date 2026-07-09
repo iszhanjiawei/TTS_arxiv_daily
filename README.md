@@ -1,4 +1,4 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**Text-Independent Speaker Verification Using Discrete Audio Tokens**|Zheng Liang et.al.|[2607.07579](http://arxiv.org/abs/2607.07579)|null|
+|**2026-07-08**|**MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**|Wenhao Feng et.al.|[2607.06986](http://arxiv.org/abs/2607.06986)|null|
 |**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
 |**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|
 |**2026-07-07**|**BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech**|Ho Lam Chung et.al.|[2607.06054](http://arxiv.org/abs/2607.06054)|null|
@@ -2203,5 +2205,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
