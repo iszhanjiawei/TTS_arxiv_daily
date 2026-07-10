@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-09**|**When Synthetic Speech Is All You Have: Better Call GRPO**|Shashi Kumar et.al.|[2607.08409](http://arxiv.org/abs/2607.08409)|null|
+|**2026-07-09**|**Chaplygin and Polytropic Kantowski--Sachs Solutions in Teleparallel $F(T)$ Gravity**|Alexandre Landry et.al.|[2607.08343](http://arxiv.org/abs/2607.08343)|null|
+|**2026-07-09**|**Best-of- $N$ TTS Evaluation is Confounded by ASR Family Alignment**|Taehyung Yu et.al.|[2607.08256](http://arxiv.org/abs/2607.08256)|null|
+|**2026-07-09**|**Diarization-Guided Qwen-ASR Adaptation for Multilingual Two-Speaker Conversational Speech**|Hao Wu et.al.|[2607.08208](http://arxiv.org/abs/2607.08208)|null|
 |**2026-07-08**|**Text-Independent Speaker Verification Using Discrete Audio Tokens**|Zheng Liang et.al.|[2607.07579](http://arxiv.org/abs/2607.07579)|null|
 |**2026-07-08**|**MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**|Wenhao Feng et.al.|[2607.06986](http://arxiv.org/abs/2607.06986)|null|
 |**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
