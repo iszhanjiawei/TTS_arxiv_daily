@@ -14,10 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Low-Precision Rank Compensation for Matrices and Tensor Trains**|Ibrahim El Mountasser et.al.|[2607.12969](http://arxiv.org/abs/2607.12969)|null|
+|**2026-07-14**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
+|**2026-07-14**|**Tensor-Based Reduced-Order Modeling for Optimization-Based Inverse Problems**|Sahidul Islam et.al.|[2607.12613](http://arxiv.org/abs/2607.12613)|null|
+|**2026-07-14**|**Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction**|Mattia Tamiazzo et.al.|[2607.12584](http://arxiv.org/abs/2607.12584)|null|
+|**2026-07-14**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
+|**2026-07-14**|**Estimation of the laser guide star uplink tip-tilt using aperture size diversity**|Pierre Jouve et.al.|[2607.12494](http://arxiv.org/abs/2607.12494)|null|
+|**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|
+|**2026-07-13**|**Anisotropic Dirac-Born-Infeld Inflation with Non-Vacuum Initial States: Primordial Perturbations, Non-Gaussianity, and Observational Constraints**|Narges Rashidi et.al.|[2607.11842](http://arxiv.org/abs/2607.11842)|null|
+|**2026-07-13**|**VoxENES 2026: Benchmarking Generalization of Speech Spoofing Detectors Against LLM-Era TTS and Voice Conversion**|Aastha Sharma et.al.|[2607.11706](http://arxiv.org/abs/2607.11706)|null|
+|**2026-07-13**|**Breaking the 15% Barrier: A Real-World Data-Driven System for Proactive Social Robot Triggered by User Nonverbal Cues**|Yuga Yano et.al.|[2607.11633](http://arxiv.org/abs/2607.11633)|null|
+|**2026-07-13**|**Adaptive Krylov Methods for Low-Rank Exponential Integrators**|Rico Weigel et.al.|[2607.11293](http://arxiv.org/abs/2607.11293)|null|
+|**2026-07-13**|**Determination of neutron star radius from pulse profile modeling using profile likelihood**|Vyaas Ramakrishnan et.al.|[2607.11154](http://arxiv.org/abs/2607.11154)|null|
+|**2026-07-12**|**Data Augmentation for L2 English Speaking Assessment using TTS**|Stefano Bannò et.al.|[2607.10790](http://arxiv.org/abs/2607.10790)|null|
 |**2026-07-10**|**FreyaTTS Technical Report**|Ahmet Erdem Pamuk et.al.|[2607.09530](http://arxiv.org/abs/2607.09530)|null|
 |**2026-07-10**|**Test-Time Scaling for Small VLMs on Multilingual Visual MCQ**|Spiros Baxevanakis et.al.|[2607.09438](http://arxiv.org/abs/2607.09438)|null|
 |**2026-07-10**|**KV-PRM: Efficient Process Reward Modeling via KV-Cache Transfer for Multi-Agent Test-Time Scaling**|Peng Kuang et.al.|[2607.09153](http://arxiv.org/abs/2607.09153)|null|
 |**2026-07-10**|**ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models**|Sang-Hoon Lee et.al.|[2607.09134](http://arxiv.org/abs/2607.09134)|null|
+|**2026-07-10**|**Evaluating AI Models' Capability to Automate Voice Phishing Attacks**|Fred Heiding et.al.|[2607.09970](http://arxiv.org/abs/2607.09970)|null|
+|**2026-07-10**|**Generative Testing of Automated Speech Recognition Systems**|Yanis Xabier Wilbrand Peña et.al.|[2607.09833](http://arxiv.org/abs/2607.09833)|null|
 |**2026-07-09**|**When Synthetic Speech Is All You Have: Better Call GRPO**|Shashi Kumar et.al.|[2607.08409](http://arxiv.org/abs/2607.08409)|null|
 |**2026-07-09**|**Chaplygin and Polytropic Kantowski--Sachs Solutions in Teleparallel $F(T)$ Gravity**|Alexandre Landry et.al.|[2607.08343](http://arxiv.org/abs/2607.08343)|null|
 |**2026-07-09**|**Best-of- $N$ TTS Evaluation is Confounded by ASR Family Alignment**|Taehyung Yu et.al.|[2607.08256](http://arxiv.org/abs/2607.08256)|null|
