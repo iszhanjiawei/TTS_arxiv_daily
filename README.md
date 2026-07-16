@@ -14,11 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
+|**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
+|**2026-07-15**|**Tailored PDFs for new physics searches**|Elie Hammou et.al.|[2607.13885](http://arxiv.org/abs/2607.13885)|null|
 |**2026-07-14**|**Low-Precision Rank Compensation for Matrices and Tensor Trains**|Ibrahim El Mountasser et.al.|[2607.12969](http://arxiv.org/abs/2607.12969)|null|
-|**2026-07-14**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-14**|**Tensor-Based Reduced-Order Modeling for Optimization-Based Inverse Problems**|Sahidul Islam et.al.|[2607.12613](http://arxiv.org/abs/2607.12613)|null|
 |**2026-07-14**|**Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction**|Mattia Tamiazzo et.al.|[2607.12584](http://arxiv.org/abs/2607.12584)|null|
-|**2026-07-14**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
 |**2026-07-14**|**Estimation of the laser guide star uplink tip-tilt using aperture size diversity**|Pierre Jouve et.al.|[2607.12494](http://arxiv.org/abs/2607.12494)|null|
 |**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|
 |**2026-07-13**|**Anisotropic Dirac-Born-Infeld Inflation with Non-Vacuum Initial States: Primordial Perturbations, Non-Gaussianity, and Observational Constraints**|Narges Rashidi et.al.|[2607.11842](http://arxiv.org/abs/2607.11842)|null|
