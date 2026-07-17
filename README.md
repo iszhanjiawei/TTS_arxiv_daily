@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
+|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
+|**2026-07-16**|**Structure-Aware Variational State Preparation for Quantum Basket Option Pricing**|Dongwoo Kim et.al.|[2607.14518](http://arxiv.org/abs/2607.14518)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
 |**2026-07-15**|**Tailored PDFs for new physics searches**|Elie Hammou et.al.|[2607.13885](http://arxiv.org/abs/2607.13885)|null|
+|**2026-07-15**|**Dialogs: a studio-quality expressive conversational Russian speech corpus for dialog assistants**|Ilya Shigabeev et.al.|[2607.14310](http://arxiv.org/abs/2607.14310)|null|
+|**2026-07-15**|**A Hybrid Framework for Blood Vessel Morphology Classification: Discrete Geometry-based Tortuosity Feature Measurement, Information Gain-based Feature Selection, and Random Forest Classification**|Yu Zhong et.al.|[2607.14195](http://arxiv.org/abs/2607.14195)|null|
 |**2026-07-14**|**Low-Precision Rank Compensation for Matrices and Tensor Trains**|Ibrahim El Mountasser et.al.|[2607.12969](http://arxiv.org/abs/2607.12969)|null|
 |**2026-07-14**|**Tensor-Based Reduced-Order Modeling for Optimization-Based Inverse Problems**|Sahidul Islam et.al.|[2607.12613](http://arxiv.org/abs/2607.12613)|null|
 |**2026-07-14**|**Explainable-by-Design Audio Deepfake Detection via Wiener-Hopf Linear Prediction**|Mattia Tamiazzo et.al.|[2607.12584](http://arxiv.org/abs/2607.12584)|null|
