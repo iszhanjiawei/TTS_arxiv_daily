@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-17**|**Sharp decay estimates for $(2+1)$ -dimensional oscillatory integral operators via Newton height**|Shaozhen Xu et.al.|[2607.16185](http://arxiv.org/abs/2607.16185)|null|
+|**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
 |**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
 |**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
 |**2026-07-16**|**Structure-Aware Variational State Preparation for Quantum Basket Option Pricing**|Dongwoo Kim et.al.|[2607.14518](http://arxiv.org/abs/2607.14518)|null|
