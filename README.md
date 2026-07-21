@@ -14,8 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer**|Shengfan Shen et.al.|[2607.17900](http://arxiv.org/abs/2607.17900)|null|
+|**2026-07-20**|**Re-Sonance: A Dysarthric Asynchronous Real-Time Speech Conversion System Based on a Three-Stage Cascaded ASR-LLM-TTS Architecture**|Yuxuan Wu et.al.|[2607.17615](http://arxiv.org/abs/2607.17615)|null|
+|**2026-07-20**|**SSTMark: Robust Training-Free Semantic-Level Speech Watermarking**|Kuan-Lin Chu et.al.|[2607.17592](http://arxiv.org/abs/2607.17592)|null|
+|**2026-07-20**|**X-Translator: A Real-Time Multilingual Speaker-Aware Speech-to-Speech Translation System**|Yuxiang Zhao et.al.|[2607.17544](http://arxiv.org/abs/2607.17544)|null|
+|**2026-07-19**|**Kernel Regression with Tensor Trains and Hadamard Overparameterization**|Duc Thien Nguyen et.al.|[2607.17390](http://arxiv.org/abs/2607.17390)|null|
+|**2026-07-18**|**Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models**|Ye Lu et.al.|[2607.16870](http://arxiv.org/abs/2607.16870)|null|
+|**2026-07-18**|**VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility**|Ayşe Özlem Çalışkan et.al.|[2607.16750](http://arxiv.org/abs/2607.16750)|null|
+|**2026-07-18**|**Effective temperatures estimation of low-mass stars and identification of T Tauri stars in LAMOST DR10 using machine learning**|C. D. Millan-Valderrama et.al.|[2607.16585](http://arxiv.org/abs/2607.16585)|null|
 |**2026-07-17**|**Sharp decay estimates for $(2+1)$ -dimensional oscillatory integral operators via Newton height**|Shaozhen Xu et.al.|[2607.16185](http://arxiv.org/abs/2607.16185)|null|
 |**2026-07-17**|**AuEmoChat: Authentic Emotion Understanding and Rendering for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2607.15755](http://arxiv.org/abs/2607.15755)|null|
+|**2026-07-17**|**Gravitational Waves as Thermodynamic Shear Excitations in Scalar-Tensor Gravity**|David S. Pereira et.al.|[2607.16437](http://arxiv.org/abs/2607.16437)|null|
 |**2026-07-16**|**RW-Voice-EQ Bench: A Real World Benchmark for Evaluating Voice AI Systems**|David Ayllon et.al.|[2607.14846](http://arxiv.org/abs/2607.14846)|null|
 |**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
 |**2026-07-16**|**Structure-Aware Variational State Preparation for Quantum Basket Option Pricing**|Dongwoo Kim et.al.|[2607.14518](http://arxiv.org/abs/2607.14518)|null|
