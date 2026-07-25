@@ -14,11 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-07-20**|**Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer**|Shengfan Shen et.al.|[2607.17900](http://arxiv.org/abs/2607.17900)|null|
+|**2026-07-23**|**Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores**|Viola Negroni et.al.|[2607.21127](http://arxiv.org/abs/2607.21127)|null|
+|**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
+|**2026-07-23**|**A Situational Speech Synthesizer for Yoruba: System Design, Phonological Rule Architecture, and Orthographic Extensions for Contour**|Kola Tubosun et.al.|[2607.18317](http://arxiv.org/abs/2607.18317)|null|
+|**2026-07-22**|**Long-term performance of the MLR-TT sensor: two-photon polymerization validation in the telescope environment**|Robert J. Harris et.al.|[2607.20244](http://arxiv.org/abs/2607.20244)|null|
+|**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
+|**2026-07-22**|**Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models**|Pengchao Feng et.al.|[2607.19932](http://arxiv.org/abs/2607.19932)|null|
+|**2026-07-22**|**StellarTTS: Sparse Temporal Embedding for Low-Latency and Robust Speech Synthesis**|Kaicheng Luo et.al.|[2607.19859](http://arxiv.org/abs/2607.19859)|null|
+|**2026-07-21**|**Harness TTS: Towards Context-Aware Expressive Speech Synthesis with Harness Layer**|Shengfan Shen et.al.|[2607.17900](http://arxiv.org/abs/2607.17900)|null|
+|**2026-07-21**|**Kernel Regression with Tensor Trains and Hadamard Overparameterization**|Duc Thien Nguyen et.al.|[2607.17390](http://arxiv.org/abs/2607.17390)|null|
+|**2026-07-21**|**CS-ETS: Chaos-Inspired Samba-Based EMG-To-Speech Synthesis with Nonlinear Chaotic Losses**|Sajid Fardin Dipto et.al.|[2607.18629](http://arxiv.org/abs/2607.18629)|null|
 |**2026-07-20**|**Re-Sonance: A Dysarthric Asynchronous Real-Time Speech Conversion System Based on a Three-Stage Cascaded ASR-LLM-TTS Architecture**|Yuxuan Wu et.al.|[2607.17615](http://arxiv.org/abs/2607.17615)|null|
 |**2026-07-20**|**SSTMark: Robust Training-Free Semantic-Level Speech Watermarking**|Kuan-Lin Chu et.al.|[2607.17592](http://arxiv.org/abs/2607.17592)|null|
 |**2026-07-20**|**X-Translator: A Real-Time Multilingual Speaker-Aware Speech-to-Speech Translation System**|Yuxiang Zhao et.al.|[2607.17544](http://arxiv.org/abs/2607.17544)|null|
-|**2026-07-19**|**Kernel Regression with Tensor Trains and Hadamard Overparameterization**|Duc Thien Nguyen et.al.|[2607.17390](http://arxiv.org/abs/2607.17390)|null|
+|**2026-07-20**|**Integral magneticity of the level-two K3 packet: CM theta lifts and a 2-isogeny trace contraction**|Alex Shvets et.al.|[2607.19427](http://arxiv.org/abs/2607.19427)|null|
+|**2026-07-19**|**Staged Depth-Pruning Distillation of a Flow-Matching Text-to-Speech Teacher: A Compact Hindi Speech Synthesizer**|Sivateja Trikutam et.al.|[2607.18662](http://arxiv.org/abs/2607.18662)|null|
 |**2026-07-18**|**Do Speech Tokens Leak Voiceprints? Speaker Inversion Attacks Against End-to-End Speech Language Models**|Ye Lu et.al.|[2607.16870](http://arxiv.org/abs/2607.16870)|null|
 |**2026-07-18**|**VisionAssist: An Open-Source Smartphone Assistant for AI-Based Visual Accessibility**|Ayşe Özlem Çalışkan et.al.|[2607.16750](http://arxiv.org/abs/2607.16750)|null|
 |**2026-07-18**|**Effective temperatures estimation of low-mass stars and identification of T Tauri stars in LAMOST DR10 using machine learning**|C. D. Millan-Valderrama et.al.|[2607.16585](http://arxiv.org/abs/2607.16585)|null|
