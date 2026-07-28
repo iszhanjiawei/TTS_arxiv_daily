@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
+|**2026-07-27**|**Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection**|Mingrui Liang et.al.|[2607.23961](http://arxiv.org/abs/2607.23961)|null|
+|**2026-07-27**|**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**|Bajian Xiang et.al.|[2607.23938](http://arxiv.org/abs/2607.23938)|null|
+|**2026-07-26**|**Implicit Tensor-Train Cross Integration of High-Dimensional Nonlinear PDEs via Fiber-Dependency Elimination**|Behzad Ghahremani et.al.|[2607.23814](http://arxiv.org/abs/2607.23814)|null|
+|**2026-07-26**|**Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers**|Dongseong Hwang et.al.|[2607.23811](http://arxiv.org/abs/2607.23811)|null|
+|**2026-07-25**|**Traversable Wormhole De-singularization: Almost $η$ -Ricci-Yamabe Solitons in Static Spherically Symmetric Imperfect Fluid Spacetimes**|Jay Prakash Singh et.al.|[2607.23282](http://arxiv.org/abs/2607.23282)|null|
+|**2026-07-25**|**Singlish, Can or Not? Fine-Tuning and Evaluating Zero-Shot TTS for Singapore English**|Ivan Kukanov et.al.|[2607.23027](http://arxiv.org/abs/2607.23027)|null|
 |**2026-07-24**|**Cycles of Discourse, Speech Dysfluency, and Active Inference**|Thomas Parr et.al.|[2607.22180](http://arxiv.org/abs/2607.22180)|null|
 |**2026-07-24**|**VisionPulse: A Virtual Reality System Enabling Accessible Discovery and Navigation for Blind and Low Vision Users**|Samuel Martin et.al.|[2607.21944](http://arxiv.org/abs/2607.21944)|null|
 |**2026-07-23**|**Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores**|Viola Negroni et.al.|[2607.21127](http://arxiv.org/abs/2607.21127)|null|
