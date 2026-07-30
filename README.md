@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**The art of simulating the early Universe. Part III: Scalar-Gauge-Fluid Dynamics**|Daniel G. Figueroa et.al.|[2607.27141](http://arxiv.org/abs/2607.27141)|null|
+|**2026-07-29**|**Qwen-Audio-3.0-Gen-Preview Technical Report**|Junyu Dai et.al.|[2607.27011](http://arxiv.org/abs/2607.27011)|null|
+|**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|
+|**2026-07-29**|**MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation**|Wei-Jaw Lee et.al.|[2607.26698](http://arxiv.org/abs/2607.26698)|null|
 |**2026-07-28**|**Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**|Gyeongmin Kim et.al.|[2607.25351](http://arxiv.org/abs/2607.25351)|null|
 |**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
 |**2026-07-27**|**Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection**|Mingrui Liang et.al.|[2607.23961](http://arxiv.org/abs/2607.23961)|null|
