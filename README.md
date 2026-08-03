@@ -14,9 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-31**|**Two-sided estimates of the blow-up time for a semilinear wave equation with fractional structural damping**|Firas Kaabi et.al.|[2607.29379](http://arxiv.org/abs/2607.29379)|null|
+|**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
 |**2026-07-30**|**Extraction of $σ_{TT}$ for Proton, Neutron, Deuteron and $^3$ He from Quasi-real Photon Scattering**|YiLei Li et.al.|[2607.28612](http://arxiv.org/abs/2607.28612)|null|
 |**2026-07-30**|**Teffic-Audio: Tell Fact from Fiction**|Wan Lin et.al.|[2607.28351](http://arxiv.org/abs/2607.28351)|null|
 |**2026-07-30**|**VocalRender: Score-Native Singing Voice Synthesis for Real-World Composition**|Yukun Chen et.al.|[2607.27768](http://arxiv.org/abs/2607.27768)|null|
+|**2026-07-30**|**Cloned Voices, Real Consequences: Evaluating Bias in Political Deepfake Detection for Electoral Integrity in Brazil**|Lucas Rafael Stefanel Gris et.al.|[2607.28770](http://arxiv.org/abs/2607.28770)|null|
 |**2026-07-29**|**The art of simulating the early Universe. Part III: Scalar-Gauge-Fluid Dynamics**|Daniel G. Figueroa et.al.|[2607.27141](http://arxiv.org/abs/2607.27141)|null|
 |**2026-07-29**|**Qwen-Audio-3.0-Gen-Preview Technical Report**|Junyu Dai et.al.|[2607.27011](http://arxiv.org/abs/2607.27011)|null|
 |**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|
