@@ -14,8 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Embodied Empathy: A Multimodal AR and LLM-Powered System for Self-Attachment Psychotherapy with Self-Initiated Humour**|Xinyan Ye et.al.|[2608.02283](http://arxiv.org/abs/2608.02283)|null|
+|**2026-08-03**|**Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study**|Ali Jafar et.al.|[2608.02235](http://arxiv.org/abs/2608.02235)|null|
+|**2026-08-03**|**Boosting the optical depth to Thomson scattering with primordial black hole evaporation at high redshift**|Isaac Sierra et.al.|[2608.01919](http://arxiv.org/abs/2608.01919)|null|
+|**2026-08-03**|**Analyzing Speech Condition Effects in Dysarthric ASR: A Layer-wise Probing Study**|Darwin Jelestin Muthu et.al.|[2608.01865](http://arxiv.org/abs/2608.01865)|null|
+|**2026-08-03**|**Multi-Backbone Self-Supervised Ensembles for Audio Deepfake Detection and a Cross-Track Analysis of Generation-Detection Asymmetry**|Seunghyun Kim et.al.|[2608.01796](http://arxiv.org/abs/2608.01796)|null|
+|**2026-08-02**|**JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents**|Yinhao Bai et.al.|[2608.01119](http://arxiv.org/abs/2608.01119)|null|
+|**2026-08-02**|**Beyond One-Size-Fits-All: Personalized and Culturally Adaptive Emotional TTS via Interactive Optimization of Individual Emotion Perception Spaces**|Wangzixi Zhou et.al.|[2608.00998](http://arxiv.org/abs/2608.00998)|null|
+|**2026-08-02**|**Nonexistence for effectively damped waves with time-dependent mass**|Duc An Phan et.al.|[2608.00953](http://arxiv.org/abs/2608.00953)|null|
+|**2026-08-01**|**REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection**|Kwok-Ho Ng et.al.|[2608.00857](http://arxiv.org/abs/2608.00857)|null|
+|**2026-08-01**|**Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech**|Chenlin Liu et.al.|[2608.00722](http://arxiv.org/abs/2608.00722)|null|
+|**2026-08-01**|**AnyBand: Unified Multi-Bandwidth Speech Extension via Frequency-Aware In-Context Spectral Infilling**|Junchuan Zhao et.al.|[2608.00572](http://arxiv.org/abs/2608.00572)|null|
+|**2026-08-01**|**Beyond Prompt Adherence: Auditing Attribute-Level Voice Control in Speech Generation**|Xianhao Zhou et.al.|[2608.00545](http://arxiv.org/abs/2608.00545)|null|
 |**2026-07-31**|**Two-sided estimates of the blow-up time for a semilinear wave equation with fractional structural damping**|Firas Kaabi et.al.|[2607.29379](http://arxiv.org/abs/2607.29379)|null|
 |**2026-07-31**|**Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens**|Yi Luo et.al.|[2607.29363](http://arxiv.org/abs/2607.29363)|null|
+|**2026-07-31**|**OrEdge: Efficient Multi-Modal Anomaly Detection in Distributed Software Systems via Orthogonal-Domain Learning**|Amr M. Zaki et.al.|[2608.00309](http://arxiv.org/abs/2608.00309)|null|
+|**2026-07-31**|**Multiscale passive scalar turbulence in a compressed subspace via tensor trains**|Stefano Pisoni et.al.|[2608.00194](http://arxiv.org/abs/2608.00194)|null|
 |**2026-07-30**|**Extraction of $σ_{TT}$ for Proton, Neutron, Deuteron and $^3$ He from Quasi-real Photon Scattering**|YiLei Li et.al.|[2607.28612](http://arxiv.org/abs/2607.28612)|null|
 |**2026-07-30**|**Teffic-Audio: Tell Fact from Fiction**|Wan Lin et.al.|[2607.28351](http://arxiv.org/abs/2607.28351)|null|
 |**2026-07-30**|**VocalRender: Score-Native Singing Voice Synthesis for Real-World Composition**|Yukun Chen et.al.|[2607.27768](http://arxiv.org/abs/2607.27768)|null|
