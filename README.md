@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-04**|**CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis**|Yizhong Geng et.al.|[2608.03253](http://arxiv.org/abs/2608.03253)|null|
+|**2026-08-04**|**GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model**|Guanrou Yang et.al.|[2608.03215](http://arxiv.org/abs/2608.03215)|null|
+|**2026-08-04**|**Towards More Expressive Spoken LLMs: Fine-Grained Intent Benchmarking and Acoustic-Lexical Decoupled Policy Optimization**|Xiang Lin et.al.|[2608.03054](http://arxiv.org/abs/2608.03054)|null|
+|**2026-08-04**|**Towards Real-world Environment-aware Zero-shot Text-to-speech Synthesis via Disentangled Audio Infilling**|Ye-Xin Lu et.al.|[2608.03011](http://arxiv.org/abs/2608.03011)|null|
 |**2026-08-03**|**Embodied Empathy: A Multimodal AR and LLM-Powered System for Self-Attachment Psychotherapy with Self-Initiated Humour**|Xinyan Ye et.al.|[2608.02283](http://arxiv.org/abs/2608.02283)|null|
 |**2026-08-03**|**Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study**|Ali Jafar et.al.|[2608.02235](http://arxiv.org/abs/2608.02235)|null|
 |**2026-08-03**|**Boosting the optical depth to Thomson scattering with primordial black hole evaporation at high redshift**|Isaac Sierra et.al.|[2608.01919](http://arxiv.org/abs/2608.01919)|null|
@@ -22,6 +26,7 @@
 |**2026-08-02**|**JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents**|Yinhao Bai et.al.|[2608.01119](http://arxiv.org/abs/2608.01119)|null|
 |**2026-08-02**|**Beyond One-Size-Fits-All: Personalized and Culturally Adaptive Emotional TTS via Interactive Optimization of Individual Emotion Perception Spaces**|Wangzixi Zhou et.al.|[2608.00998](http://arxiv.org/abs/2608.00998)|null|
 |**2026-08-02**|**Nonexistence for effectively damped waves with time-dependent mass**|Duc An Phan et.al.|[2608.00953](http://arxiv.org/abs/2608.00953)|null|
+|**2026-08-02**|**dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model**|Hankun Wang et.al.|[2608.02673](http://arxiv.org/abs/2608.02673)|null|
 |**2026-08-01**|**REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection**|Kwok-Ho Ng et.al.|[2608.00857](http://arxiv.org/abs/2608.00857)|null|
 |**2026-08-01**|**Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech**|Chenlin Liu et.al.|[2608.00722](http://arxiv.org/abs/2608.00722)|null|
 |**2026-08-01**|**AnyBand: Unified Multi-Bandwidth Speech Extension via Frequency-Aware In-Context Spectral Infilling**|Junchuan Zhao et.al.|[2608.00572](http://arxiv.org/abs/2608.00572)|null|
