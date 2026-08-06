@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**MGSB: Manifold Gated Signature Branch Pressure-Domain Baseline Architecture for Two-Phase Pipeline Flows Under Distributional Shift**|Issah Suleiman et.al.|[2608.04805](http://arxiv.org/abs/2608.04805)|null|
+|**2026-08-05**|**A smooth BTZ black bounce with an extremal null throat**|Farzad Milani et.al.|[2608.04461](http://arxiv.org/abs/2608.04461)|null|
 |**2026-08-04**|**CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis**|Yizhong Geng et.al.|[2608.03253](http://arxiv.org/abs/2608.03253)|null|
 |**2026-08-04**|**GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model**|Guanrou Yang et.al.|[2608.03215](http://arxiv.org/abs/2608.03215)|null|
 |**2026-08-04**|**Towards More Expressive Spoken LLMs: Fine-Grained Intent Benchmarking and Acoustic-Lexical Decoupled Policy Optimization**|Xiang Lin et.al.|[2608.03054](http://arxiv.org/abs/2608.03054)|null|
