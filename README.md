@@ -1,4 +1,4 @@
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**The plunging region of thin accretion discs across the black hole spin range**|Jake Rule et.al.|[2608.06278](http://arxiv.org/abs/2608.06278)|null|
+|**2026-08-06**|**LILAC: An Idempotent Neural Speech Codec**|June Young Yi et.al.|[2608.05727](http://arxiv.org/abs/2608.05727)|null|
+|**2026-08-06**|**Emergent Surface Altermagnetism**|Yuzhong Hu et.al.|[2608.05529](http://arxiv.org/abs/2608.05529)|null|
+|**2026-08-06**|**AffectDF: The Most Comprehensive Benchmark for Speech Deepfake Detection against Emotionally Expressive Attacks**|Aurosweta Mahapatra et.al.|[2608.05507](http://arxiv.org/abs/2608.05507)|null|
 |**2026-08-05**|**MGSB: Manifold Gated Signature Branch Pressure-Domain Baseline Architecture for Two-Phase Pipeline Flows Under Distributional Shift**|Issah Suleiman et.al.|[2608.04805](http://arxiv.org/abs/2608.04805)|null|
 |**2026-08-05**|**A smooth BTZ black bounce with an extremal null throat**|Farzad Milani et.al.|[2608.04461](http://arxiv.org/abs/2608.04461)|null|
 |**2026-08-04**|**CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis**|Yizhong Geng et.al.|[2608.03253](http://arxiv.org/abs/2608.03253)|null|
@@ -2298,5 +2302,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260807>back to top</a>)</p>
 
