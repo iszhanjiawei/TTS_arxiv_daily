@@ -14,6 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-10**|**Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions**|Oluwanifemi Bamgbose et.al.|[2608.09930](http://arxiv.org/abs/2608.09930)|null|
+|**2026-08-10**|**Consilience for Verifier-Free Test-Time Scaling**|Lecheng Kong et.al.|[2608.09898](http://arxiv.org/abs/2608.09898)|null|
+|**2026-08-10**|**Exact boundary controllability of a singular/degenerate wave equation via singular Sturm-Liouville theory**|Marcos Lopez-Garcia et.al.|[2608.09648](http://arxiv.org/abs/2608.09648)|null|
+|**2026-08-10**|**MADBench: A Benchmark for Modality-Aware Audio Deepfake Detection**|Yanqiu Li et.al.|[2608.09593](http://arxiv.org/abs/2608.09593)|null|
+|**2026-08-10**|**SonicWeave: Chunk-Routed Mixture-of-Experts for Unified Audio Scene Generation**|Yunrui Cai et.al.|[2608.09571](http://arxiv.org/abs/2608.09571)|null|
+|**2026-08-09**|**CuteTTS: Efficient and High-Quality Speech Synthesis via Autoregressive Modeling of Continuous Latents**|Yuqian Zhang et.al.|[2608.08638](http://arxiv.org/abs/2608.08638)|null|
+|**2026-08-09**|**Sharp Endpoint Eigenfunction Estimates for the Two-Dimensional Hermite Operator**|Guiyu Xie et.al.|[2608.08423](http://arxiv.org/abs/2608.08423)|null|
+|**2026-08-08**|**CtrlSpeech: Coarse-to-Fine Control for Expressive Speech Synthesis**|Zhisheng Zheng et.al.|[2608.08362](http://arxiv.org/abs/2608.08362)|null|
+|**2026-08-08**|**ReLMCodec: Designing Predictable Speech Tokens from Pre-Quantization Phoneme Structure**|Zixiang Wan et.al.|[2608.08286](http://arxiv.org/abs/2608.08286)|null|
+|**2026-08-08**|**DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects**|Yi Shu et.al.|[2608.08067](http://arxiv.org/abs/2608.08067)|null|
+|**2026-08-08**|**Implicit Likelihood Inference and $z$-Binned Reconstruction of Dark Energy $w(z)$**|Ke Wang et.al.|[2608.08007](http://arxiv.org/abs/2608.08007)|null|
 |**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462](http://arxiv.org/abs/2608.07462)|null|
 |**2026-08-07**|**The origin of carotenoid triplets in purple photosynthetic bacteria**|Juan J. Romero et.al.|[2608.07390](http://arxiv.org/abs/2608.07390)|null|
 |**2026-08-06**|**The plunging region of thin accretion discs across the black hole spin range**|Jake Rule et.al.|[2608.06278](http://arxiv.org/abs/2608.06278)|null|
