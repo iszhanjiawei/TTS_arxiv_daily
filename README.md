@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
+|**2026-08-11**|**ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS**|Shijun Luo et.al.|[2608.10606](http://arxiv.org/abs/2608.10606)|null|
+|**2026-08-11**|**Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models**|Shuozhe Cheng et.al.|[2608.10405](http://arxiv.org/abs/2608.10405)|null|
 |**2026-08-10**|**Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions**|Oluwanifemi Bamgbose et.al.|[2608.09930](http://arxiv.org/abs/2608.09930)|null|
 |**2026-08-10**|**Consilience for Verifier-Free Test-Time Scaling**|Lecheng Kong et.al.|[2608.09898](http://arxiv.org/abs/2608.09898)|null|
 |**2026-08-10**|**Exact boundary controllability of a singular/degenerate wave equation via singular Sturm-Liouville theory**|Marcos Lopez-Garcia et.al.|[2608.09648](http://arxiv.org/abs/2608.09648)|null|
