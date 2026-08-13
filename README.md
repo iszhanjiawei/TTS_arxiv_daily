@@ -14,9 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching**|Xingwei Sun et.al.|[2608.11804](http://arxiv.org/abs/2608.11804)|null|
+|**2026-08-12**|**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**|Peijie Chen et.al.|[2608.11737](http://arxiv.org/abs/2608.11737)|null|
+|**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650](http://arxiv.org/abs/2608.11650)|null|
+|**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|null|
+|**2026-08-12**|**CookVoice: Unified Framework for Style Controllable Multi-Modal Human Voice Generation**|Haowei Lou et.al.|[2608.11590](http://arxiv.org/abs/2608.11590)|null|
 |**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
 |**2026-08-11**|**ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS**|Shijun Luo et.al.|[2608.10606](http://arxiv.org/abs/2608.10606)|null|
 |**2026-08-11**|**Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models**|Shuozhe Cheng et.al.|[2608.10405](http://arxiv.org/abs/2608.10405)|null|
+|**2026-08-11**|**Qwen-MusicAVQA-7B: A Multimodal Model for Music Audio-Visual QA**|Maryam Dehdashti et.al.|[2608.11329](http://arxiv.org/abs/2608.11329)|null|
 |**2026-08-10**|**Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions**|Oluwanifemi Bamgbose et.al.|[2608.09930](http://arxiv.org/abs/2608.09930)|null|
 |**2026-08-10**|**Consilience for Verifier-Free Test-Time Scaling**|Lecheng Kong et.al.|[2608.09898](http://arxiv.org/abs/2608.09898)|null|
 |**2026-08-10**|**Exact boundary controllability of a singular/degenerate wave equation via singular Sturm-Liouville theory**|Marcos Lopez-Garcia et.al.|[2608.09648](http://arxiv.org/abs/2608.09648)|null|
