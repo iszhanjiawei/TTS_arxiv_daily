@@ -14,15 +14,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Loss of regularity for solutions to 1D degenerate quasilinear wave equations**|Yanbo Hu et.al.|[2608.14233](http://arxiv.org/abs/2608.14233)|null|
+|**2026-08-14**|**SCVIB: Editable State-Conditioned Visual Instance Binding forMulti-Turn Personalized Localization**|Xiongtai Yang et.al.|[2608.14148](http://arxiv.org/abs/2608.14148)|null|
+|**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|
+|**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese et.al.|[2608.14016](http://arxiv.org/abs/2608.14016)|null|
 |**2026-08-13**|**CookVoice: Unified Framework for Style Controllable Multi-Modal Human Voice Generation**|Haowei Lou et.al.|[2608.11590](http://arxiv.org/abs/2608.11590)|null|
 |**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-13**|**FastThaiG2P: Lightning-fast Thai Grapheme-to-phoneme Conversion for Voice Agent Pipelines**|Charin Polpanumas et.al.|[2608.12814](http://arxiv.org/abs/2608.12814)|null|
+|**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|null|
 |**2026-08-12**|**MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching**|Xingwei Sun et.al.|[2608.11804](http://arxiv.org/abs/2608.11804)|null|
 |**2026-08-12**|**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**|Peijie Chen et.al.|[2608.11737](http://arxiv.org/abs/2608.11737)|null|
 |**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650](http://arxiv.org/abs/2608.11650)|null|
 |**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|null|
 |**2026-08-12**|**Gaia parallax bias via spherical harmonics: A Python tool and discussion of possible causes**|Valeri V. Makarov et.al.|[2608.12619](http://arxiv.org/abs/2608.12619)|null|
 |**2026-08-12**|**Evaluating Pre-trained Speech Encoders for Spontaneous Speech Detection and Out of Domain Synthetic Speech Generalisation in Indic Languages**|Varun Rai et.al.|[2608.12536](http://arxiv.org/abs/2608.12536)|null|
+|**2026-08-12**|**VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation**|Jiarui Hai et.al.|[2608.13613](http://arxiv.org/abs/2608.13613)|null|
 |**2026-08-11**|**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**|Haoyu Zhang et.al.|[2608.10720](http://arxiv.org/abs/2608.10720)|null|
 |**2026-08-11**|**ASR-Roundtrip Evaluation Can Mask Context- and Convention-Dependent Reading Errors in Chinese News TTS**|Shijun Luo et.al.|[2608.10606](http://arxiv.org/abs/2608.10606)|null|
 |**2026-08-11**|**Never Stop Speaking: a Denial-of-Service Attack on End-to-End Speech Language Models**|Shuozhe Cheng et.al.|[2608.10405](http://arxiv.org/abs/2608.10405)|null|
