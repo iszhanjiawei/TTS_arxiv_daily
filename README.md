@@ -1,4 +1,4 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
+|**2026-08-16**|**Kozuchi Agent: A Language-Agnostic Open-Weight Agent for Software Repair**|Mehdi Bahrami et.al.|[2608.15579](http://arxiv.org/abs/2608.15579)|null|
 |**2026-08-14**|**Loss of regularity for solutions to 1D degenerate quasilinear wave equations**|Yanbo Hu et.al.|[2608.14233](http://arxiv.org/abs/2608.14233)|null|
 |**2026-08-14**|**SCVIB: Editable State-Conditioned Visual Instance Binding forMulti-Turn Personalized Localization**|Xiongtai Yang et.al.|[2608.14148](http://arxiv.org/abs/2608.14148)|null|
 |**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|
@@ -2335,5 +2337,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
