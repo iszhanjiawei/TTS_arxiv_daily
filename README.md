@@ -14,14 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
+|**2026-08-17**|**The first comprehensive spectral and timing study of the ultra-compact X-ray binary 4U 1812-12 with NICER and NuSTAR**|Swarnendu Jana et.al.|[2608.16841](http://arxiv.org/abs/2608.16841)|null|
+|**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
+|**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
 |**2026-08-16**|**Kozuchi Agent: A Language-Agnostic Open-Weight Agent for Software Repair**|Mehdi Bahrami et.al.|[2608.15579](http://arxiv.org/abs/2608.15579)|null|
+|**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
 |**2026-08-14**|**Loss of regularity for solutions to 1D degenerate quasilinear wave equations**|Yanbo Hu et.al.|[2608.14233](http://arxiv.org/abs/2608.14233)|null|
 |**2026-08-14**|**SCVIB: Editable State-Conditioned Visual Instance Binding forMulti-Turn Personalized Localization**|Xiongtai Yang et.al.|[2608.14148](http://arxiv.org/abs/2608.14148)|null|
 |**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|
 |**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese et.al.|[2608.14016](http://arxiv.org/abs/2608.14016)|null|
 |**2026-08-13**|**CookVoice: Unified Framework for Style Controllable Multi-Modal Human Voice Generation**|Haowei Lou et.al.|[2608.11590](http://arxiv.org/abs/2608.11590)|null|
-|**2026-08-13**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-13**|**FastThaiG2P: Lightning-fast Thai Grapheme-to-phoneme Conversion for Voice Agent Pipelines**|Charin Polpanumas et.al.|[2608.12814](http://arxiv.org/abs/2608.12814)|null|
 |**2026-08-13**|**VoiceChat-TTS: A Low-Latency Continuous Speech Synthesis Model for Interactive Agents**|Edresson Casanova et.al.|[2608.13831](http://arxiv.org/abs/2608.13831)|null|
 |**2026-08-12**|**MiDashengLM-Gen: Unified Audio Scene Generation via LLM-Driven Autoregressive Flow Matching**|Xingwei Sun et.al.|[2608.11804](http://arxiv.org/abs/2608.11804)|null|
