@@ -14,10 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
+|**2026-08-18**|**COS-TT-CHF: A Tensor-Train Characteristic-Function COS Method for Multi-Asset Option Pricing**|Lucas Arenstein et.al.|[2608.17636](http://arxiv.org/abs/2608.17636)|null|
+|**2026-08-18**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**The first comprehensive spectral and timing study of the ultra-compact X-ray binary 4U 1812-12 with NICER and NuSTAR**|Swarnendu Jana et.al.|[2608.16841](http://arxiv.org/abs/2608.16841)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
 |**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
+|**2026-08-17**|**Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions**|Xiao Wang et.al.|[2608.17135](http://arxiv.org/abs/2608.17135)|null|
 |**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
 |**2026-08-16**|**Kozuchi Agent: A Language-Agnostic Open-Weight Agent for Software Repair**|Mehdi Bahrami et.al.|[2608.15579](http://arxiv.org/abs/2608.15579)|null|
 |**2026-08-16**|**Iterative Self-Learning for Expressive Text-to-Speech Synthesis**|Nicholas Sanders et.al.|[2608.15910](http://arxiv.org/abs/2608.15910)|null|
