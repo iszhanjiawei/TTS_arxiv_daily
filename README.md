@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
+|**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
+|**2026-08-21**|**DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization**|Naiyuan Li et.al.|[2608.21176](http://arxiv.org/abs/2608.21176)|null|
+|**2026-08-21**|**Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons**|Fumie Watanabe et.al.|[2608.20822](http://arxiv.org/abs/2608.20822)|null|
 |**2026-08-20**|**Tracking the Trend in How Speech Synthesizers Deceive People**|Milan Šalko et.al.|[2608.19959](http://arxiv.org/abs/2608.19959)|null|
 |**2026-08-20**|**TT-net: Quantum Inspired Tensor Network Denoising in Conditional GANs**|Michal A. Sterzel et.al.|[2608.19789](http://arxiv.org/abs/2608.19789)|null|
 |**2026-08-20**|**Electroweak Baryogenesis in Top-Philic Type-III Two-Higgs-Doublet Model motivated by the $t\bar{t}$ Excess at the LHC**|Yoshiki Matsuoka et.al.|[2608.19651](http://arxiv.org/abs/2608.19651)|null|
@@ -21,7 +25,6 @@
 |**2026-08-19**|**X2Streaming-TTS: Causal Token-Level Text-to-Speech from Streaming Text with Speech-State Inheritance**|Rime Wen et.al.|[2608.18661](http://arxiv.org/abs/2608.18661)|null|
 |**2026-08-18**|**SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis**|Shicheng Ma et.al.|[2608.17931](http://arxiv.org/abs/2608.17931)|null|
 |**2026-08-18**|**COS-TT-CHF: A Tensor-Train Characteristic-Function COS Method for Multi-Asset Option Pricing**|Lucas Arenstein et.al.|[2608.17636](http://arxiv.org/abs/2608.17636)|null|
-|**2026-08-18**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**The first comprehensive spectral and timing study of the ultra-compact X-ray binary 4U 1812-12 with NICER and NuSTAR**|Swarnendu Jana et.al.|[2608.16841](http://arxiv.org/abs/2608.16841)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
