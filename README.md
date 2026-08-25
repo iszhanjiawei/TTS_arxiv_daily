@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**Spicing up Genetic Netlist Generation with LLMs**|Stefan Uhlich et.al.|[2608.23317](http://arxiv.org/abs/2608.23317)|null|
+|**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
+|**2026-08-24**|**Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation**|Jianxiang Liu et.al.|[2608.22800](http://arxiv.org/abs/2608.22800)|null|
+|**2026-08-23**|**AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS**|Timothy Tin-Long et.al.|[2608.22186](http://arxiv.org/abs/2608.22186)|null|
+|**2026-08-22**|**Agentic-DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-21**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
 |**2026-08-21**|**From Search Agents to Dissemination Interfaces: Understanding Human Trust in Health Information from Conversational Search**|Xin Sun et.al.|[2608.21177](http://arxiv.org/abs/2608.21177)|null|
 |**2026-08-21**|**DAMOS: Learning Distortion-Aware Speech Quality Assessment through Explicit Distortion Localization**|Naiyuan Li et.al.|[2608.21176](http://arxiv.org/abs/2608.21176)|null|
@@ -28,7 +33,6 @@
 |**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|
 |**2026-08-17**|**The first comprehensive spectral and timing study of the ultra-compact X-ray binary 4U 1812-12 with NICER and NuSTAR**|Swarnendu Jana et.al.|[2608.16841](http://arxiv.org/abs/2608.16841)|null|
 |**2026-08-17**|**Speaker-Normalized Semantic Speech Tokens via Iterative S2U-T2U Refinement**|Hanlin Zhang et.al.|[2608.16235](http://arxiv.org/abs/2608.16235)|null|
-|**2026-08-17**|**DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-17**|**Iterative tensor network transformations for element-wise evaluation of elementary and filtering functions**|Xiao Wang et.al.|[2608.17135](http://arxiv.org/abs/2608.17135)|null|
 |**2026-08-16**|**Adding Voice Cloning to Text-to-Audio-Video Models with a Single Zero-Initialised Layer**|Ivan Mikheev et.al.|[2608.15690](http://arxiv.org/abs/2608.15690)|null|
 |**2026-08-16**|**Kozuchi Agent: A Language-Agnostic Open-Weight Agent for Software Repair**|Mehdi Bahrami et.al.|[2608.15579](http://arxiv.org/abs/2608.15579)|null|
