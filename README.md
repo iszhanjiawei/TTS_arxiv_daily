@@ -14,9 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-25**|**Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
+|**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707](http://arxiv.org/abs/2608.24707)|null|
+|**2026-08-25**|**Speech-to-SOAP: End-to-End Summarization of Medical Dialogues: KIT@BeTraC 2026**|Enes Yavuz Ugan et.al.|[2608.24327](http://arxiv.org/abs/2608.24327)|null|
+|**2026-08-25**|**Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight**|Anupam Purwar et.al.|[2608.24314](http://arxiv.org/abs/2608.24314)|null|
+|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-25**|**Preference Optimization for Non-Verbal Vocalization Synthesis**|Haoyang Li et.al.|[2608.24163](http://arxiv.org/abs/2608.24163)|null|
+|**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-24**|**Spicing up Genetic Netlist Generation with LLMs**|Stefan Uhlich et.al.|[2608.23317](http://arxiv.org/abs/2608.23317)|null|
-|**2026-08-24**|**Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-24**|**Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation**|Jianxiang Liu et.al.|[2608.22800](http://arxiv.org/abs/2608.22800)|null|
+|**2026-08-24**|**EmoTra-TTS: Smooth Intra-Utterance Emotion Transitions for Speech Synthesis**|Tianchi Liu et.al.|[2608.23791](http://arxiv.org/abs/2608.23791)|null|
 |**2026-08-23**|**AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS**|Timothy Tin-Long et.al.|[2608.22186](http://arxiv.org/abs/2608.22186)|null|
 |**2026-08-22**|**Agentic-DuplexGen: Decoupling Content, Timing, and Acoustics for Synthetic Dialogue Speech**|Pengcheng Wang et.al.|[2608.16053](http://arxiv.org/abs/2608.16053)|null|
 |**2026-08-21**|**FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations**|Feiyu Shen et.al.|[2608.17492](http://arxiv.org/abs/2608.17492)|null|
