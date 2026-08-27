@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**De Morgan's Laws in Tensor-Triangular Geometry**|Mark Lyttle et.al.|[2608.25804](http://arxiv.org/abs/2608.25804)|null|
+|**2026-08-26**|**InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control**|Ekkasit Pinyoanuntapong et.al.|[2608.25734](http://arxiv.org/abs/2608.25734)|null|
 |**2026-08-25**|**Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707](http://arxiv.org/abs/2608.24707)|null|
 |**2026-08-25**|**Speech-to-SOAP: End-to-End Summarization of Medical Dialogues: KIT@BeTraC 2026**|Enes Yavuz Ugan et.al.|[2608.24327](http://arxiv.org/abs/2608.24327)|null|
@@ -2364,5 +2366,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
