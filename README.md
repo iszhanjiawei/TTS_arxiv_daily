@@ -1,4 +1,4 @@
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,13 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-27**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Feiyu Shen et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
+|**2026-08-27**|**Your Voice Cloning System is Secretly a Voice Anonymizer**|Romolo Muletta et.al.|[2608.27360](http://arxiv.org/abs/2608.27360)|null|
+|**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|null|
+|**2026-08-27**|**Quantum-Inspired Computational Fluid Dynamics for Transient Turbulent Compressible Flows**|Shang Xian Matthew Lee et.al.|[2608.26995](http://arxiv.org/abs/2608.26995)|null|
+|**2026-08-27**|**Scaling phoneme-based TTS augmentation for ASR: A unified pipeline and controlled study**|Zhen Wang et.al.|[2608.26697](http://arxiv.org/abs/2608.26697)|null|
+|**2026-08-27**|**EmoSay: Artificial Intelligence-Driven Text-to-Emotional-Speech System for Affective Communication in Extended Reality**|Sikiru Ademola Adewale et.al.|[2608.26566](http://arxiv.org/abs/2608.26566)|null|
 |**2026-08-26**|**De Morgan's Laws in Tensor-Triangular Geometry**|Mark Lyttle et.al.|[2608.25804](http://arxiv.org/abs/2608.25804)|null|
 |**2026-08-26**|**InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control**|Ekkasit Pinyoanuntapong et.al.|[2608.25734](http://arxiv.org/abs/2608.25734)|null|
+|**2026-08-26**|**SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning**|Jiajun Fan et.al.|[2608.26432](http://arxiv.org/abs/2608.26432)|null|
 |**2026-08-25**|**Better Retrieval, Worse Robustness: How Multi-hop RAG Amplifies Upstream ASR Errors**|Zhenghua Bao et.al.|[2608.22872](http://arxiv.org/abs/2608.22872)|null|
 |**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707](http://arxiv.org/abs/2608.24707)|null|
 |**2026-08-25**|**Speech-to-SOAP: End-to-End Summarization of Medical Dialogues: KIT@BeTraC 2026**|Enes Yavuz Ugan et.al.|[2608.24327](http://arxiv.org/abs/2608.24327)|null|
 |**2026-08-25**|**Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight**|Anupam Purwar et.al.|[2608.24314](http://arxiv.org/abs/2608.24314)|null|
-|**2026-08-25**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Junjie Li et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-25**|**Preference Optimization for Non-Verbal Vocalization Synthesis**|Haoyang Li et.al.|[2608.24163](http://arxiv.org/abs/2608.24163)|null|
 |**2026-08-25**|**OmniJudge or OmniBias? Diagnosing Multimodal Judges through Balanced, Decoupled Lenses**|Guangzheng Hu et.al.|[2608.24160](http://arxiv.org/abs/2608.24160)|null|
 |**2026-08-24**|**Spicing up Genetic Netlist Generation with LLMs**|Stefan Uhlich et.al.|[2608.23317](http://arxiv.org/abs/2608.23317)|null|
@@ -2366,5 +2372,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260828>back to top</a>)</p>
 
