@@ -1,4 +1,4 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**ExoMOD I. A Forward Model for the Orbital Architecture of Kepler Multi-Planet Systems**|David Nesvorny et.al.|[2608.28548](http://arxiv.org/abs/2608.28548)|null|
+|**2026-08-28**|**Enhancing Cosmological Constraints from Foreground-Cleaned CMB Maps Using Large-Scale Structure Surveys**|Shu-Fan Chen et.al.|[2608.28487](http://arxiv.org/abs/2608.28487)|null|
+|**2026-08-28**|**Small-Data Lifespan for a One-Dimensional Wave Equation with Mixed Characteristic-Time Derivative Source**|Firas Kaabi et.al.|[2608.28292](http://arxiv.org/abs/2608.28292)|null|
 |**2026-08-27**|**FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation**|Feiyu Shen et.al.|[2608.24168](http://arxiv.org/abs/2608.24168)|null|
 |**2026-08-27**|**Your Voice Cloning System is Secretly a Voice Anonymizer**|Romolo Muletta et.al.|[2608.27360](http://arxiv.org/abs/2608.27360)|null|
 |**2026-08-27**|**Said Aloud, Read Different: Cross-Modal Instability in Multimodal Models**|Basel Mousi et.al.|[2608.27135](http://arxiv.org/abs/2608.27135)|null|
@@ -2372,5 +2375,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
