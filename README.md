@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**|Y. Omori et.al.|[2608.31136](http://arxiv.org/abs/2608.31136)|null|
+|**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
+|**2026-08-31**|**Clock-Gating Insertion Strategies on an Open-Source MSP430 Core: A Reproducible PPA Study and a Gate-Level Simulation Caveat**|Xingran Huang et.al.|[2608.30954](http://arxiv.org/abs/2608.30954)|null|
+|**2026-08-31**|**Likelihood-Constrained Acoustic Reranking for Training-Free Hallucination Mitigation in LLM-Based ASR**|Jiasheng Kuang et.al.|[2608.30776](http://arxiv.org/abs/2608.30776)|null|
+|**2026-08-31**|**Tensor Methods for Language Models: From Token Representation to Training, Adaptation, Inference, Compression, and Interpretability**|Matvei Tarasov et.al.|[2608.30505](http://arxiv.org/abs/2608.30505)|null|
+|**2026-08-31**|**When LLM Meets Tree Search: A Systematic View of Inference as Search in Large Language Models**|Jiaqi Wei et.al.|[2608.30395](http://arxiv.org/abs/2608.30395)|null|
+|**2026-08-31**|**Sequential Trajectories and Simultaneous Blending: Multi-Emotion Modeling for Instruction-Following TTS**|Yan Zhou et.al.|[2608.30325](http://arxiv.org/abs/2608.30325)|null|
+|**2026-08-31**|**Square Functions and Rectifiability under Monotone Transformations of the Density**|Triet M. Le et.al.|[2608.30166](http://arxiv.org/abs/2608.30166)|null|
+|**2026-08-31**|**Reactivating Test-Time Scaling for Plane Geometry Problem Solving**|Xiaoqiang Kang et.al.|[2608.30156](http://arxiv.org/abs/2608.30156)|null|
+|**2026-08-31**|**Measurement of the $^3$He Spin Structure Functions and Their Moments at Low Q$^2$**|Jefferson Lab E97-110 et.al.|[2608.30101](http://arxiv.org/abs/2608.30101)|null|
+|**2026-08-29**|**Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling**|Hangzhou He et.al.|[2608.29322](http://arxiv.org/abs/2608.29322)|null|
+|**2026-08-29**|**When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions**|Zachary Ellis et.al.|[2608.29241](http://arxiv.org/abs/2608.29241)|null|
+|**2026-08-29**|**Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction**|Zeyang Song et.al.|[2608.28970](http://arxiv.org/abs/2608.28970)|null|
 |**2026-08-28**|**ExoMOD I. A Forward Model for the Orbital Architecture of Kepler Multi-Planet Systems**|David Nesvorny et.al.|[2608.28548](http://arxiv.org/abs/2608.28548)|null|
 |**2026-08-28**|**Enhancing Cosmological Constraints from Foreground-Cleaned CMB Maps Using Large-Scale Structure Surveys**|Shu-Fan Chen et.al.|[2608.28487](http://arxiv.org/abs/2608.28487)|null|
 |**2026-08-28**|**Small-Data Lifespan for a One-Dimensional Wave Equation with Mixed Characteristic-Time Derivative Source**|Firas Kaabi et.al.|[2608.28292](http://arxiv.org/abs/2608.28292)|null|
