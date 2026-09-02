@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation**|Thibaut Thonet et.al.|[2609.01246](http://arxiv.org/abs/2609.01246)|null|
+|**2026-09-01**|**Projection-based low-rank assembly in IgA**|Tom-Christian Riemer et.al.|[2609.01218](http://arxiv.org/abs/2609.01218)|null|
+|**2026-09-01**|**Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech**|Che Hyun Lee et.al.|[2609.01016](http://arxiv.org/abs/2609.01016)|null|
+|**2026-09-01**|**Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution**|Yupei Li et.al.|[2609.00765](http://arxiv.org/abs/2609.00765)|null|
 |**2026-08-31**|**SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**|Y. Omori et.al.|[2608.31136](http://arxiv.org/abs/2608.31136)|null|
 |**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
 |**2026-08-31**|**Clock-Gating Insertion Strategies on an Open-Source MSP430 Core: A Reproducible PPA Study and a Gate-Level Simulation Caveat**|Xingran Huang et.al.|[2608.30954](http://arxiv.org/abs/2608.30954)|null|
@@ -24,6 +28,7 @@
 |**2026-08-31**|**Square Functions and Rectifiability under Monotone Transformations of the Density**|Triet M. Le et.al.|[2608.30166](http://arxiv.org/abs/2608.30166)|null|
 |**2026-08-31**|**Reactivating Test-Time Scaling for Plane Geometry Problem Solving**|Xiaoqiang Kang et.al.|[2608.30156](http://arxiv.org/abs/2608.30156)|null|
 |**2026-08-31**|**Measurement of the $^3$He Spin Structure Functions and Their Moments at Low Q$^2$**|Jefferson Lab E97-110 et.al.|[2608.30101](http://arxiv.org/abs/2608.30101)|null|
+|**2026-08-31**|**Conversation Coach: A Voice-enabled AI System that Helps Practice Difficult Workplace Conversations**|Fanyou Wu et.al.|[2609.00441](http://arxiv.org/abs/2609.00441)|null|
 |**2026-08-29**|**Test-Time Scaling for Video Diffusion Models via Diagnosis-Guided Candidate Recycling**|Hangzhou He et.al.|[2608.29322](http://arxiv.org/abs/2608.29322)|null|
 |**2026-08-29**|**When Patients Cut In: Extending Clinical Conversational AI Safety to Interruptions**|Zachary Ellis et.al.|[2608.29241](http://arxiv.org/abs/2608.29241)|null|
 |**2026-08-29**|**Diagnose, Then Refine: A Closed-Loop TTS System with AudioLLM-Guided Correction**|Zeyang Song et.al.|[2608.28970](http://arxiv.org/abs/2608.28970)|null|
