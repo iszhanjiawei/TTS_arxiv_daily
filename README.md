@@ -14,10 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-02**|**Global Well-posedness and Asymptotic Analysis of a Damped Nonlinear Wave Equation with a Codimension-One Constraint**|Harsh Tiwari et.al.|[2609.02842](http://arxiv.org/abs/2609.02842)|null|
+|**2026-09-02**|**Global smooth behavior in Kuznetsov and Westervelt type viscous wave equations: A unifying approach covering $W^{1,q}$ -small initial data**|Tahir Boudjeriou et.al.|[2609.02795](http://arxiv.org/abs/2609.02795)|null|
+|**2026-09-02**|**Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction**|Kenichi Fujita et.al.|[2609.02623](http://arxiv.org/abs/2609.02623)|null|
+|**2026-09-02**|**Combinatorial optimization of connected UAV communication bridges for emergency response**|Matteo Vandelli et.al.|[2609.02562](http://arxiv.org/abs/2609.02562)|null|
+|**2026-09-02**|**DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting**|Zhente Zhang et.al.|[2609.02068](http://arxiv.org/abs/2609.02068)|null|
 |**2026-09-01**|**Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation**|Thibaut Thonet et.al.|[2609.01246](http://arxiv.org/abs/2609.01246)|null|
 |**2026-09-01**|**Projection-based low-rank assembly in IgA**|Tom-Christian Riemer et.al.|[2609.01218](http://arxiv.org/abs/2609.01218)|null|
 |**2026-09-01**|**Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech**|Che Hyun Lee et.al.|[2609.01016](http://arxiv.org/abs/2609.01016)|null|
 |**2026-09-01**|**Perceptible or Not? Diagnosing Passive Fingerprints for Speech Deepfake Attribution**|Yupei Li et.al.|[2609.00765](http://arxiv.org/abs/2609.00765)|null|
+|**2026-09-01**|**Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models**|Kunlin Cai et.al.|[2609.01723](http://arxiv.org/abs/2609.01723)|null|
 |**2026-08-31**|**SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology**|Y. Omori et.al.|[2608.31136](http://arxiv.org/abs/2608.31136)|null|
 |**2026-08-31**|**When Does Predictor-Based RL Align with Human Perception? A Study of Subjective Rewards in Codec-Based Speech Language Models**|Joonyong Park et.al.|[2608.31035](http://arxiv.org/abs/2608.31035)|null|
 |**2026-08-31**|**Clock-Gating Insertion Strategies on an Open-Source MSP430 Core: A Reproducible PPA Study and a Gate-Level Simulation Caveat**|Xingran Huang et.al.|[2608.30954](http://arxiv.org/abs/2608.30954)|null|
