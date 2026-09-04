@@ -14,11 +14,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**Deep Neural Compression for RIR-Characterized Acoustic Environments with Structure-Aware Constraints**|Chen-Yuan Ning et.al.|[2609.04085](http://arxiv.org/abs/2609.04085)|null|
+|**2026-09-03**|**Eight Local Couplings of Gravitational Waves from Unified Field Equations**|Hong-Bo Jin et.al.|[2609.03979](http://arxiv.org/abs/2609.03979)|null|
+|**2026-09-03**|**Controllability, returning waves and scattering without reverberation in 3D acoustic dynamic system**|Mikhail I. Belishev et.al.|[2609.03536](http://arxiv.org/abs/2609.03536)|null|
+|**2026-09-03**|**Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech**|Kunat Pipatanakul et.al.|[2609.03502](http://arxiv.org/abs/2609.03502)|null|
+|**2026-09-03**|**FlowTT: Exploiting Computation Flow Reuse in Irregular Tensor-Train Embedding**|Jongmin Seok et.al.|[2609.03459](http://arxiv.org/abs/2609.03459)|null|
 |**2026-09-02**|**Global Well-posedness and Asymptotic Analysis of a Damped Nonlinear Wave Equation with a Codimension-One Constraint**|Harsh Tiwari et.al.|[2609.02842](http://arxiv.org/abs/2609.02842)|null|
 |**2026-09-02**|**Global smooth behavior in Kuznetsov and Westervelt type viscous wave equations: A unifying approach covering $W^{1,q}$ -small initial data**|Tahir Boudjeriou et.al.|[2609.02795](http://arxiv.org/abs/2609.02795)|null|
 |**2026-09-02**|**Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction**|Kenichi Fujita et.al.|[2609.02623](http://arxiv.org/abs/2609.02623)|null|
 |**2026-09-02**|**Combinatorial optimization of connected UAV communication bridges for emergency response**|Matteo Vandelli et.al.|[2609.02562](http://arxiv.org/abs/2609.02562)|null|
 |**2026-09-02**|**DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting**|Zhente Zhang et.al.|[2609.02068](http://arxiv.org/abs/2609.02068)|null|
+|**2026-09-02**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203](http://arxiv.org/abs/2609.03203)|null|
+|**2026-09-02**|**Gravitational Waves and Matter Constraints in Gravity from Entropy**|David S. Pereira et.al.|[2609.03082](http://arxiv.org/abs/2609.03082)|null|
 |**2026-09-01**|**Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation**|Thibaut Thonet et.al.|[2609.01246](http://arxiv.org/abs/2609.01246)|null|
 |**2026-09-01**|**Projection-based low-rank assembly in IgA**|Tom-Christian Riemer et.al.|[2609.01218](http://arxiv.org/abs/2609.01218)|null|
 |**2026-09-01**|**Phrase-Localized Language-Contrastive Guidance: Training-Free Localized Accent Control for Code-Switching Text-to-Speech**|Che Hyun Lee et.al.|[2609.01016](http://arxiv.org/abs/2609.01016)|null|
