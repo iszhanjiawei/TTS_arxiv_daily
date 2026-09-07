@@ -19,6 +19,7 @@
 |**2026-09-03**|**Controllability, returning waves and scattering without reverberation in 3D acoustic dynamic system**|Mikhail I. Belishev et.al.|[2609.03536](http://arxiv.org/abs/2609.03536)|null|
 |**2026-09-03**|**Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech**|Kunat Pipatanakul et.al.|[2609.03502](http://arxiv.org/abs/2609.03502)|null|
 |**2026-09-03**|**FlowTT: Exploiting Computation Flow Reuse in Irregular Tensor-Train Embedding**|Jongmin Seok et.al.|[2609.03459](http://arxiv.org/abs/2609.03459)|null|
+|**2026-09-03**|**Brain2Speech-Net: Intelligible, Real-Time Brain-to-Speech Synthesis Without Text Decoding**|Shreeram Suresh Chandra et.al.|[2609.04455](http://arxiv.org/abs/2609.04455)|null|
 |**2026-09-02**|**Global Well-posedness and Asymptotic Analysis of a Damped Nonlinear Wave Equation with a Codimension-One Constraint**|Harsh Tiwari et.al.|[2609.02842](http://arxiv.org/abs/2609.02842)|null|
 |**2026-09-02**|**Global smooth behavior in Kuznetsov and Westervelt type viscous wave equations: A unifying approach covering $W^{1,q}$ -small initial data**|Tahir Boudjeriou et.al.|[2609.02795](http://arxiv.org/abs/2609.02795)|null|
 |**2026-09-02**|**Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction**|Kenichi Fujita et.al.|[2609.02623](http://arxiv.org/abs/2609.02623)|null|
