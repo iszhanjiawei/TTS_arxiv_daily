@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization**|Nikolaos Triantafyllou et.al.|[2609.09102](http://arxiv.org/abs/2609.09102)|null|
+|**2026-09-08**|**TASTE2: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction**|Yi-Chang Chen et.al.|[2609.08956](http://arxiv.org/abs/2609.08956)|null|
+|**2026-09-08**|**Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection**|Phuong Tuan Dat et.al.|[2609.08948](http://arxiv.org/abs/2609.08948)|null|
+|**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
+|**2026-09-08**|**TontaubeV1: Streaming Text-to-Speech with Hierarchical Codec Modeling and Bounded Context**|Fritz Cremer et.al.|[2609.08703](http://arxiv.org/abs/2609.08703)|null|
+|**2026-09-08**|**Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering**|Yizhong Geng et.al.|[2609.08204](http://arxiv.org/abs/2609.08204)|null|
+|**2026-09-07**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203](http://arxiv.org/abs/2609.03203)|null|
+|**2026-09-07**|**Low-rank approximation of Moment Tensor Potential enables reducing training set size without loss of accuracy**|Anna Bondarenko et.al.|[2609.07372](http://arxiv.org/abs/2609.07372)|null|
+|**2026-09-07**|**KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction**|Ryuichiro Higashinaka et.al.|[2609.07200](http://arxiv.org/abs/2609.07200)|null|
+|**2026-09-07**|**Counting Representations of Quadratic Forms**|Gilles Felber et.al.|[2609.07133](http://arxiv.org/abs/2609.07133)|null|
+|**2026-09-06**|**Tensor-based Approximation of Molecular Kinetics: Generator Learning, Reaction Coordinates and Incremental Updating**|Minakshi Verma et.al.|[2609.06446](http://arxiv.org/abs/2609.06446)|null|
+|**2026-09-05**|**Fourier-cosine Tensor Trains for Density Recovery and Expectation Calculation**|Auke Schaap et.al.|[2609.06214](http://arxiv.org/abs/2609.06214)|null|
+|**2026-09-04**|**What Did I Just Say? Self-Listening for Full-Duplex Speech Models**|Xuanning Zhou et.al.|[2609.05592](http://arxiv.org/abs/2609.05592)|null|
 |**2026-09-03**|**Deep Neural Compression for RIR-Characterized Acoustic Environments with Structure-Aware Constraints**|Chen-Yuan Ning et.al.|[2609.04085](http://arxiv.org/abs/2609.04085)|null|
 |**2026-09-03**|**Eight Local Couplings of Gravitational Waves from Unified Field Equations**|Hong-Bo Jin et.al.|[2609.03979](http://arxiv.org/abs/2609.03979)|null|
 |**2026-09-03**|**Controllability, returning waves and scattering without reverberation in 3D acoustic dynamic system**|Mikhail I. Belishev et.al.|[2609.03536](http://arxiv.org/abs/2609.03536)|null|
@@ -25,7 +38,6 @@
 |**2026-09-02**|**Scalable Direction-Following TTS via Voice Impression-Guided Pseudo Triplet Construction**|Kenichi Fujita et.al.|[2609.02623](http://arxiv.org/abs/2609.02623)|null|
 |**2026-09-02**|**Combinatorial optimization of connected UAV communication bridges for emergency response**|Matteo Vandelli et.al.|[2609.02562](http://arxiv.org/abs/2609.02562)|null|
 |**2026-09-02**|**DynG-Diff: A State-Aware Dynamic Guidance Diffusion Framework for Probabilistic Time Series Forecasting**|Zhente Zhang et.al.|[2609.02068](http://arxiv.org/abs/2609.02068)|null|
-|**2026-09-02**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203](http://arxiv.org/abs/2609.03203)|null|
 |**2026-09-02**|**Gravitational Waves and Matter Constraints in Gravity from Entropy**|David S. Pereira et.al.|[2609.03082](http://arxiv.org/abs/2609.03082)|null|
 |**2026-09-01**|**Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation**|Thibaut Thonet et.al.|[2609.01246](http://arxiv.org/abs/2609.01246)|null|
 |**2026-09-01**|**Projection-based low-rank assembly in IgA**|Tom-Christian Riemer et.al.|[2609.01218](http://arxiv.org/abs/2609.01218)|null|
@@ -2407,5 +2419,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
 
