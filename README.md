@@ -1,4 +1,4 @@
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,12 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-09**|**Field quantization in rotating frames: coordinate covariance and the circular-detector response**|Sidney Natzuka Junior et.al.|[2609.10390](http://arxiv.org/abs/2609.10390)|null|
+|**2026-09-09**|**Seeing the Voice, Preserving the Self: A Participatory Design Approach to Deaf-Centric Text-to-Speech**|Shela Atemnkeng et.al.|[2609.10199](http://arxiv.org/abs/2609.10199)|null|
+|**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](http://arxiv.org/abs/2609.10025)|null|
+|**2026-09-09**|**Deterministic Prompting for Speaker-Stable Low-Resource Greek TTS**|Georgios Syllas et.al.|[2609.10022](http://arxiv.org/abs/2609.10022)|null|
+|**2026-09-09**|**Global well-posedness for the derivative nonlinear Schrödinger equation on the circle**|Hajer Bahouri et.al.|[2609.10005](http://arxiv.org/abs/2609.10005)|null|
+|**2026-09-09**|**SpeechAnnotator: A Context-Aware Multi-Agent Framework and Benchmark for Multidimensional Speech Annotation**|Qirui Zhan et.al.|[2609.09947](http://arxiv.org/abs/2609.09947)|null|
+|**2026-09-09**|**SphereVAE: Hyperspherical Latent Autoencoders for Robust Autoregressive Speech Representation Modeling**|Haoyu Zhang et.al.|[2609.09903](http://arxiv.org/abs/2609.09903)|null|
+|**2026-09-09**|**StreamAlign: Streaming Text-Aligned Speech Tokenization**|Kang-wook Kim et.al.|[2609.09719](http://arxiv.org/abs/2609.09719)|null|
+|**2026-09-09**|**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**|Zehan Liu et.al.|[2609.09677](http://arxiv.org/abs/2609.09677)|null|
+|**2026-09-09**|**Differential Stochastic Simulated Annealing Processor for Fully Connected 2048-Spin Optimization**|Naoya Onizawa et.al.|[2609.09559](http://arxiv.org/abs/2609.09559)|null|
 |**2026-09-08**|**TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization**|Nikolaos Triantafyllou et.al.|[2609.09102](http://arxiv.org/abs/2609.09102)|null|
 |**2026-09-08**|**TASTE2: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction**|Yi-Chang Chen et.al.|[2609.08956](http://arxiv.org/abs/2609.08956)|null|
 |**2026-09-08**|**Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection**|Phuong Tuan Dat et.al.|[2609.08948](http://arxiv.org/abs/2609.08948)|null|
 |**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936](http://arxiv.org/abs/2609.08936)|null|
 |**2026-09-08**|**TontaubeV1: Streaming Text-to-Speech with Hierarchical Codec Modeling and Bounded Context**|Fritz Cremer et.al.|[2609.08703](http://arxiv.org/abs/2609.08703)|null|
 |**2026-09-08**|**Stabilizing Instruction Supervision for Instruct-TTS via Controllable Diversification and Drift Filtering**|Yizhong Geng et.al.|[2609.08204](http://arxiv.org/abs/2609.08204)|null|
+|**2026-09-08**|**A Block Tensor Train Burer-Monteiro Framework for Low-Rank Quantum State Tomography**|Shakir Showkat Sofi et.al.|[2609.09457](http://arxiv.org/abs/2609.09457)|null|
+|**2026-09-08**|**Tensor-Train Weak SINDy: Identifying High-Dimensional Nonlinear Dynamics**|Will Houser et.al.|[2609.09434](http://arxiv.org/abs/2609.09434)|null|
 |**2026-09-07**|**VoxReason: Listener-Free Evaluation of Source-Grounded Speech Planning Before Synthesis**|Mengzhe Geng et.al.|[2609.03203](http://arxiv.org/abs/2609.03203)|null|
 |**2026-09-07**|**Low-rank approximation of Moment Tensor Potential enables reducing training set size without loss of accuracy**|Anna Bondarenko et.al.|[2609.07372](http://arxiv.org/abs/2609.07372)|null|
 |**2026-09-07**|**KABURI-TTS: Phoneme-Keyed Activity-conditioned Bi-channel Utterance Rendering for Interaction**|Ryuichiro Higashinaka et.al.|[2609.07200](http://arxiv.org/abs/2609.07200)|null|
@@ -2419,5 +2431,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
 
