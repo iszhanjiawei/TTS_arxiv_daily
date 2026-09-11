@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**Not All Attacks Are Learned Equally in Speech Deepfake Detection**|Avantika Singh et.al.|[2609.11763](http://arxiv.org/abs/2609.11763)|null|
+|**2026-09-10**|**Continuous-Time Acoustic Modelling with Neural Controlled Differential Equations**|Mattias Cross et.al.|[2609.11725](http://arxiv.org/abs/2609.11725)|null|
+|**2026-09-10**|**ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding**|Luca Della Libera et.al.|[2609.11642](http://arxiv.org/abs/2609.11642)|null|
+|**2026-09-10**|**Complex-Text Robustness Evaluation and Failure Diagnosis for Low-Resource Multilingual Text-to-Speech**|Tianlun Zuo et.al.|[2609.11545](http://arxiv.org/abs/2609.11545)|null|
+|**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523](http://arxiv.org/abs/2609.11523)|null|
+|**2026-09-10**|**Flexible and Interpretable Accent Distance Measurements**|Charles McGhee et.al.|[2609.11458](http://arxiv.org/abs/2609.11458)|null|
+|**2026-09-10**|**A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies**|Tianxiang Zhou et.al.|[2609.11231](http://arxiv.org/abs/2609.11231)|null|
+|**2026-09-10**|**Harness Robotic OS: A Unified Embodied-Agent Runtime for Closed-Loop Quadruped Inspection**|Yaoyuan Yan et.al.|[2609.11225](http://arxiv.org/abs/2609.11225)|null|
 |**2026-09-09**|**Field quantization in rotating frames: coordinate covariance and the circular-detector response**|Sidney Natzuka Junior et.al.|[2609.10390](http://arxiv.org/abs/2609.10390)|null|
 |**2026-09-09**|**Seeing the Voice, Preserving the Self: A Participatory Design Approach to Deaf-Centric Text-to-Speech**|Shela Atemnkeng et.al.|[2609.10199](http://arxiv.org/abs/2609.10199)|null|
 |**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](http://arxiv.org/abs/2609.10025)|null|
@@ -24,6 +32,7 @@
 |**2026-09-09**|**StreamAlign: Streaming Text-Aligned Speech Tokenization**|Kang-wook Kim et.al.|[2609.09719](http://arxiv.org/abs/2609.09719)|null|
 |**2026-09-09**|**X2-NativeCursor: Native-Token Text Progress Tracking for Incremental-Text Streaming Codec TTS**|Zehan Liu et.al.|[2609.09677](http://arxiv.org/abs/2609.09677)|null|
 |**2026-09-09**|**Differential Stochastic Simulated Annealing Processor for Fully Connected 2048-Spin Optimization**|Naoya Onizawa et.al.|[2609.09559](http://arxiv.org/abs/2609.09559)|null|
+|**2026-09-09**|**Sharp Lifespan Estimates for a Semilinear Wave Equation with Nonlinear Damping**|Firas Kaabi et.al.|[2609.10819](http://arxiv.org/abs/2609.10819)|null|
 |**2026-09-08**|**TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization**|Nikolaos Triantafyllou et.al.|[2609.09102](http://arxiv.org/abs/2609.09102)|null|
 |**2026-09-08**|**TASTE2: Text-Aligned Speech Modeling and Deployment toward Full-Duplex Voice Interaction**|Yi-Chang Chen et.al.|[2609.08956](http://arxiv.org/abs/2609.08956)|null|
 |**2026-09-08**|**Disentangled Global-Local Feature Learning with E-Branchformer for Audio Deepfake Detection**|Phuong Tuan Dat et.al.|[2609.08948](http://arxiv.org/abs/2609.08948)|null|
