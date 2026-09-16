@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
+|**2026-09-15**|**Subspace methods for min-max problems**|Morteza Kimiaei et.al.|[2609.17375](http://arxiv.org/abs/2609.17375)|null|
+|**2026-09-15**|**Compact Proof of the Positivity of Quasi-Local Masses for a class of Initial Data**|Puskar Mondal et.al.|[2609.17361](http://arxiv.org/abs/2609.17361)|null|
+|**2026-09-15**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
+|**2026-09-15**|**Taming Long-form Text-to-Speech**|Rongxiang Wang et.al.|[2609.16989](http://arxiv.org/abs/2609.16989)|null|
+|**2026-09-15**|**RoleBreak: Benchmarking Long-Horizon Role-Playing Robustness in Spoken Dialogue**|Yuqi Wang et.al.|[2609.16614](http://arxiv.org/abs/2609.16614)|null|
+|**2026-09-15**|**The Evolving Bottleneck in Speech Generation: Interface Co-design and Staged Alignment from CosyVoice to Qwen-Audio-3.0-TTS**|Qian Chen et.al.|[2609.16514](http://arxiv.org/abs/2609.16514)|null|
+|**2026-09-15**|**Language Orthogonalization for Zero-Shot Cross-Lingual Audio Deepfake Detection**|Minu Kim et.al.|[2609.16458](http://arxiv.org/abs/2609.16458)|null|
+|**2026-09-14**|**Sharp non-uniqueness of weak solutions to the semilinear wave equation**|Peng Qu et.al.|[2609.15442](http://arxiv.org/abs/2609.15442)|null|
+|**2026-09-14**|**Reducing the Output-Mode Gap in Speech Language Models via Joint-Output On-Policy Distillation**|Daxin Tan et.al.|[2609.15313](http://arxiv.org/abs/2609.15313)|null|
+|**2026-09-14**|**Cross-Lingual F5-TTS 2: A Simplified Framework for Language-Agnostic Voice Cloning**|Qingyu Liu et.al.|[2609.15184](http://arxiv.org/abs/2609.15184)|null|
+|**2026-09-13**|**Tone on a Budget: A Reference-Free Metric for Lexical Tone in Massively Multilingual Text-to-Speech**|Moses Daudu et.al.|[2609.14817](http://arxiv.org/abs/2609.14817)|null|
+|**2026-09-13**|**Quantifying the Generation Modality Gap in Speech-Text Language Models**|Ju-Chieh Chou et.al.|[2609.14743](http://arxiv.org/abs/2609.14743)|null|
+|**2026-09-13**|**Bridging Data, Reasoning, and Alignment: A Unified Framework for Context-Aware Instruction-Following TTS**|Jingbin Hu et.al.|[2609.14740](http://arxiv.org/abs/2609.14740)|null|
+|**2026-09-13**|**Dynamic Learning Solutions: A System for Personalized Educational Video Generation**|Siddhanth Sridhar et.al.|[2609.14408](http://arxiv.org/abs/2609.14408)|null|
+|**2026-09-13**|**Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations**|Ziyu Zhang et.al.|[2609.14231](http://arxiv.org/abs/2609.14231)|null|
+|**2026-09-12**|**A Low-Latency Interactive System for Real-Time Video Understanding Based on VLMs**|Punan Dai et.al.|[2609.13986](http://arxiv.org/abs/2609.13986)|null|
+|**2026-09-12**|**DiTAR+: Dual Optimization for Robust Autoregressive Diffusion Speech Synthesis**|Ziyu Zhang et.al.|[2609.13909](http://arxiv.org/abs/2609.13909)|null|
+|**2026-09-12**|**Co-Speech with You: Training-Free Personalization of Robot Co-Speech Gestures**|Bosong Ding et.al.|[2609.13876](http://arxiv.org/abs/2609.13876)|null|
+|**2026-09-12**|**Bangla Sentence Function Classification: Corpus Development, Model Benchmarking, and Interpretability**|Swapnil Kundu Argha et.al.|[2609.13869](http://arxiv.org/abs/2609.13869)|null|
 |**2026-09-10**|**Not All Attacks Are Learned Equally in Speech Deepfake Detection**|Avantika Singh et.al.|[2609.11763](http://arxiv.org/abs/2609.11763)|null|
 |**2026-09-10**|**Continuous-Time Acoustic Modelling with Neural Controlled Differential Equations**|Mattias Cross et.al.|[2609.11725](http://arxiv.org/abs/2609.11725)|null|
 |**2026-09-10**|**ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding**|Luca Della Libera et.al.|[2609.11642](http://arxiv.org/abs/2609.11642)|null|
