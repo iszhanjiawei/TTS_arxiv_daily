@@ -14,9 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-17**|**Chebyshev and garment cutting. Debunking some myths**|Victor Tapia et.al.|[2609.20438](http://arxiv.org/abs/2609.20438)|null|
+|**2026-09-17**|**MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents**|Pritish Mishra et.al.|[2609.20152](http://arxiv.org/abs/2609.20152)|null|
+|**2026-09-17**|**Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis**|Zifan Guan et.al.|[2609.20124](http://arxiv.org/abs/2609.20124)|null|
+|**2026-09-17**|**Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection**|Xiang Li et.al.|[2609.20063](http://arxiv.org/abs/2609.20063)|null|
+|**2026-09-17**|**Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data**|Rui Hu et.al.|[2609.19805](http://arxiv.org/abs/2609.19805)|null|
 |**2026-09-16**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
 |**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|null|
 |**2026-09-16**|**Linear maps preserving Kasparov cycles and the characterization of induced automorphisms**|Kamran Sharifi et.al.|[2609.18619](http://arxiv.org/abs/2609.18619)|null|
+|**2026-09-16**|**A frontend-backend architecture for tool calls in full-duplex speech models**|Ke Hu et.al.|[2609.19334](http://arxiv.org/abs/2609.19334)|null|
+|**2026-09-16**|**PersianVox: A Prosody-Aware Approach for Speech Dataset Generation from In-the-Wild Data**|Saeedreza Zouashkiani et.al.|[2609.19324](http://arxiv.org/abs/2609.19324)|null|
 |**2026-09-15**|**LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs**|Thanapat Trachu et.al.|[2609.17509](http://arxiv.org/abs/2609.17509)|null|
 |**2026-09-15**|**Subspace methods for min-max problems**|Morteza Kimiaei et.al.|[2609.17375](http://arxiv.org/abs/2609.17375)|null|
 |**2026-09-15**|**Compact Proof of the Positivity of Quasi-Local Masses for a class of Initial Data**|Puskar Mondal et.al.|[2609.17361](http://arxiv.org/abs/2609.17361)|null|
