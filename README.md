@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-18**|**NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities**|Jagadeesh Balam et.al.|[2609.21967](http://arxiv.org/abs/2609.21967)|null|
+|**2026-09-18**|**GenTraceBench: A Benchmark for Tracing Audio Deepfakes Across Pre- and Post-training Stages**|Li Wang et.al.|[2609.21738](http://arxiv.org/abs/2609.21738)|null|
+|**2026-09-18**|**Listen Before You Speak: Response Planning from Listener Facial Reactions for Conversational Speech Generation**|Yunji Chu et.al.|[2609.21683](http://arxiv.org/abs/2609.21683)|null|
+|**2026-09-18**|**Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval**|Cristian-Teodor Neamtu et.al.|[2609.21581](http://arxiv.org/abs/2609.21581)|null|
 |**2026-09-17**|**Chebyshev and garment cutting. Debunking some myths**|Victor Tapia et.al.|[2609.20438](http://arxiv.org/abs/2609.20438)|null|
 |**2026-09-17**|**MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents**|Pritish Mishra et.al.|[2609.20152](http://arxiv.org/abs/2609.20152)|null|
 |**2026-09-17**|**Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis**|Zifan Guan et.al.|[2609.20124](http://arxiv.org/abs/2609.20124)|null|
 |**2026-09-17**|**Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection**|Xiang Li et.al.|[2609.20063](http://arxiv.org/abs/2609.20063)|null|
 |**2026-09-17**|**Dictionary-Constrained Grapheme-to-Phoneme for Unsegmented Languages from LLM-Annotated Data**|Rui Hu et.al.|[2609.19805](http://arxiv.org/abs/2609.19805)|null|
+|**2026-09-17**|**Voice-Light: A Full-Duplex Cascaded Voice Agent with Causal Turn-Taking and Speculative Generation**|Bertil Braun et.al.|[2609.20995](http://arxiv.org/abs/2609.20995)|null|
 |**2026-09-16**|**Self-Distilled Pronunciation and Accent Control for Neural Text-to-Speech**|Shuhei Kato et.al.|[2609.17234](http://arxiv.org/abs/2609.17234)|null|
 |**2026-09-16**|**GrainSpeech: Less Context, More Detail for Compact Speech Synthesis**|Zitao Liang et.al.|[2609.18856](http://arxiv.org/abs/2609.18856)|null|
 |**2026-09-16**|**Linear maps preserving Kasparov cycles and the characterization of induced automorphisms**|Kamran Sharifi et.al.|[2609.18619](http://arxiv.org/abs/2609.18619)|null|
