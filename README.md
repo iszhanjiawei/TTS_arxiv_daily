@@ -1,4 +1,4 @@
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**|Debajyoti Mazumder et.al.|[2609.30227](http://arxiv.org/abs/2609.30227)|null|
+|**2026-09-24**|**EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows**|Hongyao Deng et.al.|[2609.29889](http://arxiv.org/abs/2609.29889)|null|
+|**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
+|**2026-09-24**|**BanglaKontho: Closing the Long-Form Gap in Bangla Text-to-Speech**|Mizbaul Haque Maruf et.al.|[2609.29146](http://arxiv.org/abs/2609.29146)|null|
+|**2026-09-24**|**Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning**|Yoomee Cho et.al.|[2609.29123](http://arxiv.org/abs/2609.29123)|null|
+|**2026-09-24**|**The Vulnerability of Neural Audio Watermarks under Speech Enhancement**|Xincong Zhong et.al.|[2609.29040](http://arxiv.org/abs/2609.29040)|null|
+|**2026-09-24**|**Same Bit Width, Different Outcomes: Post-Training Quantization of Text-to-Speech Across Architectures**|Se Un Park et.al.|[2609.28974](http://arxiv.org/abs/2609.28974)|null|
+|**2026-09-24**|**ReaFlow-TTS: Realization-Conditioned Flow Matching for High-Quality and Controllable Speech Synthesis**|Junyi Zhao et.al.|[2609.28906](http://arxiv.org/abs/2609.28906)|null|
 |**2026-09-23**|**TEMPS: Temporal Sentence Embeddings for Temporal Information Retrieval**|Mourad Hassani et.al.|[2609.28048](http://arxiv.org/abs/2609.28048)|null|
 |**2026-09-23**|**Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery**|Rasmus Aagaard et.al.|[2609.27980](http://arxiv.org/abs/2609.27980)|null|
 |**2026-09-23**|**The weak-type $(1,1)$ estimates for wave equation on $ax+b$ groups**|Yunxiang Wang et.al.|[2609.27730](http://arxiv.org/abs/2609.27730)|null|
@@ -21,6 +29,7 @@
 |**2026-09-23**|**Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech**|Hyoeun Kim et.al.|[2609.27399](http://arxiv.org/abs/2609.27399)|null|
 |**2026-09-23**|**When Entanglement Lower-Bounds Disparity: Auditing and Repairing Demographic Fairness in Audio Understanding Models**|Kian Shamsaie et.al.|[2609.27382](http://arxiv.org/abs/2609.27382)|null|
 |**2026-09-23**|**Phonemizing User-Generated Text: A Benchmark, Taxonomy, and Compositional Approach**|MinJu Jeon et.al.|[2609.27205](http://arxiv.org/abs/2609.27205)|null|
+|**2026-09-23**|**"What I See is What I Hear": Deepfake Detection Across Diverse Hearing Abilities**|Magdalena Pasternak et.al.|[2609.28659](http://arxiv.org/abs/2609.28659)|null|
 |**2026-09-22**|**MIRA: Real-Time Full-Duplex Human-Robot Interaction for Embodied Companions**|Lijian Lin et.al.|[2609.24547](http://arxiv.org/abs/2609.24547)|null|
 |**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-22**|**From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS**|Jiayi Lu et.al.|[2609.25951](http://arxiv.org/abs/2609.25951)|null|
@@ -2500,5 +2509,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
