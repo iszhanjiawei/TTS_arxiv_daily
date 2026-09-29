@@ -14,6 +14,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-28**|**GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection**|Zelin Zhao et.al.|[2609.35411](http://arxiv.org/abs/2609.35411)|null|
+|**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
+|**2026-09-28**|**Unbiased Top- $k$ Estimation for On-Policy Distillation**|Linjian Meng et.al.|[2609.34447](http://arxiv.org/abs/2609.34447)|null|
+|**2026-09-28**|**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**|Isha Pandey Varad Deshpande Abhijat Bharadwaj Ganesh Ramakrishnan et.al.|[2609.34431](http://arxiv.org/abs/2609.34431)|null|
+|**2026-09-28**|**Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: Exploration toward Age, Gender, and Accent Steering**|Shih-Heng Wang et.al.|[2609.34052](http://arxiv.org/abs/2609.34052)|null|
+|**2026-09-27**|**Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry**|Szu-Chi Chen et.al.|[2609.33999](http://arxiv.org/abs/2609.33999)|null|
+|**2026-09-27**|**Test-Time Generalized Category Discovery**|Shambhavi Mishra et.al.|[2609.33937](http://arxiv.org/abs/2609.33937)|null|
+|**2026-09-27**|**Gottfried-Jackson polarization filters for holographic dilaton and transverse-traceless gluon responses in near-threshold $J/ψ$ photoproduction**|Arkadiy I. Syamtomov et.al.|[2609.33908](http://arxiv.org/abs/2609.33908)|null|
+|**2026-09-27**|**Controlling Speaking Rate in Autoregressive TTS via Activation Steering**|Francesco Verdini et.al.|[2609.33810](http://arxiv.org/abs/2609.33810)|null|
+|**2026-09-27**|**Tokens Change, Structure Endures: Spectral Watermarking for Generated Speech**|Kanghwi Lee et.al.|[2609.33774](http://arxiv.org/abs/2609.33774)|null|
+|**2026-09-27**|**TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining**|Shih-Ying Yeh et.al.|[2609.33419](http://arxiv.org/abs/2609.33419)|null|
+|**2026-09-27**|**What Survives the Codec Shift: Pooled No-Vocals Residuals for Speech Deepfake Detection**|Jiajun Xu et.al.|[2609.33375](http://arxiv.org/abs/2609.33375)|null|
+|**2026-09-27**|**From Script to Drama: An Agentic Framework for Controllable Multi-Speaker Dialogue TTS**|Kangxiang Xia et.al.|[2609.33362](http://arxiv.org/abs/2609.33362)|null|
+|**2026-09-26**|**DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS**|Ambuj Mehrish et.al.|[2609.32777](http://arxiv.org/abs/2609.32777)|null|
+|**2026-09-26**|**How to Reduce Whisper Hallucination**|Husein Zolkepli et.al.|[2609.32560](http://arxiv.org/abs/2609.32560)|null|
+|**2026-09-26**|**Toward Human-Aligned Judgement of Speech Emotion Similarity**|Yun-Shao Tsai et.al.|[2609.32504](http://arxiv.org/abs/2609.32504)|null|
+|**2026-09-26**|**Sharp $L^p$ estimates for the strong spherical maximal operator**|Mingfeng Chen et.al.|[2609.32421](http://arxiv.org/abs/2609.32421)|null|
 |**2026-09-25**|**RePlay: Retrieval-Based Voice Playback for Multi-Turn spoken dialogue**|Sathvik Udupa et.al.|[2609.31588](http://arxiv.org/abs/2609.31588)|null|
 |**2026-09-25**|**Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge**|Yahya Mohamed Elnawasany et.al.|[2609.31511](http://arxiv.org/abs/2609.31511)|null|
 |**2026-09-25**|**THA: Weighted Finite-State Text Normalization and Inverse Text Normalization for Khmer**|Seanghay Yath et.al.|[2609.30984](http://arxiv.org/abs/2609.30984)|null|
@@ -21,6 +38,9 @@
 |**2026-09-25**|**A Comprehensive Study of Content Representations for Speech Synthesis**|Diego Torres et.al.|[2609.30975](http://arxiv.org/abs/2609.30975)|null|
 |**2026-09-25**|**Training-Free Pronunciation Transcription via Text-Constrained Acoustic Rescoring**|Hikaru Asano et.al.|[2609.30924](http://arxiv.org/abs/2609.30924)|null|
 |**2026-09-25**|**LUMO (Lightweight Unified Multilingual Orchestrator): A Privacy Preserving Offline Voice Assistant**|Md. Mehedi Hasan Naeem et.al.|[2609.30692](http://arxiv.org/abs/2609.30692)|null|
+|**2026-09-25**|**Tracing Decoder Artifacts for Compact Synthetic Speech Screening**|Yi Chen Liu et.al.|[2609.32050](http://arxiv.org/abs/2609.32050)|null|
+|**2026-09-25**|**VoiceNet: Fine-Grained Voice Understanding Beyond Emotion at Scale**|Christoph Schuhmann et.al.|[2609.32016](http://arxiv.org/abs/2609.32016)|null|
+|**2026-09-25**|**NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech**|Qiaolin Wang et.al.|[2609.31892](http://arxiv.org/abs/2609.31892)|null|
 |**2026-09-24**|**To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech**|Debajyoti Mazumder et.al.|[2609.30227](http://arxiv.org/abs/2609.30227)|null|
 |**2026-09-24**|**EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows**|Hongyao Deng et.al.|[2609.29889](http://arxiv.org/abs/2609.29889)|null|
 |**2026-09-24**|**Depth through recurrence: Looped transformers for flow-matching TTS**|Jiabao Ai et.al.|[2609.29768](http://arxiv.org/abs/2609.29768)|null|
