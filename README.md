@@ -14,11 +14,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation**|Kuan-Po Huang et.al.|[2609.38157](http://arxiv.org/abs/2609.38157)|null|
+|**2026-09-29**|**SENSE: Semantic Neural Speech Synthesis from Brain Dynamics via Spatial Graph Encoding**|Jisoo Park et.al.|[2609.37601](http://arxiv.org/abs/2609.37601)|null|
+|**2026-09-29**|**Riemannian optimization on low-rank tensor train manifolds for the Gross-Pitaevskii equation**|Ivan Bioli et.al.|[2609.37103](http://arxiv.org/abs/2609.37103)|null|
+|**2026-09-29**|**RAWD-TTS: Ratio-Free Reward Alignment for Discrete-Diffusion Voice Cloning**|Maxim Maslov et.al.|[2609.37028](http://arxiv.org/abs/2609.37028)|null|
+|**2026-09-29**|**RVQ Position Aware Speculative Decoding for On Device Text to Speech**|Berkin Durmus et.al.|[2609.37007](http://arxiv.org/abs/2609.37007)|null|
+|**2026-09-29**|**Repetition, Not Length: Isolating the Counting Failure in Neural Text-to-Speech**|Kirill Borodin et.al.|[2609.36974](http://arxiv.org/abs/2609.36974)|null|
+|**2026-09-29**|**WenetSpeech-Min: A Large-Scale Minnan Speech Corpus with Dual Transcriptions for Dialectal Speech Processing**|Haoyu Zhang et.al.|[2609.36834](http://arxiv.org/abs/2609.36834)|null|
+|**2026-09-29**|**From Neurons to Conversation: Speech Brain-Computer Interfaces**|Moein Khajehnejad et.al.|[2609.36736](http://arxiv.org/abs/2609.36736)|null|
+|**2026-09-29**|**Compressed Sensing with Quantized Tensor Trains (QTTs)**|Jingchun Shao et.al.|[2609.36506](http://arxiv.org/abs/2609.36506)|null|
+|**2026-09-29**|**TT-FDTD: Tensor Train Accelerated Three-Dimensional FDTD With Logarithmic Cost of Spatial Operators**|Chris Nguyen et.al.|[2609.36487](http://arxiv.org/abs/2609.36487)|null|
 |**2026-09-28**|**GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection**|Zelin Zhao et.al.|[2609.35411](http://arxiv.org/abs/2609.35411)|null|
 |**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
 |**2026-09-28**|**Unbiased Top- $k$ Estimation for On-Policy Distillation**|Linjian Meng et.al.|[2609.34447](http://arxiv.org/abs/2609.34447)|null|
 |**2026-09-28**|**Harmonizing Spectral Evolution in Conditional Flow Matching for TTS**|Isha Pandey Varad Deshpande Abhijat Bharadwaj Ganesh Ramakrishnan et.al.|[2609.34431](http://arxiv.org/abs/2609.34431)|null|
 |**2026-09-28**|**Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: Exploration toward Age, Gender, and Accent Steering**|Shih-Heng Wang et.al.|[2609.34052](http://arxiv.org/abs/2609.34052)|null|
+|**2026-09-28**|**Distill Locally, Schedule Globally: Flow Maps for Few-Step Text-to-Speech**|Yentl Collin et.al.|[2609.36324](http://arxiv.org/abs/2609.36324)|null|
+|**2026-09-28**|**InstCharVoice: Grounding Natural-Language Instructions for Character-Level Control in Text-to-Speech**|Sihang Nie et.al.|[2609.36287](http://arxiv.org/abs/2609.36287)|null|
+|**2026-09-28**|**Design and Analysis of a 2D Vernier Structure**|Hüsna Yildiz et.al.|[2609.36083](http://arxiv.org/abs/2609.36083)|null|
 |**2026-09-27**|**Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry**|Szu-Chi Chen et.al.|[2609.33999](http://arxiv.org/abs/2609.33999)|null|
 |**2026-09-27**|**Test-Time Generalized Category Discovery**|Shambhavi Mishra et.al.|[2609.33937](http://arxiv.org/abs/2609.33937)|null|
 |**2026-09-27**|**Gottfried-Jackson polarization filters for holographic dilaton and transverse-traceless gluon responses in near-threshold $J/ψ$ photoproduction**|Arkadiy I. Syamtomov et.al.|[2609.33908](http://arxiv.org/abs/2609.33908)|null|
