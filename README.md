@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Index-Translate: A Multilingual Translation Model Family -- Text, Speech, Controlled Dubbing, and Long-Document Translation**|Tianjiao Li et.al.|[2609.40181](http://arxiv.org/abs/2609.40181)|null|
+|**2026-09-30**|**On the topology of the space of vacuum initial data sets**|Romain Gicquaud et.al.|[2609.39987](http://arxiv.org/abs/2609.39987)|null|
+|**2026-09-30**|**Towards breaking the degeneracy between stellar ages and unresolved multiplicity**|Friedrich Anders et.al.|[2609.39907](http://arxiv.org/abs/2609.39907)|null|
+|**2026-09-30**|**SCIC: Scope- and Codebook-Aware Instruction Conditioning for Speaker-Adapted Expressive TTS**|Longyu Lu et.al.|[2609.39088](http://arxiv.org/abs/2609.39088)|null|
+|**2026-09-30**|**SURE-EVAL: A Systematic and Unified Agentic Framework for Reproducible Evaluation**|Jing Peng et.al.|[2609.39030](http://arxiv.org/abs/2609.39030)|null|
 |**2026-09-29**|**EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation**|Kuan-Po Huang et.al.|[2609.38157](http://arxiv.org/abs/2609.38157)|null|
 |**2026-09-29**|**SENSE: Semantic Neural Speech Synthesis from Brain Dynamics via Spatial Graph Encoding**|Jisoo Park et.al.|[2609.37601](http://arxiv.org/abs/2609.37601)|null|
 |**2026-09-29**|**Riemannian optimization on low-rank tensor train manifolds for the Gross-Pitaevskii equation**|Ivan Bioli et.al.|[2609.37103](http://arxiv.org/abs/2609.37103)|null|
@@ -24,6 +29,9 @@
 |**2026-09-29**|**From Neurons to Conversation: Speech Brain-Computer Interfaces**|Moein Khajehnejad et.al.|[2609.36736](http://arxiv.org/abs/2609.36736)|null|
 |**2026-09-29**|**Compressed Sensing with Quantized Tensor Trains (QTTs)**|Jingchun Shao et.al.|[2609.36506](http://arxiv.org/abs/2609.36506)|null|
 |**2026-09-29**|**TT-FDTD: Tensor Train Accelerated Three-Dimensional FDTD With Logarithmic Cost of Spatial Operators**|Chris Nguyen et.al.|[2609.36487](http://arxiv.org/abs/2609.36487)|null|
+|**2026-09-29**|**Weak type $(1,1)$ boundedness of noncommutative singular integral operators with rough kernels**|Xudong Lai et.al.|[2609.38671](http://arxiv.org/abs/2609.38671)|null|
+|**2026-09-29**|**Tacit-TTS: From Autoregressive Decoding to Masked Prediction for Efficient Transcript-Free Voice Cloning**|Jian Chen et.al.|[2609.38658](http://arxiv.org/abs/2609.38658)|null|
+|**2026-09-29**|**Monotonicity-Guided Semantic Alignment for Zero-shot Multispeaker Image-to-Speech Synthesis**|Lijun Wang et.al.|[2609.38440](http://arxiv.org/abs/2609.38440)|null|
 |**2026-09-28**|**GLAD: Global-Local Adaptive Detector for Robust Speech Deepfake Detection**|Zelin Zhao et.al.|[2609.35411](http://arxiv.org/abs/2609.35411)|null|
 |**2026-09-28**|**SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows**|Tianxin Xie et.al.|[2609.34648](http://arxiv.org/abs/2609.34648)|null|
 |**2026-09-28**|**Unbiased Top- $k$ Estimation for On-Policy Distillation**|Linjian Meng et.al.|[2609.34447](http://arxiv.org/abs/2609.34447)|null|
@@ -2549,5 +2557,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
