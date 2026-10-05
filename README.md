@@ -1,4 +1,4 @@
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-02**|**DriftTTS: Few-Step Text-to-Speech Without Distillation via Distribution-Matching Drift**|Mohammad Nur Hossain Khan et.al.|[2610.03390](http://arxiv.org/abs/2610.03390)|null|
+|**2026-10-02**|**Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS**|Nityanand Mathur et.al.|[2610.03320](http://arxiv.org/abs/2610.03320)|null|
+|**2026-10-02**|**Unsupervised Instantaneous Phase and Frequency Tracking by Inverse Voice Synthesis**|Chin-Yun Yu et.al.|[2610.03058](http://arxiv.org/abs/2610.03058)|null|
+|**2026-10-02**|**Initial and initial-boundary value problems for a cubic sixth-order Boussinesq equation**|Yuhao Xie et.al.|[2610.02748](http://arxiv.org/abs/2610.02748)|null|
 |**2026-10-01**|**Moore, Escher, Penrose: A Conformal Golden Braid**|Sophia Feldman et.al.|[2610.02210](http://arxiv.org/abs/2610.02210)|null|
 |**2026-10-01**|**Multi-sample Synthetic Supervision for Accent Conversion**|Yangyang Qu et.al.|[2610.01961](http://arxiv.org/abs/2610.01961)|null|
 |**2026-10-01**|**Q-SPT: Learnable Query-Based Compression for Low-Frame-Rate Speech Tokenization**|Jeeyoung Yun et.al.|[2610.01492](http://arxiv.org/abs/2610.01492)|null|
@@ -2567,5 +2571,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261004>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
