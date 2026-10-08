@@ -14,10 +14,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Steerspeech: Activation Steering For Emotion Control In Generated Speech**|Afsara Benazir et.al.|[2610.10415](http://arxiv.org/abs/2610.10415)|null|
+|**2026-10-07**|**Activation-Aware Weight Tensorization: A Calibration-Time Preconditioner for Tensor-Network LLM Compression**|Alessandro Beatini et.al.|[2610.10085](http://arxiv.org/abs/2610.10085)|null|
+|**2026-10-07**|**Tensor-structure sum rules for spin-1 targets at all $Q^2$**|Vladimir Pascalutsa et.al.|[2610.09862](http://arxiv.org/abs/2610.09862)|null|
+|**2026-10-07**|**Training-Free Instruction TTS Gender Bias Calibration Using Model-Adaptive Steering**|Kuan-Yu Chen et.al.|[2610.09831](http://arxiv.org/abs/2610.09831)|null|
+|**2026-10-07**|**From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery**|Xinglin Wang et.al.|[2610.09684](http://arxiv.org/abs/2610.09684)|null|
+|**2026-10-07**|**Beyond Token Revision: Investigating Mask-and-Replace Diffusion for Zero-Shot Text-to-Speech**|Hounsu Kim et.al.|[2610.09448](http://arxiv.org/abs/2610.09448)|null|
+|**2026-10-07**|**Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation**|Shunsuke Mitsumori et.al.|[2610.09321](http://arxiv.org/abs/2610.09321)|null|
+|**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|null|
 |**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiang Shi et.al.|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
 |**2026-10-06**|**Noncompactness for the constant $Q_{2N}$ -curvature problem**|Liuwei Gong et.al.|[2610.07992](http://arxiv.org/abs/2610.07992)|null|
 |**2026-10-06**|**Loud and Clear: Dynamic Activation Steering for Improving Speech Intelligibility in Noisy Environments**|Seymanur Akti et.al.|[2610.07647](http://arxiv.org/abs/2610.07647)|null|
 |**2026-10-06**|**Pronunciation-Oriented Reinforcement Learning for Japanese Text-to-Speech with Kana-Domain ASR Rewards**|Shiao Zhu et.al.|[2610.07575](http://arxiv.org/abs/2610.07575)|null|
+|**2026-10-06**|**BanglaBox: A Phonetically-Balanced Corpus and Data-Efficient Foundation-Model Adaptation for Bangla Text-to-Speech with Zero-Shot Voice Cloning**|Emtiaz Uddin Ahmed et.al.|[2610.09211](http://arxiv.org/abs/2610.09211)|null|
+|**2026-10-06**|**Steering Follows Geometry, Not Labels: Emotion Directions in a Full-Duplex Speech Model**|Pulak Kuli et.al.|[2610.08887](http://arxiv.org/abs/2610.08887)|null|
 |**2026-10-05**|**Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model**|Sahil Mahendrakar et.al.|[2610.06817](http://arxiv.org/abs/2610.06817)|null|
 |**2026-10-05**|**A Comprehensive Objective Evaluation of Modern Text-to-Speech for Turkish Using Speech Quality Assessment Models**|Yunus Emre Ozkose et.al.|[2610.06057](http://arxiv.org/abs/2610.06057)|null|
 |**2026-10-05**|**Region-Aware Masking for Accent-Robust Cross-Lingual Text-to-Speech**|Haoqi Li et.al.|[2610.07524](http://arxiv.org/abs/2610.07524)|null|
