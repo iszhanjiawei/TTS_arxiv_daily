@@ -1,4 +1,4 @@
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**Nonreciprocal black holes with primary hair in beyond Horndeski gravity: Exact solutions and stability**|Sebastian Bahamonde et.al.|[2610.11712](http://arxiv.org/abs/2610.11712)|null|
+|**2026-10-08**|**Beyond Speech Captions: Speech-Rewarded Style Planning for Conversational Text-to-Speech**|Shiao Zhu et.al.|[2610.11461](http://arxiv.org/abs/2610.11461)|null|
+|**2026-10-08**|**Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS**|Junchuan Zhao et.al.|[2610.11437](http://arxiv.org/abs/2610.11437)|null|
+|**2026-10-08**|**Phonological Interference in Multilingual Speech Models**|Moran Yanuka et.al.|[2610.11275](http://arxiv.org/abs/2610.11275)|null|
+|**2026-10-08**|**Local Prototype Reconstruction for Text-Compatible Speech-to-LLM Bridge Pretraining**|Xinnian Zhao et.al.|[2610.11159](http://arxiv.org/abs/2610.11159)|null|
 |**2026-10-07**|**Steerspeech: Activation Steering For Emotion Control In Generated Speech**|Afsara Benazir et.al.|[2610.10415](http://arxiv.org/abs/2610.10415)|null|
 |**2026-10-07**|**Activation-Aware Weight Tensorization: A Calibration-Time Preconditioner for Tensor-Network LLM Compression**|Alessandro Beatini et.al.|[2610.10085](http://arxiv.org/abs/2610.10085)|null|
 |**2026-10-07**|**Tensor-structure sum rules for spin-1 targets at all $Q^2$**|Vladimir Pascalutsa et.al.|[2610.09862](http://arxiv.org/abs/2610.09862)|null|
@@ -22,6 +27,7 @@
 |**2026-10-07**|**Beyond Token Revision: Investigating Mask-and-Replace Diffusion for Zero-Shot Text-to-Speech**|Hounsu Kim et.al.|[2610.09448](http://arxiv.org/abs/2610.09448)|null|
 |**2026-10-07**|**Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation**|Shunsuke Mitsumori et.al.|[2610.09321](http://arxiv.org/abs/2610.09321)|null|
 |**2026-10-07**|**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**|vLLM-Omni Team et.al.|[2610.09307](http://arxiv.org/abs/2610.09307)|null|
+|**2026-10-07**|**Ruleless Digital Twins: Toward Declarative Decision-Making Through Standardized Frameworks and Technologies**|Ivan Spajić et.al.|[2610.10631](http://arxiv.org/abs/2610.10631)|null|
 |**2026-10-06**|**Voice Anonymization Made Simple: Training-Free Anonymization with Projected Classifier-Free Guidance**|Xiang Shi et.al.|[2610.08276](http://arxiv.org/abs/2610.08276)|null|
 |**2026-10-06**|**Noncompactness for the constant $Q_{2N}$ -curvature problem**|Liuwei Gong et.al.|[2610.07992](http://arxiv.org/abs/2610.07992)|null|
 |**2026-10-06**|**Loud and Clear: Dynamic Activation Steering for Improving Speech Intelligibility in Noisy Environments**|Seymanur Akti et.al.|[2610.07647](http://arxiv.org/abs/2610.07647)|null|
@@ -2601,5 +2607,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261009>back to top</a>)</p>
 
