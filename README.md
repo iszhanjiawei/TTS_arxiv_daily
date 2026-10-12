@@ -1,4 +1,4 @@
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation**|Yunus Emre Ozkose et.al.|[2610.13662](http://arxiv.org/abs/2610.13662)|null|
+|**2026-10-09**|**Compactly supported instability of Riemannian Schwarzschild--Tangherlini metrics**|Erwann Delay et.al.|[2610.13507](http://arxiv.org/abs/2610.13507)|null|
+|**2026-10-09**|**Vision Transformers Learn Word Meaning from Images Alone**|Anders Gjølbye et.al.|[2610.13252](http://arxiv.org/abs/2610.13252)|null|
+|**2026-10-09**|**How Should We Evaluate Naturalness for Synthetic Speech with a Foreign Accent?**|Kentaro Onda et.al.|[2610.13175](http://arxiv.org/abs/2610.13175)|null|
+|**2026-10-09**|**E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS**|Yiqiao Huang et.al.|[2610.12993](http://arxiv.org/abs/2610.12993)|null|
+|**2026-10-09**|**Emo-BPO: Emotion Bidirectional Preference Optimization for Diffusion-based Emotional TTS**|Jiacheng Shi et.al.|[2610.12958](http://arxiv.org/abs/2610.12958)|null|
+|**2026-10-09**|**Room-temperature ferroelectric p-wave magnet**|Kaiwen Shen et.al.|[2610.12892](http://arxiv.org/abs/2610.12892)|null|
 |**2026-10-08**|**Nonreciprocal black holes with primary hair in beyond Horndeski gravity: Exact solutions and stability**|Sebastian Bahamonde et.al.|[2610.11712](http://arxiv.org/abs/2610.11712)|null|
 |**2026-10-08**|**Beyond Speech Captions: Speech-Rewarded Style Planning for Conversational Text-to-Speech**|Shiao Zhu et.al.|[2610.11461](http://arxiv.org/abs/2610.11461)|null|
 |**2026-10-08**|**Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS**|Junchuan Zhao et.al.|[2610.11437](http://arxiv.org/abs/2610.11437)|null|
@@ -2607,5 +2614,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 
