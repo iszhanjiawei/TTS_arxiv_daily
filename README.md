@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-13**|**Estimating Surprisal from the Speech Signal**|Zachary Hopton et.al.|[2610.18439](http://arxiv.org/abs/2610.18439)|null|
+|**2026-10-13**|**PACT: A Pragmatic Prompting Framework for Expressive and Voice-Preserving Speech-to-Speech Translation**|Yuchen Song et.al.|[2610.18247](http://arxiv.org/abs/2610.18247)|null|
+|**2026-10-13**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
+|**2026-10-13**|**Beyond Fixed Targets: On-Policy One-Shot Speaker Personalization for Autoregressive Text-To-Speech Models**|Sangkwon Park et.al.|[2610.17838](http://arxiv.org/abs/2610.17838)|null|
+|**2026-10-13**|**SSEmb: Training a Generalizable Speech Retrieval Model Using Only Automatic Speech Recognition Data**|Sangkwon Park et.al.|[2610.17813](http://arxiv.org/abs/2610.17813)|null|
+|**2026-10-13**|**Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**|Ding Ma et.al.|[2610.17716](http://arxiv.org/abs/2610.17716)|null|
+|**2026-10-13**|**TDR: Tagalog Diacritic Restoration Dataset**|Ivan Yuri De Leon et.al.|[2610.17597](http://arxiv.org/abs/2610.17597)|null|
+|**2026-10-13**|**Sharp Damping Location for Stability of a Locally Damped Wave Equation and its Galerkin Approximation**|Kangsheng Liu et.al.|[2610.17539](http://arxiv.org/abs/2610.17539)|null|
+|**2026-10-12**|**Distilling Text LMs into Speech-to-Speech LMs by Matching Internal Text Predictions**|Ju-Chieh Chou et.al.|[2610.17461](http://arxiv.org/abs/2610.17461)|null|
+|**2026-10-12**|**From Sound to Sense: An Anatomy of Semantic Supervision for Speech-Driven Visual Grounding in Remote Sensing Imagery**|Zhongyu Pang et.al.|[2610.16364](http://arxiv.org/abs/2610.16364)|null|
+|**2026-10-11**|**Synthesizing Ultrasonic Echo Profiles from Text for Open-Vocabulary Silent Speech Recognition**|Jiacheng Liu et.al.|[2610.15671](http://arxiv.org/abs/2610.15671)|null|
+|**2026-10-11**|**From Dirac Neutrino Mass to Dark Radiation: An $A_4$ -Symmetric FIMP Dark Matter Framework**|Pritam Das et.al.|[2610.15618](http://arxiv.org/abs/2610.15618)|null|
+|**2026-10-11**|**KOMOS: Automatic Mean Opinion Score Estimation for Korean Speech**|Sangchun Ha et.al.|[2610.15353](http://arxiv.org/abs/2610.15353)|null|
+|**2026-10-11**|**Integral Representations and Sharp Numerical Radius Inequalities for Hilbert Space Operators**|Wasim Audeh et.al.|[2610.15242](http://arxiv.org/abs/2610.15242)|null|
+|**2026-10-10**|**GAMW: Generation-Aware Mel-Domain Watermarking for TTS Traceability**|Yihang Zhang et.al.|[2610.15082](http://arxiv.org/abs/2610.15082)|null|
+|**2026-10-10**|**Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies**|Adarsh Arigala et.al.|[2610.14826](http://arxiv.org/abs/2610.14826)|null|
+|**2026-10-10**|**Training a Compact, Strong, and Realistic Text-to-Speech Model**|Runyuan Cai et.al.|[2610.14776](http://arxiv.org/abs/2610.14776)|null|
+|**2026-10-10**|**VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS**|Wenbing Yang et.al.|[2610.14694](http://arxiv.org/abs/2610.14694)|null|
+|**2026-10-10**|**AegisVox: Factorized Privacy and Clinical Preservation for Long-Form Speech**|Praphul Singh et.al.|[2610.14643](http://arxiv.org/abs/2610.14643)|null|
+|**2026-10-10**|**EVISTA: Unified Multimodal Video Search with Evidence-Aware Temporal Path Optimization**|Minh-Huy Tran et.al.|[2610.14510](http://arxiv.org/abs/2610.14510)|null|
 |**2026-10-09**|**Enhancing Speech Recognition through Text-to-Speech and Voice Conversion Augmentation**|Yunus Emre Ozkose et.al.|[2610.13662](http://arxiv.org/abs/2610.13662)|null|
 |**2026-10-09**|**Compactly supported instability of Riemannian Schwarzschild--Tangherlini metrics**|Erwann Delay et.al.|[2610.13507](http://arxiv.org/abs/2610.13507)|null|
 |**2026-10-09**|**Vision Transformers Learn Word Meaning from Images Alone**|Anders Gjølbye et.al.|[2610.13252](http://arxiv.org/abs/2610.13252)|null|
