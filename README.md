@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**The gravitational constant and the cosmic microwave background**|Brahim Lamine et.al.|[2610.22128](http://arxiv.org/abs/2610.22128)|null|
+|**2026-10-15**|**Thermodynamics of Viscously Heated Circumplanetary Disks**|Zhuo Chen et.al.|[2610.21284](http://arxiv.org/abs/2610.21284)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
 |**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
@@ -21,6 +23,7 @@
 |**2026-10-14**|**Speaking Longer Than Learned: Training-Free Long-Form Generation for Full-Stream Text-to-Speech**|Jeseung Lim et.al.|[2610.19553](http://arxiv.org/abs/2610.19553)|null|
 |**2026-10-14**|**Revise-TTS: A Non-Masking Refinement Framework for Masked Diffusion Models in Text-to-Speech**|Wanli Sun et.al.|[2610.19499](http://arxiv.org/abs/2610.19499)|null|
 |**2026-10-14**|**ELARSpeech: A 30K-Hour Dataset Across 675 Underrepresented Languages for Long-Tail Multilingual Speech Technologies**|Sangmin Lee et.al.|[2610.19388](http://arxiv.org/abs/2610.19388)|null|
+|**2026-10-14**|**PEDBench: Can Speech Models Detect Phonetic Errors?**|Zhonghao Shi et.al.|[2610.20830](http://arxiv.org/abs/2610.20830)|null|
 |**2026-10-13**|**Estimating Surprisal from the Speech Signal**|Zachary Hopton et.al.|[2610.18439](http://arxiv.org/abs/2610.18439)|null|
 |**2026-10-13**|**PACT: A Pragmatic Prompting Framework for Expressive and Voice-Preserving Speech-to-Speech Translation**|Yuchen Song et.al.|[2610.18247](http://arxiv.org/abs/2610.18247)|null|
 |**2026-10-13**|**Beyond Fixed Targets: On-Policy One-Shot Speaker Personalization for Autoregressive Text-To-Speech Models**|Sangkwon Park et.al.|[2610.17838](http://arxiv.org/abs/2610.17838)|null|
