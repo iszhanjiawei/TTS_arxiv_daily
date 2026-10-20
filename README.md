@@ -14,8 +14,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**Characterization of the R14374-10 photomultiplier tube for the Pacific Ocean Neutrino Experiment**|O. Aghaei et.al.|[2610.26299](http://arxiv.org/abs/2610.26299)|null|
+|**2026-10-19**|**Analog regular black holes and black hole mimickers in a Bose-Einstein condensate: from the core to the light rings**|Valentin Pomakov et.al.|[2610.26257](http://arxiv.org/abs/2610.26257)|null|
+|**2026-10-19**|**SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS**|Walaa Othman et.al.|[2610.26252](http://arxiv.org/abs/2610.26252)|null|
+|**2026-10-19**|**Local scale symmetry and black holes**|Malik Almatwi et.al.|[2610.26208](http://arxiv.org/abs/2610.26208)|null|
+|**2026-10-19**|**How stagnation lines move, persist and break up in fluid flows**|Prabakaran Rajamanickam et.al.|[2610.26164](http://arxiv.org/abs/2610.26164)|null|
+|**2026-10-19**|**Speech LLMs That Breathe: Modeling Non-Verbal Vocalizations in Dialogue**|Heyang Liu et.al.|[2610.25942](http://arxiv.org/abs/2610.25942)|null|
+|**2026-10-18**|**ATEST: Adaptive Resource-Aware Test-Time Scaling for LLM Inference**|Mobina Kashaniyan et.al.|[2610.25519](http://arxiv.org/abs/2610.25519)|null|
+|**2026-10-18**|**MixiSpeech: Progressive State Distillation for One-Step Vietnamese TTS**|Tran Quoc Bao Le et.al.|[2610.25394](http://arxiv.org/abs/2610.25394)|null|
+|**2026-10-18**|**Does Expert Supervision Improve Text-to-Speech? An Empirical Study of Preference Optimization**|Minh Duc Vu et.al.|[2610.25292](http://arxiv.org/abs/2610.25292)|null|
+|**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
+|**2026-10-18**|**An Exact Mass Threshold for Global Existence and Blow-up in Semilinear Anti-de Sitter Equations**|Wanderley Nunes do Nascimento et.al.|[2610.25239](http://arxiv.org/abs/2610.25239)|null|
+|**2026-10-17**|**How Well Can LLMs Verbalize Mathematical Formulas? A Multi-Domain Evaluation**|Peter Volbach et.al.|[2610.24917](http://arxiv.org/abs/2610.24917)|null|
+|**2026-10-17**|**Tensor Network Datamodels for Training Data Attribution**|Farzaneh Heidari et.al.|[2610.24721](http://arxiv.org/abs/2610.24721)|null|
+|**2026-10-17**|**SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection**|Chirantan Banerjee et.al.|[2610.24468](http://arxiv.org/abs/2610.24468)|null|
+|**2026-10-16**|**Pronouncing Hard Words: Phoneme Adaptation of a Pretrained Conversational Text to Speech Model**|Yashish M. Siriwardena et.al.|[2610.24164](http://arxiv.org/abs/2610.24164)|null|
+|**2026-10-16**|**Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS**|Séverin Baroudi et.al.|[2610.23678](http://arxiv.org/abs/2610.23678)|null|
+|**2026-10-16**|**Interpreting SSL Representations for Spoof Detection: a WavLM Study**|Mohamed Mallat et.al.|[2610.23526](http://arxiv.org/abs/2610.23526)|null|
+|**2026-10-16**|**DriftTTS: One-stage Single Step Text-to-Speech via Generative Drifting**|Jaehyun Ahn et.al.|[2610.22960](http://arxiv.org/abs/2610.22960)|null|
+|**2026-10-16**|**Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors**|Jingyi Chen et.al.|[2610.22832](http://arxiv.org/abs/2610.22832)|null|
 |**2026-10-15**|**The gravitational constant and the cosmic microwave background**|Brahim Lamine et.al.|[2610.22128](http://arxiv.org/abs/2610.22128)|null|
 |**2026-10-15**|**Thermodynamics of Viscously Heated Circumplanetary Disks**|Zhuo Chen et.al.|[2610.21284](http://arxiv.org/abs/2610.21284)|null|
+|**2026-10-15**|**On the two critical exponents for a dispersive equation with weak dissipation**|Marcello D'Abbicco et.al.|[2610.22616](http://arxiv.org/abs/2610.22616)|null|
 |**2026-10-14**|**Fish Audio Drama 3 Technical Report**|Dawei Han et.al.|[2610.18010](http://arxiv.org/abs/2610.18010)|null|
 |**2026-10-14**|**Noise-Aware Lombard Speech Synthesis via Flow-GRPO for Intelligibility Optimization**|Zhaoyang Wang et.al.|[2610.20181](http://arxiv.org/abs/2610.20181)|null|
 |**2026-10-14**|**SEA-HELM Audio: Evaluating Multilingual ASR-LLM Pipeline Performance Across SEA-HELM Subsets**|Yixian Tan et.al.|[2610.19869](http://arxiv.org/abs/2610.19869)|null|
