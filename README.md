@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-21**|**NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**|Julian Silva et.al.|[2610.29815](http://arxiv.org/abs/2610.29815)|null|
+|**2026-10-21**|**Detectable Dark Matter Freeze-in via Low Reheating**|Sadayappan Alagappan et.al.|[2610.29543](http://arxiv.org/abs/2610.29543)|null|
+|**2026-10-21**|**RubatoCodec: Budgeted Adaptive Speech Tokenization with Streaming Decoding**|Chihiro Arata et.al.|[2610.29434](http://arxiv.org/abs/2610.29434)|null|
+|**2026-10-21**|**Closed-Loop Dual-Reference Guidance for Accent Control in Cross-Lingual Voice Cloning**|Yuanzhong Zheng et.al.|[2610.29351](http://arxiv.org/abs/2610.29351)|null|
+|**2026-10-21**|**Decodability Is Not Controllability: Local and Anisotropic Speaker Control in Continuous-Latent TTS**|Yuanzhong Zheng et.al.|[2610.29345](http://arxiv.org/abs/2610.29345)|null|
+|**2026-10-21**|**Where Does Timbre Hide? Localizing Speaker Information in Speech Signals**|Yiquan Zhou et.al.|[2610.29150](http://arxiv.org/abs/2610.29150)|null|
+|**2026-10-21**|**Character-Level Prosody Control for Mandarin Speech Synthesis:An Architecture-Preserving Approach**|Diankun An et.al.|[2610.29123](http://arxiv.org/abs/2610.29123)|null|
 |**2026-10-20**|**LoCA: Local Credit Assignment for Reinforcement Learning of Autoregressive Flow-Matching TTS**|Jie Liu et.al.|[2610.28035](http://arxiv.org/abs/2610.28035)|null|
 |**2026-10-20**|**A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech**|Debajyoti Mazumder et.al.|[2610.27631](http://arxiv.org/abs/2610.27631)|null|
 |**2026-10-19**|**Characterization of the R14374-10 photomultiplier tube for the Pacific Ocean Neutrino Experiment**|O. Aghaei et.al.|[2610.26299](http://arxiv.org/abs/2610.26299)|null|
