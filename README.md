@@ -14,11 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-27**|**$L^\infty$ blow-up in the fourth-order Jordan-Moore-Gibson-Thompson equation**|Tahir Boudjeriou et.al.|[2610.33213](http://arxiv.org/abs/2610.33213)|null|
+|**2026-10-27**|**MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model**|Brian Ko et.al.|[2610.37175](http://arxiv.org/abs/2610.37175)|null|
+|**2026-10-27**|**Detection and characterisation of Starlink VHF TT&C emissions at 137.055 MHz with the 21 CentiMeter Array**|Yanbin Yang et.al.|[2610.37158](http://arxiv.org/abs/2610.37158)|null|
+|**2026-10-27**|**Developing a Speech Language Model for Basque**|Andoni Sudupe et.al.|[2610.36911](http://arxiv.org/abs/2610.36911)|null|
+|**2026-10-27**|**The Wess-Zumino Action of the Conformal Anomaly**|Emil Mottola et.al.|[2610.36735](http://arxiv.org/abs/2610.36735)|null|
 |**2026-10-26**|**One Megakernel is Not Enough: Predicting Where to Cut for Streaming Inference**|Aditya Chatterjee et.al.|[2610.35336](http://arxiv.org/abs/2610.35336)|null|
 |**2026-10-26**|**When the Persona Contradicts the Line: Diagnosing Plan-to-Synthesis Failures in Chain-of-Thought TTS**|Joonyong Park et.al.|[2610.35008](http://arxiv.org/abs/2610.35008)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
 |**2026-10-26**|**From Speech Tokens to Stolen Voices: Attacker-Chosen-Text Speaker Impersonation via Representation Inversion**|Ye Lu et.al.|[2610.34688](http://arxiv.org/abs/2610.34688)|null|
 |**2026-10-26**|**Heard Enough to Act: Early Tool Calling in Spoken Dialogue Systems**|Yizhou Peng et.al.|[2610.34653](http://arxiv.org/abs/2610.34653)|null|
+|**2026-10-26**|**ConformalMOS: Uncertainty-Aware MOS Prediction with Conformal Intervals and Ordinal Modeling**|Kehinde Elelu et.al.|[2610.36126](http://arxiv.org/abs/2610.36126)|null|
 |**2026-10-25**|**One Mean Log-Mel Vector per Phoneme: Simple and Fast Text Injection for Speech Recognition**|Albert Zeyer et.al.|[2610.34623](http://arxiv.org/abs/2610.34623)|null|
 |**2026-10-25**|**LeanTTS: Efficient Full-Stack Bilingual TTS for Zero-Shot Cloning and Voice Customization**|Yuheng Lu et.al.|[2610.34408](http://arxiv.org/abs/2610.34408)|null|
 |**2026-10-25**|**A MAGNHIFFIC cold-gas filament fuelling the nuclear activity of NGC 3100**|F. M. Maccagni et.al.|[2610.34071](http://arxiv.org/abs/2610.34071)|null|
@@ -27,7 +33,6 @@
 |**2026-10-23**|**Uni-Stream: A Unified Streaming Speech Language Model for Speech Synthesis and Recognition**|Xuan Shi et.al.|[2610.32187](http://arxiv.org/abs/2610.32187)|null|
 |**2026-10-23**|**X-Dubbing: Speech-to-Speech Translation under Temporal and Visual Constraints**|Jeongsoo Choi et.al.|[2610.32042](http://arxiv.org/abs/2610.32042)|null|
 |**2026-10-23**|**Exploring the UV Fe III Emission along the Quasar Main Sequence**|Diego Martínez Collipal et.al.|[2610.33339](http://arxiv.org/abs/2610.33339)|null|
-|**2026-10-23**|**$L^\infty$ blow-up in the fourth-order Jordan-Moore-Gibson-Thompson equation**|Tahir Boudjeriou et.al.|[2610.33213](http://arxiv.org/abs/2610.33213)|null|
 |**2026-10-22**|**Closed-Loop Dual-Reference Guidance for Accent Control in Cross-Lingual Voice Cloning**|Yuanzhong Zheng et.al.|[2610.29351](http://arxiv.org/abs/2610.29351)|null|
 |**2026-10-22**|**Measuring the Verifier's Floor: How Much Apparent Rare-Word Text-to-Speech Error Is ASR Error?**|Kirill Borodin et.al.|[2610.31470](http://arxiv.org/abs/2610.31470)|null|
 |**2026-10-22**|**Spark-Audio 1.0 Technical Report**|Chenyue Zhang et.al.|[2610.31292](http://arxiv.org/abs/2610.31292)|null|
