@@ -14,11 +14,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models**|Anuj Diwan et.al.|[2610.40505](http://arxiv.org/abs/2610.40505)|null|
+|**2026-10-29**|**Singular value decompositions over $\ast$ -algebras with applications to tensor decompositions**|Paulina Hoyos et.al.|[2610.40450](http://arxiv.org/abs/2610.40450)|null|
+|**2026-10-29**|**OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra**|Ankit Mandal et.al.|[2610.40415](http://arxiv.org/abs/2610.40415)|null|
+|**2026-10-29**|**What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes**|Arnon Turetzky et.al.|[2610.40372](http://arxiv.org/abs/2610.40372)|null|
+|**2026-10-29**|**Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal**|Stanisław Kacprzak et.al.|[2610.39754](http://arxiv.org/abs/2610.39754)|null|
+|**2026-10-29**|**EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization**|Haonan Chen et.al.|[2610.39427](http://arxiv.org/abs/2610.39427)|null|
+|**2026-10-29**|**Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis**|Cheng Zhang et.al.|[2610.39168](http://arxiv.org/abs/2610.39168)|null|
+|**2026-10-28**|**Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)**|William Lane et.al.|[2610.38384](http://arxiv.org/abs/2610.38384)|null|
+|**2026-10-28**|**Asymptotic Formula of the Lifespan of Classical Solutions to 1D Quasilinear Wave Equations**|Yuusuke Sugiyama et.al.|[2610.38353](http://arxiv.org/abs/2610.38353)|null|
+|**2026-10-28**|**DRC-TTS: A Dual-Resolution Codec-Based Architecture for Lexicon-Free Malay Speech Synthesis**|Tianhui Su et.al.|[2610.38316](http://arxiv.org/abs/2610.38316)|null|
 |**2026-10-27**|**$L^\infty$ blow-up in the fourth-order Jordan-Moore-Gibson-Thompson equation**|Tahir Boudjeriou et.al.|[2610.33213](http://arxiv.org/abs/2610.33213)|null|
 |**2026-10-27**|**MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model**|Brian Ko et.al.|[2610.37175](http://arxiv.org/abs/2610.37175)|null|
 |**2026-10-27**|**Detection and characterisation of Starlink VHF TT&C emissions at 137.055 MHz with the 21 CentiMeter Array**|Yanbin Yang et.al.|[2610.37158](http://arxiv.org/abs/2610.37158)|null|
 |**2026-10-27**|**Developing a Speech Language Model for Basque**|Andoni Sudupe et.al.|[2610.36911](http://arxiv.org/abs/2610.36911)|null|
 |**2026-10-27**|**The Wess-Zumino Action of the Conformal Anomaly**|Emil Mottola et.al.|[2610.36735](http://arxiv.org/abs/2610.36735)|null|
+|**2026-10-27**|**Beyond Utterance-Level Speaker Similarity: Perception-Aligned Segmental Evaluation of Accent in Speech Generation**|Jinzuomu Zhong et.al.|[2610.37912](http://arxiv.org/abs/2610.37912)|null|
 |**2026-10-26**|**One Megakernel is Not Enough: Predicting Where to Cut for Streaming Inference**|Aditya Chatterjee et.al.|[2610.35336](http://arxiv.org/abs/2610.35336)|null|
 |**2026-10-26**|**When the Persona Contradicts the Line: Diagnosing Plan-to-Synthesis Failures in Chain-of-Thought TTS**|Joonyong Park et.al.|[2610.35008](http://arxiv.org/abs/2610.35008)|null|
 |**2026-10-26**|**ImageTTS: Repurposing Pretrained Image Diffusion Transformers for Speech Synthesis**|Hanchen Pei et.al.|[2610.34807](http://arxiv.org/abs/2610.34807)|null|
