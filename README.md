@@ -1,4 +1,4 @@
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-30**|**Finite Composites of the Fibonacci Category with Pointed Fusion Categories**|Huixuan He et.al.|[2610.41891](http://arxiv.org/abs/2610.41891)|null|
 |**2026-10-29**|**Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models**|Anuj Diwan et.al.|[2610.40505](http://arxiv.org/abs/2610.40505)|null|
 |**2026-10-29**|**Singular value decompositions over $\ast$ -algebras with applications to tensor decompositions**|Paulina Hoyos et.al.|[2610.40450](http://arxiv.org/abs/2610.40450)|null|
 |**2026-10-29**|**OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra**|Ankit Mandal et.al.|[2610.40415](http://arxiv.org/abs/2610.40415)|null|
@@ -21,6 +22,8 @@
 |**2026-10-29**|**Toward Complete Speaker Anonymization: a Streaming Cascaded System for Voice Privacy and PII Removal**|Stanisław Kacprzak et.al.|[2610.39754](http://arxiv.org/abs/2610.39754)|null|
 |**2026-10-29**|**EmpDPO: Enabling Emphasis Control in TTS via Direct Preference Optimization**|Haonan Chen et.al.|[2610.39427](http://arxiv.org/abs/2610.39427)|null|
 |**2026-10-29**|**Reading-Level Verification of Kanji Words in Japanese Financial Speech Synthesis**|Cheng Zhang et.al.|[2610.39168](http://arxiv.org/abs/2610.39168)|null|
+|**2026-10-29**|**Nedimo: An Evidence-Grounded Multilingual Pipeline for AI-Generated Sleep Stories**|Georgios Makridis et.al.|[2610.40970](http://arxiv.org/abs/2610.40970)|null|
+|**2026-10-29**|**Agentic World Modeling for Agent Test-time Scaling without Environment Replica**|Wendi Li et.al.|[2610.40927](http://arxiv.org/abs/2610.40927)|null|
 |**2026-10-28**|**Pronunciation-Supervised Text-to-Speech for Irish (Gaeilge)**|William Lane et.al.|[2610.38384](http://arxiv.org/abs/2610.38384)|null|
 |**2026-10-28**|**Asymptotic Formula of the Lifespan of Classical Solutions to 1D Quasilinear Wave Equations**|Yuusuke Sugiyama et.al.|[2610.38353](http://arxiv.org/abs/2610.38353)|null|
 |**2026-10-28**|**DRC-TTS: A Dual-Resolution Codec-Based Architecture for Lexicon-Free Malay Speech Synthesis**|Tianhui Su et.al.|[2610.38316](http://arxiv.org/abs/2610.38316)|null|
@@ -2715,5 +2718,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
