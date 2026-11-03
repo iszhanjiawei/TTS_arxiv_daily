@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-02**|**Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR**|Mohammad Mohsen Goodarzi et.al.|[2611.03050](http://arxiv.org/abs/2611.03050)|null|
+|**2026-11-02**|**Operator Fejér--Riesz Theorems with Gaps and Degree Bounds**|Abhay Jindal et.al.|[2611.02967](http://arxiv.org/abs/2611.02967)|null|
+|**2026-11-02**|**Weighted Sobolev regularity and failure of profile convergence associated with the scattering operator for the three-dimensional cubic Klein-Gordon equation**|Hironobu Sasaki et.al.|[2611.02707](http://arxiv.org/abs/2611.02707)|null|
+|**2026-11-02**|**Magnetically and electrically tunable nonlinear Hall effect in Tt-symmetric antiferromagnets**|Yueyue Ning et.al.|[2611.02567](http://arxiv.org/abs/2611.02567)|null|
+|**2026-11-02**|**QFacePlacement: From Arbitrary Tensorization to Semantic Spatial Correspondence in Modern Face Verification**|Krishna Bhatia et.al.|[2611.02505](http://arxiv.org/abs/2611.02505)|null|
+|**2026-10-31**|**Radial conditions for global compact finite propagation for divergence-form elliptic operators**|M. A. Perelmuter et.al.|[2611.00876](http://arxiv.org/abs/2611.00876)|null|
 |**2026-10-30**|**Finite Composites of the Fibonacci Category with Pointed Fusion Categories**|Huixuan He et.al.|[2610.41891](http://arxiv.org/abs/2610.41891)|null|
 |**2026-10-29**|**Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models**|Anuj Diwan et.al.|[2610.40505](http://arxiv.org/abs/2610.40505)|null|
 |**2026-10-29**|**Singular value decompositions over $\ast$ -algebras with applications to tensor decompositions**|Paulina Hoyos et.al.|[2610.40450](http://arxiv.org/abs/2610.40450)|null|
