@@ -1,4 +1,4 @@
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
+|**2026-11-04**|**One-Vertex Lifts of Looped Circle Graphs: Obstructions and Interlace Polynomials**|Qingying Deng et.al.|[2611.05961](http://arxiv.org/abs/2611.05961)|null|
+|**2026-11-04**|**Homogeneous Polynomial Carleson Operators Along the Paraboloid**|Alina Zhu et.al.|[2611.05931](http://arxiv.org/abs/2611.05931)|null|
 |**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
 |**2026-11-03**|**Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks**|Luke Oluwaseye Joel et.al.|[2611.05130](http://arxiv.org/abs/2611.05130)|null|
 |**2026-11-03**|**PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs**|Yasong Dai et.al.|[2611.04948](http://arxiv.org/abs/2611.04948)|null|
@@ -25,6 +28,7 @@
 |**2026-11-03**|**Do Multi-Turn Conversational Capabilities Carry Over from Text to Speech? A Parallel Multilingual Benchmark**|Jiaming Zhou et.al.|[2611.04390](http://arxiv.org/abs/2611.04390)|null|
 |**2026-11-03**|**A hybrid TT/QTT discontinuous Galerkin method with fixed-matrix upwinding for three-dimensional transient multigroup neutron transport**|Dibyendu Adak et.al.|[2611.04360](http://arxiv.org/abs/2611.04360)|null|
 |**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|null|
+|**2026-11-03**|**VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning**|Xudong Tang et.al.|[2611.05638](http://arxiv.org/abs/2611.05638)|null|
 |**2026-11-02**|**Zero-Shot Voice Cloning for Synthetic Data Augmentation in Children's ASR**|Mohammad Mohsen Goodarzi et.al.|[2611.03050](http://arxiv.org/abs/2611.03050)|null|
 |**2026-11-02**|**Operator Fejér--Riesz Theorems with Gaps and Degree Bounds**|Abhay Jindal et.al.|[2611.02967](http://arxiv.org/abs/2611.02967)|null|
 |**2026-11-02**|**Weighted Sobolev regularity and failure of profile convergence associated with the scattering operator for the three-dimensional cubic Klein-Gordon equation**|Hironobu Sasaki et.al.|[2611.02707](http://arxiv.org/abs/2611.02707)|null|
@@ -2737,5 +2741,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
 
