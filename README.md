@@ -1,4 +1,4 @@
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,9 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-05**|**Tensor Networks for Block Adaptive Thermal Radiation Transport**|Alex A. Gorodetsky et.al.|[2611.08410](http://arxiv.org/abs/2611.08410)|null|
+|**2026-11-05**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|null|
+|**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
+|**2026-11-05**|**Critical Curve for Three-Dimensional Radial Wave Systems with Distinct Speeds**|Wei Dai et.al.|[2611.07710](http://arxiv.org/abs/2611.07710)|null|
 |**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
 |**2026-11-04**|**One-Vertex Lifts of Looped Circle Graphs: Obstructions and Interlace Polynomials**|Qingying Deng et.al.|[2611.05961](http://arxiv.org/abs/2611.05961)|null|
 |**2026-11-04**|**Homogeneous Polynomial Carleson Operators Along the Paraboloid**|Alina Zhu et.al.|[2611.05931](http://arxiv.org/abs/2611.05931)|null|
+|**2026-11-04**|**Bayesian Tensor Train Kernel Machines with Automatic Model Complexity Inference**|Afra Kilic et.al.|[2611.07129](http://arxiv.org/abs/2611.07129)|null|
 |**2026-11-03**|**Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems**|Pengfei Zhou et.al.|[2611.05275](http://arxiv.org/abs/2611.05275)|null|
 |**2026-11-03**|**Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks**|Luke Oluwaseye Joel et.al.|[2611.05130](http://arxiv.org/abs/2611.05130)|null|
 |**2026-11-03**|**PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs**|Yasong Dai et.al.|[2611.04948](http://arxiv.org/abs/2611.04948)|null|
@@ -2741,5 +2746,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261106>back to top</a>)</p>
 
