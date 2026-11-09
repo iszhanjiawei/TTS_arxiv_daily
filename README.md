@@ -14,8 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|null|
+|**2026-11-06**|**Encoding Memory in World Models with Test-Time Model-Based Reinforcement Learning**|Maxime Burchi et.al.|[2611.09625](http://arxiv.org/abs/2611.09625)|null|
+|**2026-11-06**|**Sparse Array-Inspired Frame Structure Design for 5G NR ISAC**|Haisu Wu et.al.|[2611.09544](http://arxiv.org/abs/2611.09544)|null|
+|**2026-11-06**|**Natural potentials for TT tensors, divergence-free symmetric tensors and linearised relativistic initial data**|Erwann Delay et.al.|[2611.09303](http://arxiv.org/abs/2611.09303)|null|
+|**2026-11-06**|**Bridging Spiking and Continuous Dynamics in Spiking Neural Networks: A Muscle-Inspired Model**|Maryam Soltani et.al.|[2611.09295](http://arxiv.org/abs/2611.09295)|null|
+|**2026-11-06**|**Real-Time Short-Response Selection for Spoken Dialogue Systems**|Hien Ohnaka et.al.|[2611.09057](http://arxiv.org/abs/2611.09057)|null|
 |**2026-11-05**|**Tensor Networks for Block Adaptive Thermal Radiation Transport**|Alex A. Gorodetsky et.al.|[2611.08410](http://arxiv.org/abs/2611.08410)|null|
-|**2026-11-05**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|null|
 |**2026-11-05**|**Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech**|Daria Guseva et.al.|[2611.08006](http://arxiv.org/abs/2611.08006)|null|
 |**2026-11-05**|**Critical Curve for Three-Dimensional Radial Wave Systems with Distinct Speeds**|Wei Dai et.al.|[2611.07710](http://arxiv.org/abs/2611.07710)|null|
 |**2026-11-04**|**Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation**|Rui Hu et.al.|[2611.06403](http://arxiv.org/abs/2611.06403)|null|
