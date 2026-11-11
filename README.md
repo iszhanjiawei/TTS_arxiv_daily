@@ -14,11 +14,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**ESDCodec: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding**|Nan Xu et.al.|[2611.14043](http://arxiv.org/abs/2611.14043)|null|
+|**2026-11-10**|**DialInstruct-TTS: Interactive Expressive Speech Generation via Multi-Turn Dialogue with Fine-Grained Temporal Control**|Wangzixi Zhou et.al.|[2611.13875](http://arxiv.org/abs/2611.13875)|null|
+|**2026-11-10**|**Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning**|Sezgin Saygili et.al.|[2611.13845](http://arxiv.org/abs/2611.13845)|null|
+|**2026-11-10**|**Antalia-2 Mini: A 7.6-million-parameter Turkish text-to-speech model trained entirely on synthetic speech**|Sezgin Saygili et.al.|[2611.13811](http://arxiv.org/abs/2611.13811)|null|
+|**2026-11-10**|**Walrus Technical Report**|Alkis Koudounas et.al.|[2611.13689](http://arxiv.org/abs/2611.13689)|null|
+|**2026-11-10**|**An automated approach to structure theorems for minimally repetitive rich words**|Lubomíra Dvořáková et.al.|[2611.13676](http://arxiv.org/abs/2611.13676)|null|
+|**2026-11-10**|**Emilia2: A Large-Scale Dataset for Controllable Long-Form Speech Generation**|Qinke Ni et.al.|[2611.13614](http://arxiv.org/abs/2611.13614)|null|
 |**2026-11-09**|**WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning**|Sang-Hoon Lee et.al.|[2611.12527](http://arxiv.org/abs/2611.12527)|null|
 |**2026-11-09**|**Text Grouping Changes Completion-Time Comparisons in Long-Form Simultaneous Speech Translation**|Hieu Minh Truong et.al.|[2611.12501](http://arxiv.org/abs/2611.12501)|null|
 |**2026-11-09**|**REAL: Reward Modeling through Evidence-Linked Analysis of Lifelikeness in Generated Speech**|Yaodong Song et.al.|[2611.12406](http://arxiv.org/abs/2611.12406)|null|
 |**2026-11-09**|**Translation continuity for the local bilinear circular maximal operator**|Xuyi Wei et.al.|[2611.12273](http://arxiv.org/abs/2611.12273)|null|
 |**2026-11-09**|**MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection**|Donghyun Kim et.al.|[2611.11989](http://arxiv.org/abs/2611.11989)|null|
+|**2026-11-09**|**Depletion of Dark Matter Spikes by Massive Black Hole Mergers**|Charlie Sharpe et.al.|[2611.13170](http://arxiv.org/abs/2611.13170)|null|
 |**2026-11-08**|**Gamma classes, central connection matrices, and tt* geometry**|Martin A. Guest et.al.|[2611.11338](http://arxiv.org/abs/2611.11338)|null|
 |**2026-11-08**|**Guidance at Pure Noise Erodes Speaker Similarity in Few-Step Token-Conditioned Flow-Matching TTS**|Jaeho Lee et.al.|[2611.11179](http://arxiv.org/abs/2611.11179)|null|
 |**2026-11-06**|**VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**|Zhikang Niu et.al.|[2611.08251](http://arxiv.org/abs/2611.08251)|null|
