@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-12**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525](http://arxiv.org/abs/2611.16525)|null|
+|**2026-11-12**|**Low Language Transfer Speech-to-Text**|Husein Zolkepli et.al.|[2611.16260](http://arxiv.org/abs/2611.16260)|null|
+|**2026-11-11**|**Human-Likeness and Conversational Preference Diverge for Synthesized Agent Speech in Customer-Service Calls**|Jeffrey M. Girard et.al.|[2611.16051](http://arxiv.org/abs/2611.16051)|null|
+|**2026-11-11**|**RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation**|Ming Ma et.al.|[2611.15464](http://arxiv.org/abs/2611.15464)|null|
+|**2026-11-11**|**Exact Decisions and Certified Values in $L_\infty$ -Norm Computation from State-Space Representations**|Alban Quadrat et.al.|[2611.15258](http://arxiv.org/abs/2611.15258)|null|
+|**2026-11-11**|**Advancing Weighted Partial MaxSAT Solving via Differentiable GPU Guidance**|Mingju Liu et.al.|[2611.15091](http://arxiv.org/abs/2611.15091)|null|
+|**2026-11-11**|**Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling**|Jie Ren et.al.|[2611.14965](http://arxiv.org/abs/2611.14965)|null|
 |**2026-11-10**|**ESDCodec: Ultra-Low Bitrate Speech Codec with Enhanced Semantic Disentanglement and Subband Decoding**|Nan Xu et.al.|[2611.14043](http://arxiv.org/abs/2611.14043)|null|
 |**2026-11-10**|**DialInstruct-TTS: Interactive Expressive Speech Generation via Multi-Turn Dialogue with Fine-Grained Temporal Control**|Wangzixi Zhou et.al.|[2611.13875](http://arxiv.org/abs/2611.13875)|null|
 |**2026-11-10**|**Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning**|Sezgin Saygili et.al.|[2611.13845](http://arxiv.org/abs/2611.13845)|null|
