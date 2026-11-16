@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-12**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525](http://arxiv.org/abs/2611.16525)|null|
+|**2026-11-13**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525](http://arxiv.org/abs/2611.16525)|null|
 |**2026-11-12**|**Low Language Transfer Speech-to-Text**|Husein Zolkepli et.al.|[2611.16260](http://arxiv.org/abs/2611.16260)|null|
 |**2026-11-11**|**Human-Likeness and Conversational Preference Diverge for Synthesized Agent Speech in Customer-Service Calls**|Jeffrey M. Girard et.al.|[2611.16051](http://arxiv.org/abs/2611.16051)|null|
 |**2026-11-11**|**RSE-TTS: Compact Text-to-Speech through Shared Text-Aware Reference Encoding and Generation**|Ming Ma et.al.|[2611.15464](http://arxiv.org/abs/2611.15464)|null|
