@@ -14,6 +14,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-16**|**A necessary regularity condition for finite-time stopping of the string with dry friction**|Alain Haraux et.al.|[2611.21213](http://arxiv.org/abs/2611.21213)|null|
+|**2026-11-16**|**Lived Experiences of Power and Agency: Achieving Voice Sovereignty in Assistive Speech Technology for Nonbinary Users**|Maxwell Hope et.al.|[2611.20858](http://arxiv.org/abs/2611.20858)|null|
+|**2026-11-16**|**No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices**|Juliana Francis et.al.|[2611.20822](http://arxiv.org/abs/2611.20822)|null|
+|**2026-11-16**|**GPRM: Global Perspective Process Reward Model**|Zifan Zhang et.al.|[2611.20755](http://arxiv.org/abs/2611.20755)|null|
+|**2026-11-16**|**Boson Stars with Ayón--Beato--García nonlinear electrodynamics**|Long-Xing Huang et.al.|[2611.20634](http://arxiv.org/abs/2611.20634)|null|
+|**2026-11-16**|**Validating Acoustic-to-Articulatory Inversion with Real-Time MRI: From Vocal-Tract Fidelity to Phonetic Consequences**|Tharinda Piyadasa et.al.|[2611.20432](http://arxiv.org/abs/2611.20432)|null|
+|**2026-11-15**|**VoxMel TTS Technical Report**|Wenhao Guan et.al.|[2611.20254](http://arxiv.org/abs/2611.20254)|null|
+|**2026-11-15**|**A Graph Theory Assisted Method for Determining Limiting Probability Distributions of Higher Order Markov Chains**|Jianhong Xu et.al.|[2611.20043](http://arxiv.org/abs/2611.20043)|null|
+|**2026-11-15**|**A Speech-LLM Framework for Enrollment-Free Wake-Word-Guided Target-Speaker Recognition in Complex Noisy Scenarios for Seamless Human-Machine Interaction**|Yuxiang Mei et.al.|[2611.19844](http://arxiv.org/abs/2611.19844)|null|
+|**2026-11-15**|**Grounding Language Models in Speech Does Not Fix "AI Flavor": Calibrated LLM Judges, Goodhart Traps, and a Preference-Tuning Fix**|Dongwu Qian et.al.|[2611.19840](http://arxiv.org/abs/2611.19840)|null|
+|**2026-11-15**|**ProTTS: End-to-End Prominence-aware Natural and Controllable Text-to-Speech via Automatic Word Stress Discovery**|Sai Harshitha Aluru et.al.|[2611.19832](http://arxiv.org/abs/2611.19832)|null|
+|**2026-11-15**|**Where Is Rank-1 DiM Refusal Intervenable in Multimodal LM Derivatives?**|Chansu Han et.al.|[2611.19826](http://arxiv.org/abs/2611.19826)|null|
+|**2026-11-15**|**Rethinking Post-Training for Expressive Zero-Shot Text-to-Speech**|Jingbin Hu et.al.|[2611.19787](http://arxiv.org/abs/2611.19787)|null|
+|**2026-11-14**|**On the Cauchy problem for $σ$ -evolution equations with time-dependent coefficients via upper decay indicators**|Duc An Phan et.al.|[2611.19532](http://arxiv.org/abs/2611.19532)|null|
+|**2026-11-14**|**Weak--type $(1,1;\frac{1}{2})$ --estimate for the bilinear Bochner--Riesz mean at the critical index**|Surjeet Singh Choudhary et.al.|[2611.19337](http://arxiv.org/abs/2611.19337)|null|
+|**2026-11-14**|**Auditory-Feedback-Conditioned Flow TTS for Implicit Lombard Adaptation**|Yunya Wang et.al.|[2611.19260](http://arxiv.org/abs/2611.19260)|null|
+|**2026-11-14**|**Joint Movable Antenna Positioning and Precoding for ISAC via a Two-Timescale Model-Based GNN**|Alireza Fadakar et.al.|[2611.19178](http://arxiv.org/abs/2611.19178)|null|
+|**2026-11-14**|**A Systematic Study of Cross-Token Transfer for Data-Efficient Non-Verbal Text-to-Speech**|Jing Pan et.al.|[2611.19145](http://arxiv.org/abs/2611.19145)|null|
+|**2026-11-14**|**Latency, Speech Recognition and Turn-Taking in Voice Agents for Spanish Phone Negotiation: An Externally Measured Comparison of Pipecat, LiveKit and GPT-Live**|Jovan Popoca Moran et.al.|[2611.19118](http://arxiv.org/abs/2611.19118)|null|
+|**2026-11-14**|**Beyond Controllability: Speaker Diversity in Instruction-Guided Text-to-Speech**|Yi-Cheng Lin et.al.|[2611.19030](http://arxiv.org/abs/2611.19030)|null|
 |**2026-11-13**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525](http://arxiv.org/abs/2611.16525)|null|
 |**2026-11-12**|**Low Language Transfer Speech-to-Text**|Husein Zolkepli et.al.|[2611.16260](http://arxiv.org/abs/2611.16260)|null|
 |**2026-11-11**|**Human-Likeness and Conversational Preference Diverge for Synthesized Agent Speech in Customer-Service Calls**|Jeffrey M. Girard et.al.|[2611.16051](http://arxiv.org/abs/2611.16051)|null|
