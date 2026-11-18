@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Balancing Exploration and Exploitation in Constrained Combinatorial Optimization with U(1)-Symmetric Tensor Trains**|Sergei Iudin et.al.|[2611.22557](http://arxiv.org/abs/2611.22557)|null|
 |**2026-11-16**|**A necessary regularity condition for finite-time stopping of the string with dry friction**|Alain Haraux et.al.|[2611.21213](http://arxiv.org/abs/2611.21213)|null|
 |**2026-11-16**|**Lived Experiences of Power and Agency: Achieving Voice Sovereignty in Assistive Speech Technology for Nonbinary Users**|Maxwell Hope et.al.|[2611.20858](http://arxiv.org/abs/2611.20858)|null|
 |**2026-11-16**|**No-Shot Text-to-Speech: Limitations of Zero-Shot TTS and its Evaluation Methods in Representing Queer and Transgender Voices**|Juliana Francis et.al.|[2611.20822](http://arxiv.org/abs/2611.20822)|null|
