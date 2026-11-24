@@ -14,10 +14,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech**|Tianyi Huang et.al.|[2611.31101](http://arxiv.org/abs/2611.31101)|null|
+|**2026-11-23**|**Beyond Self-Consistency: Recursive Self-Improvement at Test Time**|Jianyu Wu et.al.|[2611.30965](http://arxiv.org/abs/2611.30965)|null|
+|**2026-11-23**|**SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States**|Kiyoshi Kurihara et.al.|[2611.30927](http://arxiv.org/abs/2611.30927)|null|
+|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
+|**2026-11-23**|**Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation**|Nur Yağmur Tuncer et.al.|[2611.30694](http://arxiv.org/abs/2611.30694)|null|
+|**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
+|**2026-11-23**|**EdgeALM: An Efficient and Unified Edge Accelerator for Large Audio Language Models via Full-Stack Hardware-Software Co-Design and Agent-Driven Recursive Optimization**|Chenglin Yang et.al.|[2611.30216](http://arxiv.org/abs/2611.30216)|null|
+|**2026-11-23**|**Ultrasound Watermark: Real-time Acoustic Watermarking against Voice Scams on Smartphones**|Renzhi Hao et.al.|[2611.30106](http://arxiv.org/abs/2611.30106)|null|
+|**2026-11-23**|**Scoring L2 Pronunciation Without Synthesis: Counterfactual Velocity Contrast in Frozen Flow-Matching TTS**|Zehan Liu et.al.|[2611.29985](http://arxiv.org/abs/2611.29985)|null|
+|**2026-11-22**|**PAWP-TTS: Phoneme-Aware Weight Programming for Compact Bilingual English-Nepali Speech Synthesis**|Firoj Paudel et.al.|[2611.29455](http://arxiv.org/abs/2611.29455)|null|
+|**2026-11-22**|**Tenlai-TTS 2.0: Continuous-Representation LLM-Based TTS System with End-to-End Training**|Changfeng Gao et.al.|[2611.29226](http://arxiv.org/abs/2611.29226)|null|
+|**2026-11-22**|**A Hyper-Reduced Reduced Order Model Built From Streaming Tensor Train Data**|Xiaoshan Wu et.al.|[2611.29190](http://arxiv.org/abs/2611.29190)|null|
+|**2026-11-21**|**Probing tensor-polarized gluon TMDs through \texorpdfstring{ $J/ψ$ }{J/psi} electroproduction off the deuteron**|Xiupeng Xie et.al.|[2611.28626](http://arxiv.org/abs/2611.28626)|null|
 |**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784](http://arxiv.org/abs/2611.27784)|null|
 |**2026-11-20**|**PromptTTSD: Controllable Text to Spoken Dialogue Synthesis with Open-Ended Text Descriptions**|Sulong Yang et.al.|[2611.27601](http://arxiv.org/abs/2611.27601)|null|
 |**2026-11-20**|**Neural Defend Ranks #1 in Global Audio Deepfake Detection Benchmark - ARCAS on the Podonos Independent Leaderboard**|Sivashankar Selvarajan et.al.|[2611.27215](http://arxiv.org/abs/2611.27215)|null|
 |**2026-11-20**|**EAF-TTS: Rethinking Codec-Latent Coordinates for Flow TTS**|Yumiao Li et.al.|[2611.27214](http://arxiv.org/abs/2611.27214)|null|
+|**2026-11-20**|**Preserving Prosody in Speaker Anonymization**|Kevin Everson et.al.|[2611.28290](http://arxiv.org/abs/2611.28290)|null|
+|**2026-11-20**|**Unveiling the low- and high-energy frontier: a simultaneous SMEFT-PDF fit with parity violation**|Ella Cole et.al.|[2611.28216](http://arxiv.org/abs/2611.28216)|null|
 |**2026-11-19**|**Real Principal-Minor Detectors: Normal Forms and Regular Parity Lifts**|Qingying Deng et.al.|[2611.25715](http://arxiv.org/abs/2611.25715)|null|
 |**2026-11-19**|**DRVEXO-4B-Unified: Design and Evaluation of a Modular Speech-Vision System**|Zeyuan Li et.al.|[2611.25521](http://arxiv.org/abs/2611.25521)|null|
 |**2026-11-18**|**Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance**|Téo Guichoux et.al.|[2611.24862](http://arxiv.org/abs/2611.24862)|null|
