@@ -1,4 +1,4 @@
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-24**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
+|**2026-11-24**|**Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions**|Sascha H. Hauck et.al.|[2611.32968](http://arxiv.org/abs/2611.32968)|null|
+|**2026-11-24**|**Exact Solutions and a Critical-Damping Threshold for a Nonlinear Transport-Wave Equation**|Sameh Gana et.al.|[2611.32346](http://arxiv.org/abs/2611.32346)|null|
+|**2026-11-24**|**Putting a Robot on a Phone Call: Layered Signaling, Bounded Occupancy and Turn Arbitration over WebRTC**|Zheyuan Zhang et.al.|[2611.32308](http://arxiv.org/abs/2611.32308)|null|
 |**2026-11-23**|**SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech**|Tianyi Huang et.al.|[2611.31101](http://arxiv.org/abs/2611.31101)|null|
 |**2026-11-23**|**Beyond Self-Consistency: Recursive Self-Improvement at Test Time**|Jianyu Wu et.al.|[2611.30965](http://arxiv.org/abs/2611.30965)|null|
 |**2026-11-23**|**SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States**|Kiyoshi Kurihara et.al.|[2611.30927](http://arxiv.org/abs/2611.30927)|null|
-|**2026-11-23**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
 |**2026-11-23**|**Synthetic Twins: Closing the Gap Between TTS Test Sets and Real Recordings in Turkish ASR Evaluation**|Nur Yağmur Tuncer et.al.|[2611.30694](http://arxiv.org/abs/2611.30694)|null|
 |**2026-11-23**|**SonicRender: Structured and Time-Grounded Rendering of Multi-Event Audio Scene Generation**|Yunrui Cai et.al.|[2611.30241](http://arxiv.org/abs/2611.30241)|null|
 |**2026-11-23**|**EdgeALM: An Efficient and Unified Edge Accelerator for Large Audio Language Models via Full-Stack Hardware-Software Co-Design and Agent-Driven Recursive Optimization**|Chenglin Yang et.al.|[2611.30216](http://arxiv.org/abs/2611.30216)|null|
@@ -2823,5 +2826,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261124>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
 
