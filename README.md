@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,10 +14,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**An Embedded Ergonomic Posture Monitoring and AI-Assisted Home Learning System on a Raspberry Pi 3B Edge Platform**|Truyen T. Le et.al.|[2611.34669](http://arxiv.org/abs/2611.34669)|null|
+|**2026-11-25**|**TigerTTS: Draft-Guided Multi-Frame Parallel Speech-Token Language Model for Fast and Robust Text-to-Speech**|Dewei Kong et.al.|[2611.34241](http://arxiv.org/abs/2611.34241)|null|
+|**2026-11-25**|**InstructTTS-OPD: On-Policy Distillation for Multi-Objective Instruction-Following TTS**|Haitao Li et.al.|[2611.33937](http://arxiv.org/abs/2611.33937)|null|
+|**2026-11-25**|**Evaluating Cine and Tagged MRI-to-Speech Synthesis with Complementary Metrics and MRI-Free Controls**|Karlo Vrancic et.al.|[2611.33786](http://arxiv.org/abs/2611.33786)|null|
+|**2026-11-25**|**Development of a low-level radio frequency system for remote in situ superconducting radio frequency cavity measurements and calibrations in conduction-cooling systems**|C. Lim et.al.|[2611.33680](http://arxiv.org/abs/2611.33680)|null|
 |**2026-11-24**|**BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models**|Y. Lu et.al.|[2611.30723](http://arxiv.org/abs/2611.30723)|null|
 |**2026-11-24**|**Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions**|Sascha H. Hauck et.al.|[2611.32968](http://arxiv.org/abs/2611.32968)|null|
 |**2026-11-24**|**Exact Solutions and a Critical-Damping Threshold for a Nonlinear Transport-Wave Equation**|Sameh Gana et.al.|[2611.32346](http://arxiv.org/abs/2611.32346)|null|
 |**2026-11-24**|**Putting a Robot on a Phone Call: Layered Signaling, Bounded Occupancy and Turn Arbitration over WebRTC**|Zheyuan Zhang et.al.|[2611.32308](http://arxiv.org/abs/2611.32308)|null|
+|**2026-11-24**|**Adaptive Blockwise Tensor Trains for Stochastic Finite-Volume Methods with Uncertain Geometry**|William P. Gammel et.al.|[2611.33529](http://arxiv.org/abs/2611.33529)|null|
+|**2026-11-24**|**NuSrcAgent: An AI Agent for High-Energy Neutrino Source Searches**|Bei Zhou et.al.|[2611.33324](http://arxiv.org/abs/2611.33324)|null|
 |**2026-11-23**|**SayWhen: Set-Valued Semantic Commitment for Low-Regret Early Speech**|Tianyi Huang et.al.|[2611.31101](http://arxiv.org/abs/2611.31101)|null|
 |**2026-11-23**|**Beyond Self-Consistency: Recursive Self-Improvement at Test Time**|Jianyu Wu et.al.|[2611.30965](http://arxiv.org/abs/2611.30965)|null|
 |**2026-11-23**|**SpeechSplice: Pronunciation Control in Encoder-Decoder LLM-based TTS by Replacing Encoder Hidden States**|Kiyoshi Kurihara et.al.|[2611.30927](http://arxiv.org/abs/2611.30927)|null|
@@ -2826,5 +2833,5 @@
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
 
-<p align=right>(<a href=#updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261126>back to top</a>)</p>
 
